@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCSS",
+            "pageNo": "52",
+            "question": "What is the metering valve rate feedback an indication of?",
+            "Options": [
+              "The fuel metering valve as it moves horizontally in the metering valve orifice.",
+              "The fuel metering valve as it moves up and down in the metering valve orifice.",
+              "The fuel metering valve as it does not move in the metering valve orifice.",
+              "The fuel metering valve as it moves laterally in the metering valve orifice"
+            ],
+            "correctAnswer": "2",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The fuel metering valve as it moves up and down in the metering valve orifice.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;The fuel metering valve as it moves up and down in the metering valve orifice.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

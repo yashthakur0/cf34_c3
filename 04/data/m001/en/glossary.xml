@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<data> 
+<alphabet letter = "A">
+	<word><![CDATA[A/C]]></word> 
+	<description><![CDATA[<p>Aircraft</p>]]></description>
+	<word><![CDATA[AC]]></word> 
+	<description><![CDATA[<p>Alternating Current</p>]]></description>
+	<word><![CDATA[ACC]]></word> 
+	<description><![CDATA[<p>Active Clearance Control</p>]]></description>
+	<word><![CDATA[ACE]]></word> 
+	<description><![CDATA[<p>Actuator Control Electronic</p>]]></description>
+	<word><![CDATA[ACARS]]></word> 
+	<description><![CDATA[<p>Aircraft Communication Addressing and Reporting System</p>]]></description>
+	<word><![CDATA[ADM]]></word> 
+	<description><![CDATA[<p>Air Data Module</p>]]></description>
+	<word><![CDATA[ADRF]]></word> 
+	<description><![CDATA[<p>Air Data Reference Function</p>]]></description>
+	<word><![CDATA[ADRS]]></word> 
+	<description><![CDATA[<p>Air Data Reference System</p>]]></description>
+	<word><![CDATA[AFDX]]></word> 
+	<description><![CDATA[<p>Avionics Full Duplex Ethernet</p>]]></description>
+	<word><![CDATA[AGB]]></word> 
+	<description><![CDATA[<p>Accessory Gear Box</p>]]></description>
+	<word><![CDATA[ALF]]></word> 
+	<description><![CDATA[<p>Aft Looking Forward</p>]]></description>
+	<word><![CDATA[ANSI]]></word> 
+	<description><![CDATA[<p>American National Safety Institute</p>]]></description>
+	<word><![CDATA[AMI]]></word> 
+	<description><![CDATA[<p>Airline Modifiable Information</p>]]></description>
+	<word><![CDATA[AMM]]></word> 
+	<description><![CDATA[<p>Aircraft Maintenance Manual</p>]]></description>
+	<word><![CDATA[AOSC]]></word> 
+	<description><![CDATA[<p>Air Oil Surface Cooler</p>]]></description>
+	<word><![CDATA[APU]]></word> 
+	<description><![CDATA[<p>Auxiliary Power Unit</p>]]></description>
+	<word><![CDATA[ARINC]]></word> 
+	<description><![CDATA[<p>Aeronautical Radio Incorporated</p>]]></description>
+	<word><![CDATA[ARP]]></word> 
+	<description><![CDATA[<p>Aerospace Recommended Practice</p>]]></description>
+	<word><![CDATA[AS]]></word> 
+	<description><![CDATA[<p>Application Software</p>]]></description>
+	<word><![CDATA[ASM]]></word> 
+	<description><![CDATA[<p>Application Specific Module</p>]]></description>
+	<word><![CDATA[ASTM]]></word> 
+	<description><![CDATA[<p>American Society for Testing and Materials</p>]]></description>
+	<word><![CDATA[ATA]]></word> 
+	<description><![CDATA[<p>Airline Transportation Association</p>]]></description>
+	<word><![CDATA[ATC]]></word> 
+	<description><![CDATA[<p>Air Traffic Control</p>]]></description>
+	<word><![CDATA[AUX]]></word> 
+	<description><![CDATA[<p>Auxiliary</p>]]></description>
+	<word><![CDATA[AVM]]></word> 
+	<description><![CDATA[<p>Airborne Vibration Monitoring</p>]]></description>
+	<word><![CDATA[APR]]></word> 
+	<description><![CDATA[<p>Automatic Power Reserve</p>]]></description>
+	<word><![CDATA[AVMU]]></word> 
+	<description><![CDATA[<p>Airborne Vibration Monitoring Unit</p>]]></description>
+	<word><![CDATA[ATS]]></word> 
+	<description><![CDATA[<p>Air Turbine Starter</p>]]></description>
+</alphabet> 
+<alphabet letter = "B"> 
+	<word><![CDATA[BB]]></word> 
+	<description><![CDATA[<p>Broad-Band</p>]]></description>
+	<word><![CDATA[BIT]]></word> 
+	<description><![CDATA[<p>Built-in Test</p>]]></description>
+	<word><![CDATA[BITE]]></word> 
+	<description><![CDATA[<p>Built-in Test Equipment</p>]]></description>
+	<word><![CDATA[BPCU]]></word> 
+	<description><![CDATA[<p>Bus Power Control Unit</p>]]></description>
+	<word><![CDATA[BPR]]></word> 
+	<description><![CDATA[<p>Bypass Ratio</p>]]></description>
+	<word><![CDATA[BSI]]></word> 
+	<description><![CDATA[<p>Borescope Inspection</p>]]></description></alphabet> 
+<alphabet letter = "C"> 
+	<word><![CDATA[C]]></word> 
+	<description><![CDATA[<p>Celsius</p>]]></description>
+	<word><![CDATA[CAC]]></word> 
+	<description><![CDATA[<p>Control Air Cooler</p>]]></description>
+	<word><![CDATA[CAN]]></word> 
+	<description><![CDATA[<p>Controller Area Network</p>]]></description>
+	<word><![CDATA[CAS]]></word> 
+	<description><![CDATA[<p>Calibrated Air Speed</p>]]></description>
+	<word><![CDATA[CB]]></word> 
+	<description><![CDATA[<p>Circuit Breaker</p>]]></description>
+	<word><![CDATA[CBIC]]></word> 
+	<description><![CDATA[<p>Circuit Breaker Indication Control</p>]]></description>
+	<word><![CDATA[CCC]]></word> 
+	<description><![CDATA[<p>Core Compartment Cooling</p>]]></description>
+	<word><![CDATA[CCD]]></word> 
+	<description><![CDATA[<p>Cursor Control Device</p>]]></description>
+	<word><![CDATA[CCN]]></word> 
+	<description><![CDATA[<p>Common Core Network</p>]]></description>
+	<word><![CDATA[CCR]]></word> 
+	<description><![CDATA[<p>Common Computing Resource</p>]]></description>
+	<word><![CDATA[CCS]]></word> 
+	<description><![CDATA[<p>Common Core System</p>]]></description>
+	<word><![CDATA[CCW]]></word> 
+	<description><![CDATA[<p>Counter-clockwise</p>]]></description>
+	<word><![CDATA[CDN]]></word> 
+	<description><![CDATA[<p>Combustor Diffuser Nozzle</p>]]></description>
+	<word><![CDATA[CDN]]></word> 
+	<description><![CDATA[<p>Common Data Network (Boeing)</p>]]></description>
+	<word><![CDATA[CDP]]></word> 
+	<description><![CDATA[<p>Compressor Discharge Pressure</p>]]></description>
+	<word><![CDATA[CDU]]></word> 
+	<description><![CDATA[<p>Control Display Unit</p>]]></description>
+	<word><![CDATA[CIS]]></word> 
+	<description><![CDATA[<p>Commonwealth of Independent States</p>]]></description>
+	<word><![CDATA[CIS]]></word> 
+	<description><![CDATA[<p>Crew Information Server (Boeing)</p>]]></description>
+	<word><![CDATA[CIS/MS]]></word> 
+	<description><![CDATA[<p>Crew Information Systems/Maintenance System</p>]]></description>
+	<word><![CDATA[CLB]]></word> 
+	<description><![CDATA[<p>Climb</p>]]></description>
+	<word><![CDATA[CLM]]></word> 
+	<description><![CDATA[<p>Component Level Model</p>]]></description>
+	<word><![CDATA[CMC]]></word> 
+	<description><![CDATA[<p>Central Maintenance Computer</p>]]></description>
+	<word><![CDATA[CMCF]]></word> 
+	<description><![CDATA[<p>Central Maintenance Computing Function</p>]]></description>
+	<word><![CDATA[CMCS]]></word> 
+	<description><![CDATA[<p>Central Maintenance Computing System</p>]]></description>
+	<word><![CDATA[CMS]]></word> 
+	<description><![CDATA[<p>Cabin Maintenance System</p>]]></description>
+	<word><![CDATA[CMSC]]></word> 
+	<description><![CDATA[<p>Common Motor Start Controller</p>]]></description>
+	<word><![CDATA[CNMF]]></word> 
+	<description><![CDATA[<p>Core Network Maintenance Function</p>]]></description>
+	<word><![CDATA[COTS]]></word> 
+	<description><![CDATA[<p>Commercial Off-The-Shelf</p>]]></description>
+	<word><![CDATA[CPFN]]></word> 
+	<description><![CDATA[<p>Control Pressure Fuel Nozzle</p>]]></description>
+	<word><![CDATA[CPM]]></word> 
+	<description><![CDATA[<p>Communication Processing Module</p>]]></description>
+	<word><![CDATA[CPU]]></word> 
+	<description><![CDATA[<p>Central Processing Unit</p>]]></description>
+	<word><![CDATA[CSS]]></word> 
+	<description><![CDATA[<p>Cabin Services System</p>]]></description>
+	<word><![CDATA[CW]]></word> 
+	<description><![CDATA[<p>Clockwise</p>]]></description>
+	<word><![CDATA[CWLU]]></word> 
+	<description><![CDATA[<p>Crew Wireless Local Area Network</p>]]></description>
+</alphabet> 
+<alphabet letter = "D">
+	<word><![CDATA[DB]]></word> 
+	<description><![CDATA[<p>Database</p>]]></description>
+	<word><![CDATA[DC]]></word> 
+	<description><![CDATA[<p>Direct Current</p>]]></description>
+	<word><![CDATA[DMS]]></word> 
+	<description><![CDATA[<p>Debris Monitoring System</p>]]></description>
+	<word><![CDATA[DP]]></word> 
+	<description><![CDATA[<p>Differential Pressure</p>]]></description>
+	<word><![CDATA[DSP]]></word> 
+	<description><![CDATA[<p>Display Select Panel</p>]]></description>
+	<word><![CDATA[DU]]></word> 
+	<description><![CDATA[<p>Display Unit</p>]]></description>
+</alphabet> 
+<alphabet letter = "E">
+	<word><![CDATA[EAI]]></word> 
+	<description><![CDATA[<p>Engine Anti-Ice</p>]]></description>
+	<word><![CDATA[EBU]]></word> 
+	<description><![CDATA[<p>Engine Build-Up</p>]]></description>
+	<word><![CDATA[ECA]]></word> 
+	<description><![CDATA[<p>Electronic Components Assembly</p>]]></description>
+	<word><![CDATA[ECD]]></word> 
+	<description><![CDATA[<p>Electronic Chip Detector</p>]]></description>
+	<word><![CDATA[ECL]]></word> 
+	<description><![CDATA[<p>Electronic Checklist</p>]]></description>
+	<word><![CDATA[ECS]]></word> 
+	<description><![CDATA[<p>Environmental Control System</p>]]></description>
+	<word><![CDATA[EDE]]></word> 
+	<description><![CDATA[<p>Error Detection Encoding</p>]]></description>
+	<word><![CDATA[EDP]]></word> 
+	<description><![CDATA[<p>Engine Driven Pump (Hydraulic)</p>]]></description>
+	<word><![CDATA[EEC]]></word> 
+	<description><![CDATA[<p>Electronic Engine Control</p>]]></description>
+	<word><![CDATA[EECS]]></word> 
+	<description><![CDATA[<p>Electronic Engine Control System</p>]]></description>
+	<word><![CDATA[EFIS]]></word> 
+	<description><![CDATA[<p>Electronic Flight Indicating System</p>]]></description>
+	<word><![CDATA[EFIS/DSP]]></word> 
+	<description><![CDATA[<p>Electronic Flight Indicating System/Display Select Panel</p>]]></description>
+	<word><![CDATA[EFB]]></word> 
+	<description><![CDATA[<p>Electronic Flight Bag</p>]]></description>
+	<word><![CDATA[EHM]]></word> 
+	<description><![CDATA[<p>Electronic Health Monitoring</p>]]></description>
+	<word><![CDATA[EHSV]]></word> 
+	<description><![CDATA[<p>Electro Hydraulic Servo Valve</p>]]></description>
+	<word><![CDATA[EICAS]]></word> 
+	<description><![CDATA[<p>Engine Indicating and Crew Alert System</p>]]></description>
+	<word><![CDATA[EGT]]></word> 
+	<description><![CDATA[<p>Exhaust Gas Temperature</p>]]></description>
+	<word><![CDATA[EMU]]></word> 
+	<description><![CDATA[<p>Engine Monitoring Unit</p>]]></description>
+	<word><![CDATA[EOS]]></word> 
+	<description><![CDATA[<p>Electronic Over Speed</p>]]></description>
+	<word><![CDATA[EPCS]]></word> 
+	<description><![CDATA[<p>Electronics Propulsion Control System</p>]]></description>
+	<word><![CDATA[ESIC]]></word> 
+	<description><![CDATA[<p>Electrical System Indications and Controls</p>]]></description>
+	<word><![CDATA[EU]]></word> 
+	<description><![CDATA[<p>Electronic Unit</p>]]></description>
+	<word><![CDATA[EMI]]></word> 
+	<description><![CDATA[<p>Electromagnetic Interference</p>]]></description>
+	<word><![CDATA[EVM]]></word> 
+	<description><![CDATA[<p>Engine Vibration Monirting System</p>]]></description>
+</alphabet> 
+<alphabet letter = "F">
+	<word><![CDATA[F]]></word> 
+	<description><![CDATA[<p>Fahrenheit (Degrees)</p>]]></description>
+	<word><![CDATA[FAA]]></word> 
+	<description><![CDATA[<p>Federal Aviation  Administration</p>]]></description>
+	<word><![CDATA[FADEC]]></word> 
+	<description><![CDATA[<p>Full Authority Digital Electronic Control</p>]]></description>
+	<word><![CDATA[FCE]]></word> 
+	<description><![CDATA[<p>Flight Control Electronics</p>]]></description>
+	<word><![CDATA[FCOC]]></word> 
+	<description><![CDATA[<p>Fuel Cooled Oil Cooler</p>]]></description>
+	<word><![CDATA[FCM]]></word> 
+	<description><![CDATA[<p>Flight Control Module</p>]]></description>
+	<word><![CDATA[FCSB]]></word> 
+	<description><![CDATA[<p>Fan Cowl Support Beam</p>]]></description>
+	<word><![CDATA[FD]]></word> 
+	<description><![CDATA[<p>Flight Deck</p>]]></description>
+	<word><![CDATA[FDCF]]></word> 
+	<description><![CDATA[<p>Flight Deck Communication Function</p>]]></description>
+	<word><![CDATA[FDCP]]></word> 
+	<description><![CDATA[<p>Flight Deck Control Panel</p>]]></description>
+	<word><![CDATA[FDE]]></word> 
+	<description><![CDATA[<p>Flight Deck Effect</p>]]></description>
+	<word><![CDATA[FFM]]></word> 
+	<description><![CDATA[<p>Fuel Flow Meter</p>]]></description>
+	<word><![CDATA[FHF]]></word> 
+	<description><![CDATA[<p>Fan Hub Frame</p>]]></description>
+	<word><![CDATA[FL]]></word> 
+	<description><![CDATA[<p>Flight Level</p>]]></description>
+	<word><![CDATA[FLA]]></word> 
+	<description><![CDATA[<p>Forward Looking Aft</p>]]></description>
+	<word><![CDATA[FMCF]]></word> 
+	<description><![CDATA[<p>Flight Management Computing Function</p>]]></description>
+	<word><![CDATA[FMF]]></word> 
+	<description><![CDATA[<p>Flight Management Function</p>]]></description>
+	<word><![CDATA[FMU]]></word> 
+	<description><![CDATA[<p>Fuel Metering Unit</p>]]></description>
+	<word><![CDATA[FMV]]></word> 
+	<description><![CDATA[<p>Fuel Metering Valve</p>]]></description>
+	<word><![CDATA[FOD]]></word> 
+	<description><![CDATA[<p>Foreign Object Damage</p>]]></description>
+	<word><![CDATA[FOHE]]></word> 
+	<description><![CDATA[<p>Fuel Oil Heat Exchanger</p>]]></description>
+	<word><![CDATA[FPV]]></word> 
+	<description><![CDATA[<p>Flight Path Vector</p>]]></description>
+	<word><![CDATA[FQIS]]></word> 
+	<description><![CDATA[<p>Fuel Quantity Indicating System</p>]]></description>
+	<word><![CDATA[FSM]]></word> 
+	<description><![CDATA[<p>File Server Module</p>]]></description>
+	<word><![CDATA[FSV]]></word> 
+	<description><![CDATA[<p>Flow Split Valve</p>]]></description>
+	<word><![CDATA[FTSP]]></word> 
+	<description><![CDATA[<p>File Transfer Service Protocol</p>]]></description>
+</alphabet> 
+<alphabet letter = "G"> 
+<word><![CDATA[GBST]]></word> 
+<description><![CDATA[<p>Ground-Based Software Tool</p>]]></description>
+<word><![CDATA[GCU]]></word> 
+<description><![CDATA[<p>Generator Control Unit</p>]]></description>
+<word><![CDATA[GE]]></word> 
+<description><![CDATA[<p>General Electric</p>]]></description>
+<word><![CDATA[GEAE]]></word> 
+<description><![CDATA[<p>General Electric Aircraft Engines</p>]]></description>
+<word><![CDATA[GG]]></word> 
+<description><![CDATA[<p>Graphics Generator</p>]]></description>
+<word><![CDATA[GMT]]></word> 
+<description><![CDATA[<p>Greenwich Mean Time</p>]]></description>
+<word><![CDATA[GNR]]></word> 
+<description><![CDATA[<p>Generator Neutral Relay</p>]]></description>
+<word><![CDATA[GOST]]></word> 
+<description><![CDATA[<p>Gosudarstvenii Standart (Russian Equivalent of ANSI)</p>]]></description>
+<word><![CDATA[GPM]]></word> 
+<description><![CDATA[<p>General Processor Module</p>]]></description>
+<word><![CDATA[GSE]]></word> 
+<description><![CDATA[<p>Ground Support Equipment</p>]]></description>
+</alphabet>
+<alphabet letter = "H">
+<word><![CDATA[HDD]]></word> 
+<description><![CDATA[<p>Head-Down Display</p>]]></description>
+<word><![CDATA[HP]]></word> 
+<description><![CDATA[<p>High Pressure</p>]]></description>
+<word><![CDATA[HPC]]></word> 
+<description><![CDATA[<p>High Pressure Compressor</p>]]></description>
+<word><![CDATA[HPCR]]></word> 
+<description><![CDATA[<p>High Pressure Compressor Rotor</p>]]></description>
+<word><![CDATA[HPCS]]></word> 
+<description><![CDATA[<p>High Pressure Compressor Stator</p>]]></description>
+<word><![CDATA[HPSOV]]></word> 
+<description><![CDATA[<p>High Pressure Shutoff Valve</p>]]></description>
+<word><![CDATA[HPT]]></word> 
+<description><![CDATA[<p>High Pressure Turbine</p>]]></description>
+<word><![CDATA[HPTACC]]></word> 
+<description><![CDATA[<p>High Pressure Turbine Active Clearance Control</p>]]></description>
+<word><![CDATA[HPTR]]></word> 
+<description><![CDATA[<p>High Pressure Turbine Rotor</p>]]></description>
+<word><![CDATA[HUD]]></word> 
+<description><![CDATA[<p>Head-Up Display</p>]]></description>
+<word><![CDATA[Hz]]></word> 
+<description><![CDATA[<p>Hertz</p>]]></description>
+</alphabet> 
+<alphabet letter = "I">
+<word><![CDATA[ID]]></word> 
+<description><![CDATA[<p>Identification</p>]]></description>
+<word><![CDATA[IDG]]></word> 
+<description><![CDATA[<p>Intergrated Drive Generator</p>]]></description>
+<word><![CDATA[IE]]></word> 
+<description><![CDATA[<p>Intelligent Engine</p>]]></description>
+<word><![CDATA[IGB]]></word> 
+<description><![CDATA[<p>Inlet Gearbox</p>]]></description>
+<word><![CDATA[IGV]]></word> 
+<description><![CDATA[<p>Inlet Guide Vanes</p>]]></description>
+<word><![CDATA[ITT]]></word> 
+<description><![CDATA[<p>Interturbine Temperature</p>]]></description>
+</alphabet> 
+<alphabet letter = "J"> 
+</alphabet> 
+<alphabet letter = "K">
+<word><![CDATA[KN]]></word> 
+<description><![CDATA[<p>Branded Hardware Logo</p>]]></description>
+<word><![CDATA[KP]]></word> 
+<description><![CDATA[<p>Branded Hardware Logo</p>]]></description>
+<word><![CDATA[KVA]]></word> 
+<description><![CDATA[<p>Kilovolt Amp</p>]]></description>
+</alphabet> 
+<alphabet letter = "L">
+<word><![CDATA[L]]></word> 
+<description><![CDATA[<p>Left</p>]]></description>
+<word><![CDATA[LAN]]></word> 
+<description><![CDATA[<p>Local Area Network</p>]]></description>
+<word><![CDATA[LCD]]></word> 
+<description><![CDATA[<p>Liquid Crystal Display</p>]]></description>
+<word><![CDATA[LDI]]></word> 
+<description><![CDATA[<p>Loadable Diagnostic Information</p>]]></description>
+<word><![CDATA[LFB]]></word> 
+<description><![CDATA[<p>Laminar Flow Bearing</p>]]></description>
+<word><![CDATA[LGAI]]></word> 
+<description><![CDATA[<p>Landing Gear Actuation Indication</p>]]></description>
+<word><![CDATA[LP]]></word> 
+<description><![CDATA[<p>Low Pressure</p>]]></description>
+<word><![CDATA[LRU]]></word> 
+<description><![CDATA[<p>Line Replaceable Unit</p>]]></description>
+<word><![CDATA[LPC]]></word> 
+<description><![CDATA[<p>Low Pressure Compressor</p>]]></description>
+<word><![CDATA[LPT]]></word> 
+<description><![CDATA[<p>Low Pressure Turbine</p>]]></description>
+<word><![CDATA[LPTACC]]></word> 
+<description><![CDATA[<p>Low Pressure Turbine Active Clearance Control</p>]]></description>
+<word><![CDATA[LVDT]]></word> 
+<description><![CDATA[<p>Linear Variable Differential Transducer</p>]]></description>
+</alphabet> 
+<alphabet letter = "M">
+<word><![CDATA[MCD]]></word> 
+<description><![CDATA[<p>Maintenance Control Display</p>]]></description>
+<word><![CDATA[MCDF]]></word> 
+<description><![CDATA[<p>Maintenance Control Display Function</p>]]></description>
+<word><![CDATA[MEDC]]></word> 
+<description><![CDATA[<p>Main Engine Data Concentrator</p>]]></description>
+<word><![CDATA[MFD]]></word> 
+<description><![CDATA[<p>Multi-Function Display</p>]]></description>
+<word><![CDATA[MFF]]></word> 
+<description><![CDATA[<p>Main Fuel Filter</p>]]></description>
+<word><![CDATA[MFK]]></word> 
+<description><![CDATA[<p>Multi-Function Keypad</p>]]></description>
+<word><![CDATA[MFP]]></word> 
+<description><![CDATA[<p>Main Fuel Pump</p>]]></description>
+<word><![CDATA[MIC]]></word> 
+<description><![CDATA[<p>Microphone</p>]]></description>
+<word><![CDATA[ML]]></word> 
+<description><![CDATA[<p>Maintenance Laptop</p>]]></description>
+<word><![CDATA[MMEL]]></word> 
+<description><![CDATA[<p>Master Minimum Equipment List</p>]]></description>
+<word><![CDATA[MMO]]></word> 
+<description><![CDATA[<p>Maintenance Memo</p>]]></description>
+<word><![CDATA[MPH]]></word> 
+<description><![CDATA[<p>Miles Per Hour (Speed)</p>]]></description>
+<word><![CDATA[MS]]></word> 
+<description><![CDATA[<p>Maintenance System</p>]]></description>
+<word><![CDATA[MSF]]></word> 
+<description><![CDATA[<p>Main Servo Fuel</p>]]></description>
+<word><![CDATA[MSF FOHE]]></word>
+ 
+<description><![CDATA[<p>Main and Servo Fuel; Fuel Oil Heat Exchanger</p>]]></description>
+<word><![CDATA[MFC]]></word> 
+<description><![CDATA[<p>Main Fuel Control</p>]]></description>
+</alphabet> 
+<alphabet letter = "N">
+<word><![CDATA[N1]]></word> 
+<description><![CDATA[<p>Speed of the Low Pressure Rotor (Fan)</p>]]></description>
+<word><![CDATA[N2]]></word> 
+<description><![CDATA[<p>Speed of the High Pressure Rotor (Core)</p>]]></description>
+<word><![CDATA[ND]]></word> 
+<description><![CDATA[<p>Navigation Display</p>]]></description>
+<word><![CDATA[NGS]]></word> 
+<description><![CDATA[<p>Nitrogen Generation System</p>]]></description>
+<word><![CDATA[NO(x)]]></word> 
+<description><![CDATA[<p>Oxides of Nitrogen</p>]]></description>
+<word><![CDATA[NVM]]></word> 
+<description><![CDATA[<p>Non-Volitile Memory</p>]]></description>
+<word><![CDATA[NACA]]></word><description><![CDATA[<p>National Advisory Committee for Aeronautics (replaced in 1958 by NASA)</p>]]></description>
+</alphabet> 
+<alphabet letter = "O">
+<word><![CDATA[OBEDS]]></word> 
+<description><![CDATA[<p>Onboard Boeing Distribution of Software</p>]]></description>
+<word><![CDATA[OD]]></word> 
+<description><![CDATA[<p>Outside Diameter</p>]]></description>
+<word><![CDATA[OEBS]]></word> 
+<description><![CDATA[<p>Onboard Engine Balancing System</p>]]></description>
+<word><![CDATA[OGV]]></word> 
+<description><![CDATA[<p>Outlet Guide Vane</p>]]></description>
+<word><![CDATA[OHMF]]></word> 
+<description><![CDATA[<p>Onboard Health Management Function</p>]]></description>
+<word><![CDATA[OHMS]]></word> 
+<description><![CDATA[<p>Onboard Health Management System</p>]]></description>
+<word><![CDATA[OPC]]></word> 
+<description><![CDATA[<p>Operational Program Configuration</p>]]></description>
+<word><![CDATA[OPS]]></word> 
+<description><![CDATA[<p>Operational Program Software</p>]]></description>
+<word><![CDATA[O/S]]></word> 
+<description><![CDATA[<p>Over-Speed</p>]]></description>
+<word><![CDATA[OS]]></word> 
+<description><![CDATA[<p>Operating Software</p>]]></description>
+<word><![CDATA[OSM]]></word> 
+<description><![CDATA[<p>Onboard Storage Management</p>]]></description>
+</alphabet> 
+<alphabet letter = "P">
+<word><![CDATA[P0]]></word> 
+<description><![CDATA[<p>Ambient Pressure</p>]]></description>
+<word><![CDATA[PLA]]></word> 
+<description><![CDATA[<p>Power Lever Angle</p>]]></description>
+<word><![CDATA[P25]]></word> 
+<description><![CDATA[<p>Compressor Inlet Pressure</p>]]></description>
+<word><![CDATA[PDS]]></word> 
+<description><![CDATA[<p>Primary Display System</p>]]></description>
+<word><![CDATA[PDOS]]></word> 
+<description><![CDATA[<p>Powered Door Opening System</p>]]></description>
+<word><![CDATA[PECS]]></word> 
+<description><![CDATA[<p>Power Electronics Cooling System</p>]]></description>
+<word><![CDATA[PFD]]></word> 
+<description><![CDATA[<p>Primary Flight Display</p>]]></description>
+<word><![CDATA[PMA]]></word> 
+<description><![CDATA[<p>Permanent Magnet Alternator</p>]]></description>
+<word><![CDATA[PRC]]></word> 
+<description><![CDATA[<p>Peoples Republic of China</p>]]></description>
+<word><![CDATA[PS3]]></word> 
+<description><![CDATA[<p>Static Compressor Discharge Pressure</p>]]></description>
+<word><![CDATA[PSI]]></word> 
+<description><![CDATA[<p>Pounds per Square Inch</p>]]></description>
+<word><![CDATA[PSIA]]></word> 
+<description><![CDATA[<p>Pounds per Square Inch Absolute</p>]]></description>
+<word><![CDATA[PSID]]></word> 
+<description><![CDATA[<p>Pounds per Square Inch Differential</p>]]></description>
+<word><![CDATA[PSIG]]></word> 
+<description><![CDATA[<p>Pounds per Square Inch Gage</p>]]></description>
+<word><![CDATA[PSM]]></word> 
+<description><![CDATA[<p>Power Supply Module</p>]]></description>
+<word><![CDATA[PT]]></word> 
+<description><![CDATA[<p>Total Pressure</p>]]></description>
+<word><![CDATA[PLA]]></word> 
+<description><![CDATA[<p>Power Lever Angle</p>]]></description>
+<word><![CDATA[PTO]]></word> 
+<description><![CDATA[<p>Power Takeoff Assembly</p>]]></description>
+</alphabet> 
+<alphabet letter = "Q">
+<word><![CDATA[QAD]]></word> 
+<description><![CDATA[<p>Quick Attach/Detach</p>]]></description>
+</alphabet> 
+<alphabet letter = "R">
+<word><![CDATA[R]]></word> 
+<description><![CDATA[<p>Right</p>]]></description>
+<word><![CDATA[RDC]]></word> 
+<description><![CDATA[<p>Remote Data Concentrator</p>]]></description>
+<word><![CDATA[RPDU]]></word> 
+<description><![CDATA[<p>Remote Power Distribution Unit</p>]]></description>
+<word><![CDATA[RPM]]></word> 
+<description><![CDATA[<p>Revolutions Per Minute</p>]]></description>
+<word><![CDATA[RTD]]></word> 
+<description><![CDATA[<p>Resistive Temperature Device</p>]]></description>
+<word><![CDATA[RTO]]></word> 
+<description><![CDATA[<p>Rejected Take-Off</p>]]></description>
+</alphabet> 
+<alphabet letter = "S">
+<word><![CDATA[SC]]></word> 
+<description><![CDATA[<p>Start Contactor</p>]]></description>
+<word><![CDATA[SCR]]></word> 
+<description><![CDATA[<p>Stable Climb</p>]]></description>
+<word><![CDATA[SFC]]></word> 
+<description><![CDATA[<p>Specific Fuel Consumption</p>]]></description>
+<word><![CDATA[SMT]]></word> 
+<description><![CDATA[<p>Scheduled Maintenance Task</p>]]></description>
+<word><![CDATA[S/O]]></word> 
+<description><![CDATA[<p>Shut-off</p>]]></description>
+<word><![CDATA[SRAM]]></word> 
+<description><![CDATA[<p>Static Random Access Memory</p>]]></description>
+<word><![CDATA[SVA]]></word> 
+<description><![CDATA[<p>Servo Valve Assembly</p>]]></description>
+</alphabet> 
+<alphabet letter = "T">
+<word><![CDATA[T2]]></word> 
+<description><![CDATA[<p>Fan Inlet Temperature</p>]]></description>
+<word><![CDATA[T2C]]></word> 
+<description><![CDATA[<p>Compressor Inlet Temperature</p>]]></description>
+<word><![CDATA[T/R]]></word> 
+<description><![CDATA[<p>Thrust Reverser</p>]]></description>
+<word><![CDATA[T12]]></word> 
+<description><![CDATA[<p>Fan Inlet Total Air Temperature</p>]]></description>
+<word><![CDATA[T25]]></word> 
+<description><![CDATA[<p>Compressor Inlet Temperature</p>]]></description>
+<word><![CDATA[T3]]></word> 
+<description><![CDATA[<p>Compressor Discharge Temperature</p>]]></description>
+<word><![CDATA[T48]]></word> 
+<description><![CDATA[<p>Exhaust Gas Path Temperature</p>]]></description>
+<word><![CDATA[TO]]></word> 
+<description><![CDATA[<p>Take-off</p>]]></description>
+<word><![CDATA[TOF]]></word> 
+<description><![CDATA[<p>Take-off Report</p>]]></description>
+<word><![CDATA[TAPS]]></word> 
+<description><![CDATA[<p>Twin Annular Premixing Swirler</p>]]></description>
+<word><![CDATA[TAMB]]></word> 
+<description><![CDATA[<p>Calculated Ambient Temperature</p>]]></description>
+<word><![CDATA[TAT]]></word> 
+<description><![CDATA[<p>Total Air Temperature</p>]]></description>
+<word><![CDATA[TBV]]></word> 
+<description><![CDATA[<p>Transient Bleed Valve</p>]]></description>
+<word><![CDATA[TCF]]></word> 
+<description><![CDATA[<p>Turbine Center Frame</p>]]></description>
+<word><![CDATA[TCM ]]></word> 
+<description><![CDATA[<p>Thrust Control Malfunction</p>]]></description>
+<word><![CDATA[TCMA]]></word> 
+<description><![CDATA[<p>Thrust Control Malfunction Accommodation</p>]]></description>
+<word><![CDATA[TCW]]></word> 
+<description><![CDATA[<p>Time Critical Warning</p>]]></description>
+<word><![CDATA[TGB]]></word> 
+<description><![CDATA[<p>Transfer Gear Box</p>]]></description>
+<word><![CDATA[TMF]]></word> 
+<description><![CDATA[<p>Thrust Management Function</p>]]></description>
+<word><![CDATA[TRA]]></word> 
+<description><![CDATA[<p>Throttle Resolver Angle</p>]]></description>
+<word><![CDATA[TRF]]></word> 
+<description><![CDATA[<p>Turbine Rear Frame</p>]]></description>
+<word><![CDATA[TW]]></word> 
+<description><![CDATA[<p>Terminal Wireless</p>]]></description>
+<word><![CDATA[TWLU]]></word> 
+<description><![CDATA[<p>Terminal Wireless Network Unit</p>]]></description>
+<word><![CDATA[T5.4]]></word> 
+<description><![CDATA[<p>Low Pressure Turbine Inlet Temperature(ITT)</p>]]></description>
+</alphabet> 
+<alphabet letter = "U">
+<word><![CDATA[UMS]]></word> 
+<description><![CDATA[<p>User Modifiable Software</p>]]></description>
+<word><![CDATA[USQ]]></word> 
+<description><![CDATA[<p>US Quarts</p>]]></description>
+<word><![CDATA[UTC]]></word> 
+<description><![CDATA[<p>Universal Time Coordinated</p>]]></description>
+</alphabet> 
+<alphabet letter = "V">
+<word><![CDATA[VAC]]></word> 
+<description><![CDATA[<p>Volts Alternating Current</p>]]></description>
+<word><![CDATA[VBV]]></word> 
+<description><![CDATA[<p>Variable Bleed Valve</p>]]></description>
+<word><![CDATA[VDC]]></word> 
+<description><![CDATA[<p>Volts Direct Current</p>]]></description>
+<word><![CDATA[VFSG]]></word> 
+<description><![CDATA[<p>Variable Frequency Starter Generator</p>]]></description>
+<word><![CDATA[VSM]]></word> 
+<description><![CDATA[<p>Vibration Signal Processing</p>]]></description>
+<word><![CDATA[VSR]]></word> 
+<description><![CDATA[<p>Variable Spiscous Rod</p>]]></description>
+<word><![CDATA[VSV]]></word> 
+<description><![CDATA[<p>Variable Stator Vane</p>]]></description>
+<word><![CDATA[VG]]></word> 
+<description><![CDATA[<p>Variable Geometry </p>]]></description>
+</alphabet> 
+<alphabet letter = "W">
+<word><![CDATA[WF]]></word> 
+<description><![CDATA[<p>Fuel Flow Rate</p>]]></description>
+<word><![CDATA[WEU]]></word> 
+<description><![CDATA[<p>Warning Electronic Unit</p>]]></description>
+</alphabet> 
+<alphabet letter = "X"> 
+</alphabet> 
+<alphabet letter = "Y"> 
+</alphabet> 
+<alphabet letter = "Z"> 
+</alphabet> </data>

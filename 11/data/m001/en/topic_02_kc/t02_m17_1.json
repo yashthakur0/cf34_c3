@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCSS",
+            "pageNo": "36",
+            "question": "The upper and lower portions has tracks for",
+            "Options": [
+              "The radial movement of the fixed core cowl",
+              "The axial movement of the thrust reverser mechanism",
+              "Integrated drive generator (IDG) oil cooler",
+              "Installation on the fixed core cowl"
+            ],
+            "correctAnswer": "2",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The axial movement of the thrust reverser mechanism&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;The axial movement of the thrust reverser mechanism&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

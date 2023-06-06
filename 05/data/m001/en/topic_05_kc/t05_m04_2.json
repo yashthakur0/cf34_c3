@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCMS",
+            "pageNo": "08",
+            "question": "Identify the purposes of Air Starter Valve?",
+            "Options": [
+              "To supply air at the required and constant pressure to the ATS, irrespective of the inlet air pressure.",
+              "To cut off air supply to ATS as soon as the electrical solenoid valve assembly is de-energized.",
+              "To provide a path for the flow of 28 volt DC current from the battery to the air starter valve through the start relay.",
+              "To terminate the flow of current to the starter valve when the engine N2 reaches a value of approximately 55%."
+            ],
+            "correctAnswer": "1,2",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;To supply air at the required and constant pressure to the ATS, irrespective of the inlet air pressure, To cut off air supply to ATS as soon as the electrical solenoid valve assembly is de-energized.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;To supply air at the required and constant pressure to the ATS, irrespective of the inlet air pressure, To cut off air supply to ATS as soon as the electrical solenoid valve assembly is de-energized.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

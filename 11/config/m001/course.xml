@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<course>
+   <config>
+      <pagePath data="html/" data-en="" />
+      <mobilePrefix data="mob_" data-en="" />
+      <coureTitle data="CF34-3 General Familiarization Course" data-en="" />
+      <audioPath data="assets/audio/" data-en="" />
+      <commonaudioPath data="assets/audio/common/" data-en="" />
+      <imagePath data="assets/image/" data-en="" />
+      <videoPath data="assets/video/" data-en="" />
+      <dataPath data="data/" data-en="" />
+      <commonDataPath data="data/common/" data-en="" />
+      <scriptPath data="js/" data-en="" />
+      <cssPath data="css/" data-en="" />
+      <maindata data="main.json" data-en="" />
+      <resourcesEnable data="true" data-en="" />
+      <transcriptEnable data="true" data-en="" />
+      <learningType data="non-linear" data-en="" />
+      <commonJsPath data="js/common/templates/" data-en="" />
+   </config>
+   <structure>
+      <topic title="Maintenance Practices">
+
+         <module title="Replacement of the Fan Blades">
+            <page path="t11_m01_p00.html" audio="t11_m01_p00.mp3" data="tmp.json" styles="t11_m01_p00.css" scripts="staticpage.js" data-en="" title="Introduction" />
+            <page path="t11_m01_p01.html" audio="" data="tmp.json" styles="t11_m01_p01.css" scripts="videopage.js" data-en="" title="Step 1" />
+            <page path="t11_m01_p02.html" audio="" data="tmp.json" styles="t11_m01_p02.css" scripts="videopage.js" data-en="" title="Step 2" />
+            <page path="t11_m01_p03.html" audio="" data="tmp.json" styles="t11_m01_p03.css" scripts="videopage.js" data-en="" title="Step 3" />
+            <page path="t11_m01_p04.html" audio="" data="tmp.json" styles="t11_m01_p04.css" scripts="videopage.js" data-en="" title="Step 4" />
+            <page path="t11_m01_p05.html" audio="" data="tmp.json" styles="t11_m01_p05.css" scripts="videopage.js" data-en="" title="Step 5" />
+            <page path="t11_m01_p06.html" audio="" data="tmp.json" styles="t11_m01_p06.css" scripts="videopage.js" data-en="" title="Step 6" />
+            <page path="t11_m01_p07.html" audio="" data="tmp.json" styles="t11_m01_p07.css" scripts="videopage.js" data-en="" title="Step 7" />
+            <page path="t11_m01_p08.html" audio="" data="tmp.json" styles="t11_m01_p08.css" scripts="videopage.js" data-en="" title="Step 8" />
+            <page path="t11_m01_p09.html" audio="" data="tmp.json" styles="t11_m01_p09.css" scripts="videopage.js" data-en="" title="Step 9" />
+            <page path="t11_m01_p10.html" audio="" data="tmp.json" styles="t11_m01_p10.css" scripts="videopage.js" data-en="" title="Step 10" />
+            <page path="t11_m01_p11.html" audio="" data="tmp.json" styles="t11_m01_p11.css" scripts="videopage.js" data-en="" title="Step 11" />
+            <page path="t11_m01_p12.html" audio="" data="tmp.json" styles="t11_m01_p12.css" scripts="videopage.js" data-en="" title="Step 12" />
+            <page path="t11_m01_p13.html" audio="" data="tmp.json" styles="t11_m01_p13.css" scripts="videopage.js" data-en="" title="Steps 13 and 14" />
+            <page path="t11_m01_p15.html" audio="" data="tmp.json" styles="t11_m01_p14.css" scripts="videopage.js" data-en="" title="Step 15" />
+            <page path="t11_m01_p16.html" audio="" data="tmp.json" styles="t11_m01_p15.css" scripts="videopage.js" data-en="" title="Step 16" />
+            <page path="t11_m01_p17.html" audio="" data="tmp.json" styles="t11_m01_p16.css" scripts="videopage.js" data-en="" title="Step 17" />
+            <page path="t11_m01_p18.html" audio="" data="tmp.json" styles="t11_m01_p17.css" scripts="videopage.js" data-en="" title="Step 18" />
+            <page path="t11_m01_p19.html" audio="" data="tmp.json" styles="t11_m01_p18.css" scripts="videopage.js" data-en="" title="Step 19" />
+            <page path="t11_m01_p20.html" audio="" data="tmp.json" styles="t11_m01_p19.css" scripts="videopage.js" data-en="" title="Step 20" />
+            <page path="t11_m01_p21.html" audio="" data="tmp.json" styles="t11_m01_p20.css" scripts="videopage.js" data-en="" title="Step 21" />
+            <page path="t11_m01_p22.html" audio="" data="tmp.json" styles="t11_m01_p21.css" scripts="videopage.js" data-en="" title="Step 22" />
+            <page path="t11_m01_p23.html" audio="" data="tmp.json" styles="t11_m01_p22.css" scripts="videopage.js" data-en="" title="Step 23" />
+            <page path="t11_m01_p24.html" audio="" data="tmp.json" styles="t11_m01_p23.css" scripts="videopage.js" data-en="" title="Step 24" />
+         </module>
+      </topic>
+   </structure>
+</course>

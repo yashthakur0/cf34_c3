@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCMS",
+            "pageNo": "36",
+            "question": "Which of the following are the functions of the N1 control amplifier?",
+            "Options": [
+              "Provides N1, N2, and auxiliary power reserve (APR) indications to the cockpit.",
+              "Provides the torque motor with an error signal to increase N1 by 169 rpm in the event of an engine failure during take off.",
+              "Control fan speed as a function of PLA and T2, when N2 is above 79.1%, by controlling the fuel flow across the metering valve through the MFC torquemotor.",
+              "The N1 control system establishes indirect control over N1 and cannot make sure at high power settings, N1 is varied as a function of PLA and T2."
+            ],
+            "correctAnswer": "1,2,3",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Provides N1, N2, and auxiliary power reserve (APR) indications to the cockpit, Provides the torque motor with an error signal to increase N1 by 169 rpm in the event of an engine failure during take off, Control fan speed as a function of PLA and T2, when N2 is above 79.1%, by controlling the fuel flow across the metering valve through the MFC torquemotor.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Provides N1, N2, and auxiliary power reserve (APR) indications to the cockpit, Provides the torque motor with an error signal to increase N1 by 169 rpm in the event of an engine failure during take off, Control fan speed as a function of PLA and T2, when N2 is above 79.1%, by controlling the fuel flow across the metering valve through the MFC torquemotor.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCMS",
+            "pageNo": "17",
+            "question": "Identify the components of the Main Lube And Scavenge Pump.",
+            "Options": [
+              "An oil filter, held in the pump by a filter housing threaded into a steel insert.",
+              "A system relief valve.",
+              "An oil filter bypass valve",
+              "An anti-leak check valve"
+            ],
+            "correctAnswer": "1,2,3,4",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;An oil filter, held in the pump by a filter housing threaded into a steel insert, A system relief valve, An oil filter bypass valve, An anti-leak check valve&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;An oil filter, held in the pump by a filter housing threaded into a steel insert, A system relief valve, An oil filter bypass valve, An anti-leak check valve&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

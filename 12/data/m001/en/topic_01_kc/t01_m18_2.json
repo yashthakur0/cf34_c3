@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCSS",
+            "pageNo": "39",
+            "question": "Air enters the transition assembly, passing through the",
+            "Options": [
+              "LPT rotor assemble and into the stage 3 rotor blades",
+              "Stage 3 nozzle and No.7 bearing",
+              "Stage 3 nozzle and into the stage 3 rotor blades",
+              "Stage 3 nozzle and exhaust frame"
+            ],
+            "correctAnswer": "3",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Stage 3 nozzle and into the stage 3 rotor blades&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;Stage 3 nozzle and into the stage 3 rotor blades&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

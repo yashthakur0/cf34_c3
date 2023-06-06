@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCSS",
+            "pageNo": "51",
+            "question": "How are LVDT and PLA related?",
+            "Options": [
+              "The LVDT input is to provide the N1 control amplifier with an electrical signal that is an indication of the actual value of PLA.",
+              "The LVDT input is to provide the N2 control amplifier with a mechanical signal that is the actual value of PLA.",
+              "The LVDT output is to provide the N1 control amplifier with an electrical signal that is an indication of the approximate value of PLA.",
+              "The LVDT input is to deviate the N1 control amplifier with an electrical signal that is an indication of PLA."
+            ],
+            "correctAnswer": "1",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The LVDT input is to provide the N1 control amplifier with an electrical signal that is an indication of the actual value of PLA.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;The LVDT input is to provide the N1 control amplifier with an electrical signal that is an indication of the actual value of PLA.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

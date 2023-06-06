@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCSS",
+            "pageNo": "11",
+            "question": "Identify the incorrect statement with reference to the N2 governing system?",
+            "Options": [
+              "The N2 input to the MFC is transmitted through the power takeoff assembly, which is splined to the compressor rotor, radial drive shaft, the AGB, the fuel pump and finally the coupling shaft.",
+              "The coupling shaft rotates two bevel gears and the flyweights.",
+              "The outward movement is enhanced by the force of the speeder spring that is being compressed by the cam follower and the N2 throttle cam.",
+              "Any movement of the flyweights positions a pilot valve in the N2 governor servo which controls the opening and closing of the metering valve."
+            ],
+            "correctAnswer": "3",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The outward movement is enhanced by the force of the speeder spring that is being compressed by the cam follower and the N2 throttle cam.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;The outward movement is enhanced by the force of the speeder spring that is being compressed by the cam follower and the N2 throttle cam.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

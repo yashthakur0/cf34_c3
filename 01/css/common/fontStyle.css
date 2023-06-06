@@ -1,0 +1,339 @@
+/*@font-face {
+	font-family: 'Conv_HelveticaNeueLTStd-Lt_0';
+	src: url('fonts/HelveticaNeueLTStd-Lt_0.svg') format('svg'),  url('fonts/HelveticaNeueLTStd-Lt_0.eot') format('embedded-opentype'),  url('fonts/HelveticaNeueLTStd-Lt_0.woff') format('woff'),  url('fonts/HelveticaNeueLTStd-Lt_0.ttf') format('truetype'),;
+	font-weight: normal;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+*/
+
+/*
+@font-face {
+	font-family: 'latoregular';
+	src: url('fonts/lato-regular-webfont.woff2') format('woff2'),
+	url('fonts/lato-regular-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+
+}
+@font-face {
+	font-family: 'open_sansregular';
+	src: url('fonts/opensans-regular-webfont.woff2') format('woff2'),
+	url('fonts/opensans-regular-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal
+}
+@font-face {
+	font-family: 'open_sanssemibold';
+	src: url('fonts/opensans-semibold-webfont.woff2') format('woff2'),
+	url('fonts/opensans-semibold-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+
+}*/
+@font-face {
+	font-family: 'open_sansregular';
+	src: url('fonts/ge/GEInspiraSans-Regular.eot');
+	src: url('fonts/ge/GEInspiraSans-Regular.eot?#iefix') format('embedded-opentype'),  url('fonts/ge/GEInspiraSans-Regular.woff2') format('woff2'),  url('fonts/ge/GEInspiraSans-Regular.woff') format('woff'),  url('fonts/ge/GEInspiraSans-Regular.ttf') format('truetype'),  url('fonts/ge/GEInspiraSans-Regular.svg#GEInspiraSans-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'GEInspiraSans-Regular';
+	src: url('fonts/ge/GEInspiraSans-Regular.eot');
+	src: url('fonts/ge/GEInspiraSans-Regular.eot?#iefix') format('embedded-opentype'),  url('fonts/ge/GEInspiraSans-Regular.woff2') format('woff2'),  url('fonts/ge/GEInspiraSans-Regular.woff') format('woff'),  url('fonts/ge/GEInspiraSans-Regular.ttf') format('truetype'),  url('fonts/ge/GEInspiraSans-Regular.svg#GEInspiraSans-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'GEInspiraSans-Bold';
+	src: url('fonts/ge/GEInspiraSans-Bold.eot');
+	src: url('fonts/ge/GEInspiraSans-Bold.eot?#iefix') format('embedded-opentype'),  url('fonts/ge/GEInspiraSans-Bold.woff2') format('woff2'),  url('fonts/ge/GEInspiraSans-Bold.woff') format('woff'),  url('fonts/ge/GEInspiraSans-Bold.ttf') format('truetype'),  url('fonts/ge/GEInspiraSans-Bold.svg#GEInspiraSans-Bold') format('svg');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'icomoon';
+	src: url('fonts/icomoon.eot?yyw8pn');
+	src: url('fonts/icomoon.eot?yyw8pn#iefix') format('embedded-opentype'),  url('fonts/icomoon.ttf?yyw8pn') format('truetype'),  url('fonts/icomoon.woff?yyw8pn') format('woff'),  url('fonts/icomoon.svg?yyw8pn#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'icomoon' !important;
+	speak: never;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+  /* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icon-reload:before {
+	content: "\e920";
+}
+
+.icon-power-button:before {
+	content: "\e916";
+}
+
+.icon-ge-back:before {
+	content: "\e90e";
+}
+
+.icon-ge-close:before {
+	content: "\e90f";
+}
+
+.icon-ge-glossary:before {
+	content: "\e910";
+}
+
+.icon-ge-help:before {
+	content: "\e911";
+}
+
+.icon-ge-home:before {
+	content: "\e912";
+}
+
+.icon-ge-menu:before {
+	content: "\e913";
+}
+
+.icon-ge-next:before {
+	content: "\e914";
+}
+
+.icon-ge-time:before {
+	content: "\e915";
+}
+
+.icon-back:before {
+	content: "\e902";
+}
+
+.icon-close:before {
+	content: "\e903";
+}
+
+.icon-glossary:before {
+	content: "\e904";
+}
+
+.icon-help:before {
+	content: "\e905";
+}
+
+.icon-menu:before {
+	content: "\e906";
+}
+
+.icon-minus_close:before {
+	content: "\e907";
+}
+
+.icon-next:before {
+	content: "\e908";
+}
+
+.icon-play:before {
+	content: "\e909";
+}
+
+.icon-pouse:before {
+	content: "\e90a";
+}
+
+.icon-replay:before {
+	content: "\e90b";
+}
+
+.icon-resources:before {
+	content: "\e90c";
+}
+
+.icon-transcript:before {
+	content: "\e90d";
+}
+
+.icon-help_t00_1:before {
+	content: "\e917";
+}
+
+.icon-new_icon-ge-glossary:before {
+	content: "\e918";
+}
+
+.icon-new_icon-ge-help:before {
+	content: "\e919";
+}
+
+.icon-new_icon-ge-home:before {
+	content: "\e91a";
+}
+
+.icon-new_icon-ge-menu:before {
+	content: "\e91b";
+}
+
+.icon-new_icon-help_t00_1:before {
+	content: "\e91c";
+}
+
+.icon-new_icon-power-button:before {
+	content: "\e91d";
+}
+
+.icon-right:before {
+	content: "\e613";
+}
+
+.icon-fullyCompleted:before {
+	content: "\e603";
+}
+
+.icon-notcompleted:before {
+	content: "\e604";
+}
+
+.icon-sound_off:before {
+	content: "\e91e";
+}
+
+.icon-sound_on:before {
+	content: "\e91f";
+}
+
+.icon-audio_off:before {
+	content: "\e91e";
+	position: absolute;
+	left: 15px;
+}
+
+.icon-audio_on::before {
+	content: "\e91f";
+	position: absolute;
+	left: 15px;
+}
+/*
+
+.icon-partialcompleted:before {
+  content: "\e60b";
+}
+
+
+.icon-partialcompleted:before {
+  content: "\e60b";
+}
+
+
+
+
+.icon-partialcompleted:before {
+  content: "\e60b";
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Active.icon-fullyCompleted:before, .Active.icon-fullyCompleted:after, .icon-notcompleted:before {
+	color: #fff;
+}
+
+.list-group-submenu.shell_menu_page_container_style a:hover {
+	color: #2b4258 !important;
+}
+
+.list-group-submenu.shell_menu_page_container_style a.Active {
+	font-family: 'GEInspiraSans-Bold' !important;
+	cursor: default;
+}
+
+.list-group-submenu.shell_menu_page_container_style a.Active:hover {
+	font-family: 'GEInspiraSans-Bold' !important;
+	cursor: default;
+	color: #2671be !important;
+}
+
+.list-group-submenu.shell_menu_page_container_style a:hover:before, .list-group-submenu.shell_menu_page_container_style a:hover:after {
+}
+/*.icon-fullyCompleted:after {
+  content: "\e603";
+    font-size: 18px;
+    position: absolute;
+    right: 10px;
+    color: #258ecd;
+	font-family: 'icomoon';
+}*/
+
+.icon-fullyCompleted:hover:before {
+}
+
+.icon-notcompleted::before {
+	content: "\e604";
+	font-size: 18px;
+	position: absolute;
+	left: 10px;
+	color: #258ecd;
+	font-family: 'icomoon';
+}
+
+.icon-partialcompleted::after {
+	/*content: "\e60b";*/
+	font-size: 18px;
+	position: absolute;
+	right: 10px;
+	color: #258ecd;
+	font-family: 'icomoon';
+}
+
+.icon-partialcompleted::after {
+	content: "\e604";
+}
+
+#shell_mod_0_title.icon-partialcompleted::after, #shell_mod_0_title.icon-partialcompleted::before, #shell_mod_1_title.icon-partialcompleted::after, #shell_mod_1_title.icon-partialcompleted::before, #shell_mod_2_title.icon-partialcompleted::after, #shell_mod_2_title.icon-partialcompleted::before, #shell_mod_3_title.icon-partialcompleted::after, #shell_mod_3_title.icon-partialcompleted::before, #shell_mod_4_title.icon-partialcompleted::after, #shell_mod_4_title.icon-partialcompleted::before {
+}
+
+#shell_mod_0_title.icon-notcompleted::before, #shell_mod_1_title.icon-notcompleted::before, #shell_mod_2_title.icon-notcompleted::before,  #shell_mod_0_title.icon-fullyCompleted::after, #shell_mod_1_title.icon-fullyCompleted::after, #shell_mod_2_title.icon-fullyCompleted::after, #shell_mod_3_title.icon-fullyCompleted::after, #shell_mod_4_title.icon-fullyCompleted::after {
+}
+
+.head_active {
+	color: #cfef23 !important;
+}
+
+.playButton.play.icon-play.playing:before, .MobplayButton.play.icon-play.playing:before, .btnPlay.btn.paused:before {
+	content: "\e90a";
+}
+
+.playButton.play.icon-play:before, .MobplayButton.play.icon-play:before, .btnPlay:before {
+	content: "\e909";
+}
+
+.playButton.play.icon-play.replay:before, .MobplayButton.icon-play.play.replay:before {
+	content: "\e90b";
+}

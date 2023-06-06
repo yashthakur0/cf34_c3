@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCMS",
+            "pageNo": "11",
+            "question": "Identify the components of the engine oil tank from the following.",
+            "Options": [
+              "Oil fill cap and adapter",
+              "Tank pressurizing valve",
+              "Tank vent air out boss",
+              "Self closing valve"
+            ],
+            "correctAnswer": "1,2,3,4",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Oil fill cap and adapter, Tank pressurizing valve, Tank vent air out boss, Self closing valve&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;Oil fill cap and adapter, Tank pressurizing valve, Tank vent air out boss, Self closing valve&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

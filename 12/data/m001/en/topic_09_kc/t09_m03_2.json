@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCSS",
+            "pageNo": "06",
+            "question": "Which of the following is correct about the operation of the Oil Replenishment System?",
+            "Options": [
+              "When the panel switch is set to \"on\" and the selector valve is manually positioned for the proper engine, an electrical signal is sent to the transfer pump, starting the oil flow.",
+              "When the panel switch is set to \"on\" and the selector valve is manually positioned for the proper engine, an electrical signal is sent to the transfer pump, stopping the oil flow.",
+              "When the panel switch is set to \"off\" and the selector valve is automatically positioned for the proper engine, an electrical signal is sent to the transfer pump, starting the oil flow.",
+              "When the panel switch is set to \"on\" and the selector valve is manually positioned for the damaged engine, no electrical signal is sent to the transfer pump, starting the oil flow."
+            ],
+            "correctAnswer": "1",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;When the panel switch is set to \"on\" and the selector valve is manually positioned for the proper engine, an electrical signal is sent to the transfer pump, starting the oil flow.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;When the panel switch is set to \"on\" and the selector valve is manually positioned for the proper engine, an electrical signal is sent to the transfer pump, starting the oil flow.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

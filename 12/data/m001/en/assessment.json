@@ -1,0 +1,2734 @@
+{
+	"ExternalData":[
+		{
+			"Lesson_0":{
+				"questionsData":{
+					"questions_1":{
+						"qusType":"MCSS",
+						"question":"Which of the following statements is true?",
+						"Options":[
+							"2 major structural frames support the engine main line bearings in B and C-sumps.",
+							"1 major structural frame supports the engine main line bearings in A-sump.",
+							"3 major structural frames support the engine main line bearings in A, B and C-sumps.",
+							"3 major structural frames support the engine main line bearings in D, E and F-sumps."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;3 major structural frames support the engine main line bearings in A, B and C-sumps.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_2":{
+						"qusType":"MCSS",
+						"question":"Which of the following statements is true for the Compressor Front Frame?",
+						"Options":[
+							"At the 3 o'clock strut, seventh stage air pressure from the seal pressure regulating valve is passed through to pressurize carbon seals No. 1 and 3.",
+							"The 3 o'clock strut allows for A-sump oil supply, a seal drain to the drain mast, and passage of the radial drive shaft.",
+							"At the 3 o'clock strut, the air vented from the oil tank and air vented from the B-sump are sent through the strut into A-sump.",
+							"The 3 o'clock strut allows the N1 speed sensor access to the rotors."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;At the 3 o'clock strut, seventh stage air pressure from the seal pressure regulating valve is passed through to pressurize carbon seals No. 1 and 3.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_3":{
+						"qusType":"MCSS",
+						"question":"The exhaust frame assembly is",
+						"Options":[
+							"in front of the HPT module.",
+							"aft of the LPT module.",
+							"immediately aft of the PTO assembly.",
+							"at the front of the compressor module."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;aft of the LPT module.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_4":{
+						"qusType":"MCSS",
+						"question":"The exhaust frame assembly",
+						"Options":[
+							"provides the structural support to the A-sump",
+							"is part of the Combustion Module",
+							"contains the No 1, 2, and 3 bearings.",
+							"provides the structural support to the C-sump."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides the structural support to the C-sump.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_5":{
+						"qusType":"MCSS",
+						"question":"Which of the following statements is FALSE?",
+						"Options":[
+							"Bearings No.1 and 3 are ball bearings which absorb both axial and radial loads, and are the thrust bearings for the N1 and N2 rotor.",
+							"In B-sump both bearings, No. 4 and 5 are roller type and support the high pressure turbine and high pressure compressor rotor.",
+							"Bearings 1, 2 and 3 are located in C-sump.",
+							"C-sump bearings No. 6 and 7 also are both roller type and support the low pressure turne rotor."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Bearings 1, 2 and 3 are located in C-sump.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_6":{
+						"qusType":"MCSS",
+						"question":"The fan module",
+						"Options":[
+							"provides approximately 15 percent of the total engine thrust.",
+							"provides approximately 85 percent of the total engine thrust.",
+							"provides the space for mixing of fuel with air.",
+							"provides the rotational force to the fan rotor."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides approximately 85 percent of the total engine thrust.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_7":{
+						"qusType":"MCSS",
+						"question":"The fan rotor assembly",
+						"Options":[
+							"supplies air for the main thrust of the engine.",
+							"supplies the rotational force to rotate the fan rotor.",
+							"provides drive to various engine accessories.",
+							"provides space for mixing of atomized fuel with air."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;supplies air for the main thrust of the engine.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_8":{
+						"qusType":"MCSS",
+						"question":"The LPT rotor",
+						"Options":[
+							"directs and accelerates air to the HPT rotor.",
+							"is used to compress the air coming in, prior to entering the combustor.",
+							"provides the space for the proper mixing of the atomized fuel with air.",
+							"provides a rotational force to the fan rotor."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides a rotational force to the fan rotor.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_9":{
+						"qusType":"MCSS",
+						"question":"The fan disk",
+						"Options":[
+							"directs and accelerates air to the HPT rotor.",
+							"is connected to the  forward face of the  forward shaft",
+							"is used to compress the air coming in, prior to entering the combustor.",
+							"provides the space for the proper mixing of the atomized fuel with air."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;is connected to the  forward face of the  forward shaft&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_10":{
+						"qusType":"MCSS",
+						"question":"The PTO assembly, driven by the compressor forward shaft, provides rotational force to drive the accessories mounted on the",
+						"Options":[
+							"turbine transition assembly.",
+							"fan rotor assembly.",
+							"accessory gearbox (AGB).",
+							"LPT rotor assembly."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;accessory gearbox (AGB).&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_11":{
+						"qusType":"MCSS",
+						"question":"The PTO assembly is",
+						"Options":[
+							"splined to the compressor forward shaft in A-sump",
+							"at the forward side of the fan rotor assembly.",
+							"aft of the compressor rotor assembly.",
+							"aft of the turbine transition assembly."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;splined to the compressor forward shaft in A-sump&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_12":{
+						"qusType":"MCSS",
+						"question":"The compressor module",
+						"Options":[
+							"provides approximately 85 percent of the total engine thrust.",
+							"consists of the Compressor front frame, Compressor rotor assembly, Compressor stator assembly and the Power takeoff assembly.",
+							"provides the space for mixing of fuel with air.",
+							"provides the rotational force to the fan rotor."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;consists of the Compressor front frame, Compressor rotor assembly, Compressor stator assembly and the Power takeoff assembly.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_13":{
+						"qusType":"MCSS",
+						"question":"The compressor front frame",
+						"Options":[
+							"28 titanium alloy fan blades attached to the fan rotor disk.",
+							"provides a casing for the compressor rotor.",
+							"provides the rotational force to the fan rotor.",
+							"provides structural support to the three bearings located within the A-sump."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides structural support to the three bearings located within the A-sump.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_14":{
+						"qusType":"MCSS",
+						"question":"The compressor rotor assembly is used to",
+						"Options":[
+							"compress the air that comes in before it enters the fan rotor.",
+							"provide the rotational force to the fan rotor.",
+							"compress the air that comes in before it enters the combustor.",
+							"provide a casing to the HPT rotor assembly."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;compress the air that comes in before it enters the combustor.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_15":{
+						"qusType":"MCSS",
+						"question":"The HPT rotor assembly drives the",
+						"Options":[
+							"compressor rotor assembly.",
+							"fan rotor assembly.",
+							"power takeoff assembly.",
+							"accessory gearbox assembly."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;compressor rotor assembly.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_16":{
+						"qusType":"MCSS",
+						"question":"The compressor rotor",
+						"Options":[
+							"provides rotational force to the fan rotor.",
+							"provides rotational force to the LPT rotor.",
+							"compresses the air and sends the compressed air to the combustion chamber",
+							"compresses the air and sends the compressed air to the fan rotor."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;compresses the air and sends the compressed air to the combustion chamber&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_17":{
+						"qusType":"MCSS",
+						"question":"The compressor stator assembly surrounds the",
+						"Options":[
+							"compressor casing assembly.",
+							"compressor rotor assembly.",
+							"compressor frame assembly.",
+							"compressor vane assembly."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;compressor rotor assembly.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_18":{
+						"qusType":"MCSS",
+						"question":"The combustion module is",
+						"Options":[
+							"outside the combustion chamber frame.",
+							"aft of the combustion chamber frame.",
+							"in front of the combustion chamber frame.",
+							"installed between the rear compressor case flange and the transition assembly."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;installed between the rear compressor case flange and the transition assembly.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_19":{
+						"qusType":"MCSS",
+						"question":"The combustion liner",
+						"Options":[
+							"provides space for the proper mixing of atomized fuel with air.",
+							"provides space for the proper mixing of the atomized oil with air.",
+							"provides a casing for the compressor rotor.",
+							"provides the rotational force to the fan rotor."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides space for the proper mixing of atomized fuel with air.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_20":{
+						"qusType":"MCSS",
+						"question":"The stage one nozzle directs and accelerates the hot gasses from the combustion chamber to the",
+						"Options":[
+							"LPT rotor blades.",
+							"fan rotor blades.",
+							"HPT rotor blades.",
+							"compressor rotor blades"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;HPT rotor blades.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_21":{
+						"qusType":"MCSS",
+						"question":"The turbine transition assembly",
+						"Options":[
+							"provides a flowpath for exhaust gases that flow from the HPT module to the LPT module.",
+							"supports the C-sump and also serves as the main structural support for the LPT module.",
+							"accelerates the air to the HPT rotor blades.",
+							"provides bleed air for internal aircraft use."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides a flowpath for exhaust gases that flow from the HPT module to the LPT module.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_22":{
+						"qusType":"MCSS",
+						"question":"The low pressure turbine (LPT) module",
+						"Options":[
+							"provides the flowpath for exhaust gases from the HPT module to the exhaust nozzle.",
+							"provides the torque for accessories mounted on the accessory gearbox (AGB).",
+							"directs and accelerates the air to the HPT rotor blades.",
+							"directs and accelerates the air to the compressor rotor blades."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides the flowpath for exhaust gases from the HPT module to the exhaust nozzle.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					}
+				}
+			},
+			"Lesson_1":{
+				"questionsData":{
+					"questions_1":{
+						"qusType":"MCSS",
+						"question":"The CF34-3A1/-3B/-3B1 engine is available for",
+						"Options":[
+							"Boeing 737NG",
+							"Bombardier Regional Jet and Challenger 601, 604 and 605 applications.",
+							"Boeing 737",
+							"Airbus A320"
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Bombardier Regional Jet and Challenger 601, 604 and 605 applications.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. ",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_2":{
+						"qusType":"MCSS",
+						"question":"The engine identification data plate is a metal plate that is riveted to the compressor front frame yoke",
+						"Options":[
+							"at 3 o’clock position.",
+							"at 6 o’clock position.",
+							"at 9 o’clock position.",
+							"at 12 o’clock position."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;at 12 o’clock position.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_3":{
+						"qusType":"MCSS",
+						"question":"Which of the following is recorded on the engine identification data plate?",
+						"Options":[
+							"Type certification number",
+							"Production certification number",
+							"Thrust ratings (Max. Takeoff, Normal Takeoff, Max. Continuous)",
+							"All of the above"
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;All of the above&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_4":{
+						"qusType":"MCSS",
+						"question":"The dry weight of the CF34-3A1 engine is:",
+						"Options":[
+							"640 lb (343 kg).",
+							"1,640 lb (743 kg).",
+							"2,640 lb (1,043 kg).",
+							"3,640 lb (1,543 kg)."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;1,640 lb (743 kg).&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_5":{
+						"qusType":"MCSS",
+						"question":"Operating at maximum thrust, the engine exhaust area extends rearwards from the exhaust nozzle up to",
+						"Options":[
+							"A distance of approx 70 ft and a maximum width of approx 8 ft.",
+							"A distance of approx 170 ft and a maximum width of approx 18 ft.",
+							"A distance of approx 270 ft and a maximum width of approx 38 ft.",
+							"A distance of approx 370 ft and a maximum width of approx 48 ft."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;A distance of approx 170 ft and a maximum width of approx 18 ft.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_6":{
+						"qusType":"MCSS",
+						"question":"Operating at idle thrust, the engine exhaust area extends rearwards from the exhaust nozzle up to",
+						"Options":[
+							"A distance of approx 100 ft and a maximum width of approx 18 ft.",
+							"A distance of approx 20 ft and a maximum width of approx 8 ft.",
+							"A distance of approx 270 ft and a maximum width of approx 38 ft.",
+							"A distance of approx 370 ft and a maximum width of approx 48 ft."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;A distance of approx 100 ft and a maximum width of approx 18 ft.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_7":{
+						"qusType":"MCSS",
+						"question":"The nose inlet cowl",
+						"Options":[
+							"contain lever assemblies to operate the thrust reverser.",
+							"provides tracks for axial movement of the thrust reverser.",
+							"contains the anti-ice assembly which prevents ice formation around the leading edge.",
+							"provides access to the components of the thrust reverser."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;contains the anti-ice assembly which prevents ice formation around the leading edge.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_8":{
+						"qusType":"MCSS",
+						"question":"The nose inlet cowl",
+						"Options":[
+							"provides the engine fan with an unrestricted and smooth airflow.",
+							"provides the smooth passage for the flow of exhaust air.",
+							"provides tracks for axial movement of the thrust reverser.",
+							"provides access to the components of the thrust reverser."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides the engine fan with an unrestricted and smooth airflow.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_9":{
+						"qusType":"MCSS",
+						"question":"The nose inlet cowl is",
+						"Options":[
+							"aft of the core cowl.",
+							"aft of the translating cowl.",
+							"at the front of the fan cowl.",
+							"aft of the forward core cowl."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;at the front of the fan cowl.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_10":{
+						"qusType":"MCSS",
+						"question":"The upper and lower access cowls are aft of the",
+						"Options":[
+							"Torque box",
+							"Exhaust nozzle",
+							"Translating cowl",
+							"Nose inlet cowl"
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Nose inlet cowl&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_11":{
+						"qusType":"MCSS",
+						"question":"The upper and lower access cowls",
+						"Options":[
+							"protect the engine against lightning strikes.",
+							"provide openings for the engine drains.",
+							"contain lever assemblies to operate the thrust reverser.",
+							"allow the gang drain mast to exit to the atmosphere."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;protect the engine against lightning strikes.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_12":{
+						"qusType":"MCSS",
+						"question":"The torque box provides structural support to the",
+						"Options":[
+							"exhaust nozzle components.",
+							"thrust reverser components.",
+							"core cowl components.",
+							"fan cowl components."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;thrust reverser components.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_13":{
+						"qusType":"MCSS",
+						"question":"The Torque box",
+						"Options":[
+							"provide openings for the engine drains.",
+							"contain lever assemblies to operate the thrust reverser.",
+							"allow the gang drain mast to exit to the atmosphere",
+							"helps to dampen the noise of the airflow when the thrust reverser is deployed"
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;helps to dampen the noise of the airflow when the thrust reverser is deployed&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_14":{
+						"qusType":"MCSS",
+						"question":"The torque box is aft of the",
+						"Options":[
+							"upper and lower access cowls",
+							"forward core cowl assembly.",
+							"core cowl assembly.",
+							"exhaust nozzle."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;upper and lower access cowls&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_15":{
+						"qusType":"MCSS",
+						"question":"The translating cowl",
+						"Options":[
+							"provides hinges for the upper and lower core cowl assembly doors.",
+							"provides access to the components of the thrust reverser system.",
+							"provides access to the anti-ice duct, and electrical harnesses.",
+							"provides hinges for the exhaust nozzle assembly."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides access to the components of the thrust reverser system.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_16":{
+						"qusType":"MCSS",
+						"question":"The fixed nose cowl",
+						"Options":[
+							"protect the engine against lightning strikes.",
+							"provides access to the anti-ice duct, electrical harnesses and the forward engine mount",
+							"contain lever assemblies to operate the thrust reverser.",
+							"allow the gang drain mast to exit to the atmosphere."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides access to the anti-ice duct, electrical harnesses and the forward engine mount&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_17":{
+						"qusType":"MCSS",
+						"question":"The forward core cowl assembly forms",
+						"Options":[
+							"the front section of the core cowl..",
+							"the front portion of the nose inlet cowl.",
+							"the front, outermost portion of the nacelle..",
+							"the inside of the upper and lower access cowls."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;the front section of the core cowl..&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_18":{
+						"qusType":"MCSS",
+						"question":"The core cowl assembly",
+						"Options":[
+							"allows the gang drain mast to exit into the exhaust nozzle.",
+							"provides structural support to the accessory gearbox.",
+							"provides structural support to the components of the thrust reverser.",
+							"allows the gang drain mast to exit into the atmosphere."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;allows the gang drain mast to exit into the atmosphere.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_19":{
+						"qusType":"MCSS",
+						"question":"he exhaust nozzle fairing provides",
+						"Options":[
+							"an aerodynamic surface for internal airflow.",
+							"an aerodynamic surface for external airflow.",
+							"an aerodynamic surface for parasitic airflow.",
+							"an aerodynamic surface for bypass airflow"
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;an aerodynamic surface for external airflow.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_20":{
+						"qusType":"MCSS",
+						"question":"The drain system collects leaking or overflowing oil and fuel from the various modules of the engine and releases them",
+						"Options":[
+							"overboard through openings in the AGB.",
+							"overboard through openings in the B-sump.",
+							"overboard through openings in the engine cowling.",
+							"overboard through openings in the PTO assembly."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;overboard through openings in the engine cowling.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_21":{
+						"qusType":"MCSS",
+						"question":"The gang drain is",
+						"Options":[
+							"at the 4 o'clock position on the aft face of the engine AGB.",
+							"at the 6 o'clock position on the engine, aft of the fan module.",
+							"at the 9 o'clock position, aft of the forward core cowl assembly.",
+							"at the 7 o'clock position, aft of the translating cowl assembly."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;at the 6 o'clock position on the engine, aft of the fan module.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					}
+				}
+			},
+			"Lesson_2":{
+				"questionsData":{
+					"questions_1":{
+						"qusType":"MCSS",
+						"question":"Which of the following is a component of the Control system?",
+						"Options":[
+							"T2 Sensor",
+							"Igniter",
+							"Oil tank",
+							"Fan Blade"
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;T2 Sensor&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_2":{
+						"qusType":"MCSS",
+						"question":"The primary component that controls N2 within the N2 control system is",
+						"Options":[
+							"Fuel metering system",
+							"Main fuel control governing system",
+							"Acceleration and Deceleration computer system",
+							"Idle speed system"
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Main fuel control governing system&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_3":{
+						"qusType":"MCSS",
+						"question":"Which of the following is NOT used in the N2 control system?",
+						"Options":[
+							"T2C Sensor",
+							"N2 Sensor",
+							"Oil Level/Temperature Sensor",
+							"P0 Sensor"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Oil Level/Temperature Sensor&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_4":{
+						"qusType":"MCSS",
+						"question":"The Differnetial Pressure Piston is a component of which of:",
+						"Options":[
+							"Idle Speed System",
+							"Altitude Idle Reset System",
+							"Fuel Metering System",
+							"Main Fuel Control Governing System"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Fuel Metering System&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_5":{
+						"qusType":"MCSS",
+						"question":"Which if the following is FALSE?",
+						"Options":[
+							"The fuel metering system increases and decreases fuel flow to the engine.",
+							"The fuel metering system maintains a constant differential pressure across the metering valve for stable operation.",
+							"The fuel metering system prevents compressor rotor overspeed from exceeding limits.",
+							"The fuel metering system is designed to schedule speed at idle in order to hold a constant thrust level regardless of outside air temperature."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The fuel metering system is designed to schedule speed at idle in order to hold a constant thrust level regardless of outside air temperature.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_6":{
+						"qusType":"MCSS",
+						"question":"The overspeed protection for N2 is part of the:",
+						"Options":[
+							"Fuel Metering System",
+							"Main Fuel Control Governing System",
+							"Idle Speed System",
+							"Altitude Idle Reset System"
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Fuel Metering System&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_7":{
+						"qusType":"MCSS",
+						"question":"The N2 governor is",
+						"Options":[
+							"a helium filled finger type probe installed on the aft outer portion of the splitter nose at the 7:30 position.",
+							"used to port the pressure input from the compressor casing to the P3.0 sensor in the MFC.",
+							"mounted in the aft equipment bay of the aircraft.",
+							"a hydromechanical speed governing device which controls N2 as a function of PLA input."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;a hydromechanical speed governing device which controls N2 as a function of PLA input.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_8":{
+						"qusType":"MCSS",
+						"question":"When there is an increase in PLA, or throttle advance, the N2 throttle cam will",
+						"Options":[
+							"decompress the speeder spring and place an increased force on top of the flyweights.",
+							"decompress the speeder spring and place an decreased force on top of the flyweights.",
+							"compress the speeder spring and place an increased force on top of the flyweights.",
+							"compress the speeder spring and place an decreased force on top of the flyweights."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;compress the speeder spring and place an increased force on top of the flyweights.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_9":{
+						"qusType":"MCSS",
+						"question":"Which of the following is FALSE?",
+						"Options":[
+							"The N2 governing system functions during low power conditions.",
+							"For any given PLA, there is a corresponding N2 speed irregardless of all external factors.",
+							"The N2 governing system can function through all power settings up to 100% N2 when the N1 control system is enabled.",
+							"All functions of N2 governing and overspeed protection are maintained throughout the full range of power in N2 control."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The N2 governing system can function through all power settings up to 100% N2 when the N1 control system is enabled.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_10":{
+						"qusType":"MCSS",
+						"question":"Which of the following is NOT a primary component of the Idle Speed system?",
+						"Options":[
+							"T2C sensor",
+							"Idle speed lever",
+							"N2 Governor",
+							"Idle floor stop"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;N2 Governor&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_11":{
+						"qusType":"MCSS",
+						"question":"The idle speed system",
+						"Options":[
+							"will function  during a rapid acceleration or a rapid deceleration.",
+							"is designed to schedule speed at idle in order to hold a constant thrust level regardless of outside air temperature.",
+							"maintains a constant differential pressure across the metering valve for stable operation.",
+							"prevents compressor rotor overspeed from exceeding limits."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;is designed to schedule speed at idle in order to hold a constant thrust level regardless of outside air temperature.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_12":{
+						"qusType":"MCSS",
+						"question":"The altitude idle reset system:",
+						"Options":[
+							"prevents compressor rotor overspeed from exceeding limits.",
+							"is housed in the MFC and functions in combination with the idle speed system.",
+							"is designed to schedule speed at idle in order to hold a constant thrust level regardless of outside air temperature.",
+							"maintains a constant differential pressure across the metering valve for stable operation."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;is housed in the MFC and functions in combination with the idle speed system.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_13":{
+						"qusType":"MCSS",
+						"question":"At what altitude will the altitude idle reset system function?",
+						"Options":[
+							"Above 3000 feet",
+							"Above 3600 feet",
+							"Above 4000 feet",
+							"Above 4600 feet"
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Above 4600 feet&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_14":{
+						"qusType":"MCSS",
+						"question":"The T2c sensor is mounted on the aft, outer part of the splitter nose at the",
+						"Options":[
+							"2:30 position.",
+							"7:30 position.",
+							"9:30 position.",
+							"10:30 position."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;7:30 position.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_15":{
+						"qusType":"MCSS",
+						"question":"Which of the following statements is FALSE?",
+						"Options":[
+							"The N2 input transmittes rotational movement to the flyweights in the MFC governing system.",
+							"The N2 input provides the N2 signal to the N2 servo governer.",
+							"The N2 input determines the position of the throttle cam in the MFC and effects the MFC governing system.",
+							"The N2 input provides N2 to the maximum corrected speed limiting system."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The N2 input determines the position of the throttle cam in the MFC and effects the MFC governing system.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_16":{
+						"qusType":"MCSS",
+						"question":"The purpose of the P3.0 input is:",
+						"Options":[
+							"to provide the ambient pressure to the altitude idle reset system within the MFC.",
+							"to supply the compressor discharge pressure to the MFC for use in the accel/decel computer system within the MFC.",
+							"to provide the means to bring the variable geometry system into a stable or null condition.",
+							"to control the fuel flow to the engine at higher power conditions above 79.1% N2."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;to supply the compressor discharge pressure to the MFC for use in the accel/decel computer system within the MFC.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_17":{
+						"qusType":"MCSS",
+						"question":"The purpose of the P0 input is:",
+						"Options":[
+							"to provide the ambient pressure to the altitude idle reset system within the MFC.",
+							"to supply the compressor discharge pressure to the MFC for use in the accel/decel computer system within the MFC.",
+							"to provide the means to bring the variable geometry system into a stable or null condition.",
+							"10:30 position."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;>to supply the compressor discharge pressure to the MFC for use in the accel/decel computer system within the MFC.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_18":{
+						"qusType":"MCSS",
+						"question":"The purpose of the Variable Geometry feedback is:",
+						"Options":[
+							"to provide the ambient pressure to the altitude idle reset system within the MFC.",
+							"to supply the compressor discharge pressure to the MFC for use in the accel/decel computer system within the MFC.",
+							"to provide the means to bring the variable geometry system into a stable or null condition.",
+							"to control the fuel flow to the engine at higher power conditions above 79.1% N2."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;to provide the means to bring the variable geometry system into a stable or null condition.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_19":{
+						"qusType":"MCSS",
+						"question":"The purpose of the N1 Control System is:",
+						"Options":[
+							"to provide the ambient pressure to the altitude idle reset system within the MFC.",
+							"to supply the compressor discharge pressure to the MFC for use in the accel/decel computer system within the MFC.",
+							"to provide the means to bring the variable geometry system into a stable or null condition.",
+							"to control the fuel flow to the engine at higher power conditions above 79.1% N2."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;to control the fuel flow to the engine at higher power conditions above 79.1% N2.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_20":{
+						"qusType":"MCSS",
+						"question":"The N1 control amplifier is mounted in the",
+						"Options":[
+							"forward avionics bay in the aircraft.",
+							"nose inlet cowl at the 2 o'clock position.",
+							"aft equipment bay in the aircraft.",
+							"core inlet cowl at the 9 o'clock position."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;aft equipment bay in the aircraft.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_21":{
+						"qusType":"MCSS",
+						"question":"The N1 control amplifier controls fan speed as a function of PLA and T2, when N2 is above:",
+						"Options":[
+							"78.5%",
+							"79.1%",
+							"81.5%",
+							"83.4%"
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;79.1%&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_22":{
+						"qusType":"MCSS",
+						"question":"Which of the following is NOT an engine input for the N1 control amplifier?",
+						"Options":[
+							"P0 signal",
+							"N1 signal",
+							"PLA from the MFC",
+							"Fuel metering valve rate signal from the MFC"
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;P0 signal&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_23":{
+						"qusType":"MCSS",
+						"question":"The fuel metering valve rate feedback is an indication of:",
+						"Options":[
+							"the fuel metering valve as it moves up and down in the metering valve orifice.",
+							"the amount of fuel available to the engine.",
+							"the actual value of PLA, or power setting.",
+							"the compressor rotor speed (N2)."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;the fuel metering valve as it moves up and down in the metering valve orifice.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					}
+				}
+			},
+			"Lesson_3":{
+				"questionsData":{
+					"questions_1":{
+						"qusType":"MCSS",
+						"question":"Which of the following is NOT displayed on EICAS?",
+						"Options":[
+							"Inter turbine temperature - ITT",
+							"N2 - Compressor rotor speed",
+							"Fuel flow",
+							"Thrust Reverser Position"
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Thrust Reverser Position&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Two ignition exciters",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_2":{
+						"qusType":"MCSS",
+						"question":"What is the purpose of the engine indicating system?",
+						"Options":[
+							"Indicates engine system parameters to facilitate servicing",
+							"Automaticaly shuts down engine on an exceedance.",
+							"Provides engine system parameter feedback to flight crew and alerts any system malfunctions",
+							"Provides an air temperature to EICAS"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Provides engine system parameter feedback to flight crew and alerts any system malfunctions&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Two igniters",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_3":{
+						"qusType":"MCSS",
+						"question":"Which of the following statements is FALSE?",
+						"Options":[
+							"The fan speed pickup sensor is also known as the N1 sensor",
+							"The N1 sensor is located at the 9 o'clock position",
+							"The N1 sensor extend through the front frame 3 o'clock strut.",
+							"The N1 sensor measures the speed of the fan rotor assembly."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The N1 sensor extend through the front frame 3 o'clock strut.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Change the voltage to DC and send high energy impulses through the ignition leads to the igniters.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_4":{
+						"qusType":"MCSS",
+						"question":"The fan speed pickup",
+						"Options":[
+							"Measures the speed of the fan rotor assembly",
+							"Measures the speed of the secondary airflow",
+							"Measures the speed fuel pump",
+							"Measures the speed HPC"
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Measures the speed of the fan rotor assembly&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Two boxes on the upper left-hand side of the high pressure compressor case at the 11:00 o'clock position.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_5":{
+						"qusType":"MCSS",
+						"question":"The N1 Sensor functions by:",
+						"Options":[
+							"Rotation of N1 through gearbox rotation.",
+							"Reading the core engine speed and reducing readout for N1 on a sliding scale.",
+							"A light speed pickup.",
+							"An electromagnetic device consisting of a coil wound permanent magnet reading the rotation of the No. 2 bearing locknut."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;An electromagnetic device consisting of a coil wound permanent magnet reading the rotation of the No. 2 bearing locknut.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. supply output power to the igniters.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_6":{
+						"qusType":"MCSS",
+						"question":"The Alternator provides:",
+						"Options":[
+							"N1 and N2 signals to the EICAS",
+							"Power to the N1 Amplifier and N1 to EICAS.",
+							"Power to the N1 Amplifier and N2 to EICAS.",
+							"Power to the N1 Amplifier only, above 50% N2."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Power to the N1 Amplifier and N2 to EICAS.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. at the 11:00 o'clock position.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_7":{
+						"qusType":"MCSS",
+						"question":"The ITT indicating system consists of",
+						"Options":[
+							"two rigid thermocouple harnesses of five probes each, with alternating immersions.",
+							"three rigid thermocouple harnesses of eight probes each, with alternating immersions.",
+							"four rigid thermocouple harnesses of five probes each, with alternating immersions.",
+							"two rigid thermocouple harnesses of eight probes each, with alternating immersions."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;two rigid thermocouple harnesses of five probes each, with alternating immersions.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. 1 pulse per second.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_8":{
+						"qusType":"MCSS",
+						"question":"Which of the following is FALSE for ITT Indication?",
+						"Options":[
+							"It provides the flight crew with an average temperature indication of the engine's hot gas path at the inlet of the LPT.",
+							"It consists of two semi-rigid thermocouple assemblies",
+							"It has a total of twelve probes with alternating immersions averaged through a junction box at the 12 o'clock position on the turbine case.",
+							"The signal is sent to the aircraft for display on EICAS."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;It has a total of twelve probes with alternating immersions averaged through a junction box at the 12 o'clock position on the turbine case.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_9":{
+						"qusType":"MCSS",
+						"question":"The ITT display is on the EICAS:",
+						"Options":[
+							"primary panel in the flight deck.",
+							"secondary panel in the flight deck.",
+							"primary panel in the avionics deck.",
+							"secondary panel in the avionics deck."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;primary panel in the flight deck.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_10":{
+						"qusType":"MCSS",
+						"question":"How many vibration pickups are on the CF34?",
+						"Options":[
+							"1- senses both LP rotor and HP rotor vibration",
+							"2- 1 pickup each for LP rotor and HP rotor",
+							"3- 1 pickup for LP rotor and 2 pickups for HP rotor as it is more critical",
+							"4- 2 pickups for each rotor"
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;1- senses both LP rotor and HP rotor vibration&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_11":{
+						"qusType":"MCSS",
+						"question":"N2 vibration is displayed:",
+						"Options":[
+							"On a continues sweep dial.",
+							"Anytime the engine is operating",
+							"Within the N1 dial as a digital readout",
+							"Within the N2 dial and only when there is an N2 vibration exceedance"
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Within the N2 dial and only when there is an N2 vibration exceedance&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					}
+				}
+			},
+			"Lesson_4":{
+				"questionsData":{
+					"questions_1":{
+						"qusType":"MCSS",
+						"question":"During engine start which of the following is a source for mechanical power?",
+						"Options":[
+							"Hydraulic Pump",
+							"Fuel Pump",
+							"Air Turbine Starter",
+							"Transfer Gearbox"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Air Turbine Starter&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Two ignition exciters",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_2":{
+						"qusType":"MCSS",
+						"question":"Which of the following is a primary component of the distribution and control subsystems?",
+						"Options":[
+							"N1 Speed Sensor",
+							"Start/ignition control panel",
+							"Accessary Gear Box (AGB)",
+							"Inlet Gearbox"
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Start/ignition control panel&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Two igniters",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_3":{
+						"qusType":"MCSS",
+						"question":"Which of the following is NOT a purpose of the distribution and control subsystems?",
+						"Options":[
+							"Initiate the starting process from the cockpit.",
+							"Supply air to the ATS at a pressure that is sufficient to turn it.",
+							"Transmit rotary motion of the ATS to the AGB.",
+							"Ensure automatic starter cutout if oil pressure does not reach min pressure before 55%."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Ensure automatic starter cutout if oil pressure does not reach min pressure before 55%.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Change the voltage to DC and send high energy impulses through the ignition leads to the igniters.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_4":{
+						"qusType":"MCSS",
+						"question":"The speed cutout switch",
+						"Options":[
+							"provides a path for the flow of 28 volt DC current from the battery to the air starter valve through the start relay",
+							"automatically terminates the flow of current to the starter valve when the engine N2 reaches a value of approximately 25%",
+							"supplies air at the required and constant pressure to the ATS.",
+							"supplies an output signal to the DCUs for the EICAS display."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides a path for the flow of 28 volt DC current from the battery to the air starter valve through the start relay&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Two boxes on the upper left-hand side of the high pressure compressor case at the 11:00 o'clock position.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_5":{
+						"qusType":"MCSS",
+						"question":"When the START switch is pressed and held for two seconds",
+						"Options":[
+							"An AC current of 220 volts flows from the battery to the speed cutout switch and then to the start relay.",
+							"A DC current of 12 volts flows from the battery to the speed cutout switch and then to the start relay.",
+							"An AC current of 110 volts flows from the battery to the speed cutout switch and then to the start relay.",
+							"A DC current of 28 volts flows from the battery to the speed cutout switch and then to the start relay."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;A DC current of 28 volts flows from the battery to the speed cutout switch and then to the start relay.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. supply output power to the igniters.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_6":{
+						"qusType":"MCSS",
+						"question":"The air starter valve",
+						"Options":[
+							"supplies air at the required and constant pressure to the ATS.",
+							"supplies an output signal to the DCUs for the EICAS display.",
+							"provides a path for the flow of current from the battery.",
+							"provides drive to the AGB during the starting process."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;supplies air at the required and constant pressure to the ATS.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. at the 11:00 o'clock position.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_7":{
+						"qusType":"MCSS",
+						"question":"The air starter valve is",
+						"Options":[
+							"Installed on the engine between the pneumatic ducts and the AGB at 6 o’clock position.",
+							"Installed on the engine between the pneumatic ducts and the ATS at 8 o’clock position.",
+							"Installed on the engine between the pneumatic ducts and the ATS at 4 o’clock position.",
+							"Installed on the engine between the AGB and the ATS at 6 o’clock position."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Installed on the engine between the pneumatic ducts and the ATS at 4 o’clock position.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. 1 pulse per second.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_8":{
+						"qusType":"MCSS",
+						"question":"The air turbine starter sends a speed signal to the speed cutoff switch to",
+						"Options":[
+							"allow the air turbine starter to de-energize the air starter valve when N2 reaches approximately 55 percent.",
+							"allow the air turbine starter to energize the air starter valve when N2 reaches approximately 60 percent.",
+							"allow the air turbine starter to de-energize the air starter valve when N2 reaches approximately 45 percent.",
+							"allow the air turbine starter to de-energize the air starter valve when N2 reaches approximately 50 percent."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;allow the air turbine starter to de-energize the air starter valve when N2 reaches approximately 55 percent.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. at the 4:00 o'clock and 8:00 o'clock positions.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_9":{
+						"qusType":"MCSS",
+						"question":"Which of the following is the purpose of the ATS?",
+						"Options":[
+							"Prevents a speed signal being sent to the speed cutoff switch.",
+							"Provides drive to the AGB so that the rotary motion of the AGB is transferred as turning torque to the compressor forward shaft.",
+							"It sends a DC current of 28 volts from the battery to the speed cutout switch.",
+							"It indicates which ignition system is armed"
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Provides drive to the AGB so that the rotary motion of the AGB is transferred as turning torque to the compressor forward shaft.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. from the ignition exciters and down the sides of the engine to connect to the igniters at the combustion chamber frame.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_10":{
+						"qusType":"MCSS",
+						"question":"The rotating sprag clutch",
+						"Options":[
+							"Drives the clutch shaft, which rotates the starter oil pump and the output shaft assembly.",
+							"Drives the ATS through the rotating splined output shaft.",
+							"Drives the clutch shaft, which rotates the fuel filter and the output shaft assembly.",
+							"Drives the ATS through the rotating splined output valve."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Drives the clutch shaft, which rotates the starter oil pump and the output shaft assembly.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. from the ignition exciters and down the sides of the engine to connect to the igniters at the combustion chamber frame.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_11":{
+						"qusType":"MCSS",
+						"question":"At what N2 % will the start valve close and ignition will be deactivated?",
+						"Options":[
+							"25%",
+							"55%",
+							"25%, air restart only",
+							"75%"
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;55%&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. The GO push-button switch",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					}
+				}
+			},
+			"Lesson_5":{
+				"questionsData":{
+					"questions_1":{
+						"qusType":"MCSS",
+						"question":"Which of the following is NOT a component of the dual ignition system installed on each engine?",
+						"Options":[
+							"Two ignition exciters",
+							"Two ignition leads",
+							"Two igniters",
+							"Two fuel nozzles"
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Two fuel nozzles&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Compressor variable geometry actuators and Operability bleed valve (OBV).",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_2":{
+						"qusType":"MCSS",
+						"question":"The engine ignition system",
+						"Options":[
+							"provides the necessary electrical power to start the combustion.",
+							"provides charge air for combustion in the combustion chamber.",
+							"provides the differential pressure across the heat exchanger.",
+							"provides unregulated air for carbon seal pressurization in the B-sump."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides the necessary electrical power to start the combustion.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. compressor.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_3":{
+						"qusType":"MCSS",
+						"question":"Which of the following standard ignition condition would be used during icing conditions?",
+						"Options":[
+							"Not required",
+							"Continuous Ignition",
+							"Auto-Ignition",
+							"Alternating Ignition"
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Continuous Ignition&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Prevents compressor surges and stalls",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_4":{
+						"qusType":"MCSS",
+						"question":"What condition would activate auto-ignition, energizing both A and B circuits?",
+						"Options":[
+							"Normal start, air temperature below -20 deg C.",
+							"High aircraft angle of attack, disrupting airflow to engine intakes",
+							"Normal start, above 8,000 ft elevation.",
+							"Icing conditions"
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;High aircraft angle of attack, disrupting airflow to engine intakes&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. 11 o'clock position, and a slave actuator is at the 5 o'clock position.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_5":{
+						"qusType":"MCSS",
+						"question":"The W2 (blue) harness transmits the torque motor signal from the N1 control amplifier to the",
+						"Options":[
+							"main fuel control.",
+							"ignition exciter.",
+							"lube and scavenge pump.",
+							"fuel/oil heat exchanger."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;main fuel control.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. the head side of the VG actuator opens the vanes (high power).",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_6":{
+						"qusType":"MCSS",
+						"question":"The W3 (white) harness carries inter-turbine",
+						"Options":[
+							"temperature indication to the flight deck.",
+							"pressure indication to the flight deck.",
+							"differential pressure indication to the flight deck.",
+							"differential temperature indication to the flight deck."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;temperature indication to the flight deck.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. VGS actuators.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_7":{
+						"qusType":"MCSS",
+						"question":"The ignition exciters are mounted on support beams at the front end of the compressor casing",
+						"Options":[
+							"at 12:00 o’clock and 2:00 o’clock positions respectively.",
+							"at 11:00 o’clock and 6:00 o’clock positions respectively.",
+							"at 10:00 o’clock and 8:00 o’clock positions respectively.",
+							"at 9:00 o’clock and 5:00 o’clock positions respectively."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;at 12:00 o’clock and 2:00 o’clock positions respectively.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. to the forward flange of the compressor case at the 5 o'clock position.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_8":{
+						"qusType":"MCSS",
+						"question":"The igniters provide the spark to ignite the fuel that is injected into the",
+						"Options":[
+							"LPT rotor",
+							"compressor",
+							"combustion chamber",
+							"Fuel pump"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;combustion chamber&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Linear Variable Differential Transducer (LVDT)",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_9":{
+						"qusType":"MCSS",
+						"question":"The ignition exciters are",
+						"Options":[
+							"capacitor discharge, high-tension type exciters which require a 115 V, 400 Hz electrical power input from the aircraft electrical system.",
+							"capacitor discharge, high-tension type exciters which require a 28 V, 60 Hz electrical power input from the aircraft electrical system.",
+							"capacitor discharge, high-tension type exciters which require a 220 V, 400 Hz electrical power input from the aircraft electrical system.",
+							"capacitor discharge, high-tension type exciters which require a 220 V, 50 Hz electrical power input from the aircraft electrical system."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;capacitor discharge, high-tension type exciters which require a 115 V, 400 Hz electrical power input from the aircraft electrical system.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. the stage 10 customer bleed duct at the 10 o'clock position of the combustion case assembly.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_10":{
+						"qusType":"MCSS",
+						"question":"If a spark occurs while removing the ignition lead, which component would you replace?",
+						"Options":[
+							"Ignitor",
+							"Ignition lead",
+							"Ignition exciter",
+							"Ignition switch"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Ignition exciter&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. compressor during the engine start phase.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_11":{
+						"qusType":"MCSS",
+						"question":"The purpose of the ignition leads are to:",
+						"Options":[
+							"Provide support for W3 harness",
+							"Transmit high voltage, low-energy electrical pulses from the ignition exciters to the high voltage igniters.",
+							"Tie together both Ignition A and B systems.",
+							"Provide an eletrical ignition indication to EICAS"
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Transmit high voltage, low-energy electrical pulses from the ignition exciters to the high voltage igniters.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. compressor during the engine start phase.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_12":{
+						"qusType":"MCSS",
+						"question":"The ignition lead for the igniter plug on the left (ten o’clock position) is",
+						"Options":[
+							"Gray.",
+							"Blue",
+							"Black",
+							"Red"
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Gray.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. compressor during the engine start phase.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_13":{
+						"qusType":"MCSS",
+						"question":"The ignition lead for the igniter plug on the right (two o’clock position) is",
+						"Options":[
+							"Gray.",
+							"Blue",
+							"Black",
+							"Red"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Black&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. compressor during the engine start phase.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_14":{
+						"qusType":"MCSS",
+						"question":"The two surface gap type igniter plugs are located in bosses in the combustion chamber frame",
+						"Options":[
+							"at the 2 o’clock and 10 o’clock positions.",
+							"at the 3 o’clock and 11 o’clock positions.",
+							"at the 5 o’clock and 12 o’clock positions.",
+							"at the 7 o’clock and 1 o’clock positions."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;at the 2 o’clock and 10 o’clock positions.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. compressor during the engine start phase.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					}
+				}
+			},
+			"Lesson_6":{
+				"questionsData":{
+					"questions_1":{
+						"qusType":"MCSS",
+						"question":"Which of the following is NOT a component of the Airflow System?",
+						"Options":[
+							"Variable Geometry System",
+							"A and C-sump carbon seal pressurization system",
+							"B-sump carbon seal pressurization system",
+							"N1 Sensor"
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;N1 Sensor&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. divides into two flows.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_2":{
+						"qusType":"MCSS",
+						"question":"Total engine airflow at 100% power is",
+						"Options":[
+							"334 Pounds Per Second (PPS)",
+							"234 Pounds Per Second (PPS)",
+							"534 Pounds Per Second (PPS)",
+							"434 Pounds Per Second (PPS)"
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;334 Pounds Per Second (PPS)&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. left of the aft face of the accessory gearbox (AGB).",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_3":{
+						"qusType":"MCSS",
+						"question":"Which of the following statements is FALSE?",
+						"Options":[
+							"The primary air is used for Combustion air,",
+							"The primary air provides approximately 80% of engine thrust",
+							"The primary air is used for Aircraft Environmental Control System source",
+							"The primary air is used for Sump Sealing air source"
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The primary air provides approximately 80% of engine thrust&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. ejector boost pump operation.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_4":{
+						"qusType":"MCSS",
+						"question":"The primary airflow",
+						"Options":[
+							"provides charge air for combustion in the combustion chamber.",
+							"provides the air for ignition cooling.",
+							"provides air that flows through the fan duct and out of the fan exhaust nozzle",
+							"provides unregulated air for accessary gearbox carbon seal pressurization."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides charge air for combustion in the combustion chamber.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Cools the oil and heats the fuel",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_5":{
+						"qusType":"MCSS",
+						"question":"Which of the following statements is FALSE?",
+						"Options":[
+							"Air enters the core engine and passes through the 20 stage LPC",
+							"Air enters the combustion chamber through Dome swirlers, where it is mixed with the fuel",
+							"High velocity air exits from the combustion chamber and passes through the stage one and stage two HPT",
+							"Engine exhausts contribute approx 20% of the total engine thrust"
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Air enters the core engine and passes through the 20 stage LPC&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. heats the engine fuel to prevent freezing.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_6":{
+						"qusType":"MCSS",
+						"question":"The secondary airflow",
+						"Options":[
+							"provides charge air for combustion in the combustion chamber.",
+							"provides the air for pressurizing the balance piston chamber.",
+							"provides air that flows through the fan duct and out of the fan exhaust nozzle",
+							"provides unregulated air for carbon seal pressurization in the B-sump."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides air that flows through the fan duct and out of the fan exhaust nozzle&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. 1 o'clock position on the compressor.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_7":{
+						"qusType":"MCSS",
+						"question":"As the secondary airflow flows through the fan nozzle, it accelerates, thus providing approximately",
+						"Options":[
+							"80 percent of the engine thrust.",
+							"25 percent of the engine thrust.",
+							"15 percent of the engine thrust.",
+							"75 percent of the engine thrust."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;80 percent of the engine thrust.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. combustion under all operating conditions.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_8":{
+						"qusType":"MCSS",
+						"question":"Airflow through the secondary at 100% is",
+						"Options":[
+							"288 PPS.",
+							"488 PPS.",
+							"688 PPS.",
+							"888 PPS."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;288 PPS.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. combustion chamber frame, just aft of the forward flange.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_9":{
+						"qusType":"MCSS",
+						"question":"The parasitic air system that draws air from the 10th stage is",
+						"Options":[
+							"Used to provide regulated air pressure to No. 1 and No. 3 carbon seals in the A-sump",
+							"Used to supply air and pressure to the cabin, through the Environmental Control System.",
+							"Used as a pressure source for engine nacelle anti-ice.",
+							"Used as a pressure source for operation of the thrust reverser system"
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Used to supply air and pressure to the cabin, through the Environmental Control System.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. FMU to the fuel injectors.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_10":{
+						"qusType":"MCSS",
+						"question":"The fuel injectors atomize the metered fuel from the",
+						"Options":[
+							"FMU and direct it into the combustor.",
+							"Provides engine bleed air pressure for cabin pressurization",
+							"Supplies operating air pressure for the Thrust Reverser.",
+							"Supplies 85% of engine thrust"
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Supplies 85% of engine thrust&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. FMU and direct it into the  combustor.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_11":{
+						"qusType":"MCSS",
+						"question":"The parasitic air system that draws air from the 14th stage is",
+						"Options":[
+							"Used to provide regulated air pressure to No. 1 and No. 3 carbon seals in the A-sump",
+							"Used to supply air and pressure to the cabin, through the Environmental Control System.",
+							"Used as a cross start source of air pressure for the opposite engine.",
+							"Used as a pressure source for operation of the thrust reverser system"
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Used as a pressure source for operation of the thrust reverser system&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. 18",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_12":{
+						"qusType":"MCSS",
+						"question":"The parasitic air system that draws air from the 7th stage is",
+						"Options":[
+							"Used to provide regulated air pressure to No. 1 and No. 3 carbon seals in the A-sump",
+							"Used to supply air and pressure to the cabin, through the Environmental Control System.",
+							"Used as a cross start source of air pressure for the opposite engine.",
+							"Used as a pressure source for operation of the thrust reverser system"
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Used to provide regulated air pressure to No. 1 and No. 3 carbon seals in the A-sump&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Three bolts",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_13":{
+						"qusType":"MCSS",
+						"question":"Compressor discharge air is",
+						"Options":[
+							"Used for cooling and pressurization of various internal components of the engine.",
+							"Used to provide regulated air pressure to No. 1 and No. 3 carbon seals in the A-sump",
+							"Used to supply air and pressure to the cabin, through the Environmental Control System.",
+							"Used as a cross start source of air pressure for the opposite engine."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Used for cooling and pressurization of various internal components of the engine.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. 50 percent and higher, the PMA supplies power to the FADEC.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_14":{
+						"qusType":"MCSS",
+						"question":"One primary function of the compressor discharge air (P3.0) is to:",
+						"Options":[
+							"Provide regulated air pressure to No. 1 and No. 3 carbon seals in the A-sump",
+							"Provide cooling for the fan disk",
+							"Provides pressurized air to the combustion chamber to be mixed with fuel",
+							"Pressurize B-sump"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Provides pressurized air to the combustion chamber to be mixed with fuel&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. fuel flow, the OBV, the VG actuators, the engine starting, and the ignition.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_15":{
+						"qusType":"MCSS",
+						"question":"The VG actuator system controls the amount of airflow through the",
+						"Options":[
+							"low pressure compressor (LPC).",
+							"high pressure compressor (HPC).",
+							"high pressure turbine (HPT).",
+							"low pressure turbine (LPT)."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;high pressure compressor (HPC).&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. FADEC at N2 speeds above 50 percent during normal engine operation.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_16":{
+						"qusType":"MCSS",
+						"question":"Which of the following statements is FALSE?",
+						"Options":[
+							"Based on speed and temperature inputs a fuel pressure is applied to both VG actuators simultaneously",
+							"Pressure from the fuel control moves the actuator shafts and attached actuator rings.",
+							"The vanes are in a open position during start and low power, and rotate to a closed position, as power is increased.",
+							"The actuating rings are attached to each variable vane arm on the IGV and stages 1-5. The rings rotate, moving all vanes in each stage simultaneously."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The vanes are in a open position during start and low power, and rotate to a closed position, as power is increased.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. FADEC.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_17":{
+						"qusType":"MCSS",
+						"question":"The carbon seal pressure regulating valve is mounted horizontally at the",
+						"Options":[
+							"2 o'clock position on the compressor case.",
+							"9 o'clock position on the compressor case.",
+							"4 o'clock position on the compressor case.",
+							"6 o'clock position on the compressor case."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;2 o'clock position on the compressor case.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Temperature, Airspeed, Altitude",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_18":{
+						"qusType":"MCSS",
+						"question":"What is the function of the carbon seal pressure regulating valve?",
+						"Options":[
+							"It prevents oil leakage from the seals in B-sump by supplying high pressure air to the outer surface of the seals.",
+							"Vents B-sump to centervent.",
+							"It prevents oil leakage from the seals in A-sump and C-sump by supplying high pressure air to the outer surface of the seals.",
+							"It maintains an internal pressure in the B-sump housing."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;It prevents oil leakage from the seals in A-sump and C-sump by supplying high pressure air to the outer surface of the seals.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. left of the inlet cowl.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_19":{
+						"qusType":"MCSS",
+						"question":"The B-sump vent regulator valve is mounted vertically at the",
+						"Options":[
+							"3 o'clock position on the compressor case.",
+							"9 o'clock position on the compressor case.",
+							"4 o'clock position on the compressor case.",
+							"6 o'clock position on the compressor case."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;3 o'clock position on the compressor case.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Linear Variable Differential Transducer (LVDT)",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_20":{
+						"qusType":"MCSS",
+						"question":"The B-sump vent regulator valve",
+						"Options":[
+							"Prevents oil leakage from the seals in A-sump and C-sump by supplying high pressure air to the outer surface of the seals.",
+							"Has one air input from the seventh stage of compression and two outputs going to the A-sump and C-sump.",
+							"Maintains a designed supply pressure to the seals by the use of a piston, spring and variable orifice.",
+							"Ensures a differential pressure of approximately 30 psia is maintained across carbon seals No. 4 and No. 5"
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Ensures a differential pressure of approximately 30 psia is maintained across carbon seals No. 4 and No. 5&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. A red button on the filter housing extends",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					}
+				}
+			},
+			"Lesson_7":{
+				"questionsData":{
+					"questions_1":{
+						"qusType":"MCSS",
+						"question":"Identify the components of the fuel distribution system?",
+						"Options":[
+							"The heat exchanger, N1 Sensor, Fuel Pump, MFC",
+							"The fuel filter, MFC, Fuel Injectors, Heat Exchanger",
+							"The fuel manifold, MFC, P3 sensor, Fuel Pump",
+							"The air injectors, Fuel manifold, Fuel flow meter, MFC"
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The fuel filter, MFC, Fuel Injectors, Heat Exchanger&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. The accessory gearbox",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_2":{
+						"qusType":"MCSS",
+						"question":"Which of the following is NOT a function of pressurized fuel?",
+						"Options":[
+							"Increasing parassitic airflow pressure",
+							"Actuation of the VG system",
+							"Cooling of the engine oil",
+							"Motive flow for the aircraft’s fuel boost ejector pumps"
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Increasing parassitic airflow pressure&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. lube and scavenge pump.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_3":{
+						"qusType":"MCSS",
+						"question":"How many pump stages are in the fuel pump?",
+						"Options":[
+							"7",
+							"1",
+							"3",
+							"2"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;3&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. forward right side of the AGB.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_4":{
+						"qusType":"MCSS",
+						"question":"The fuel pump is mounted on the aft side of the",
+						"Options":[
+							"accessory gearbox (AGB).",
+							"lube and scavenge pump.",
+							"fuel/oil heat exchanger.",
+							"A-sump scavenge pump."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;accessory gearbox (AGB).&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. A, B and C",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_5":{
+						"qusType":"MCSS",
+						"question":"The secondary main pump element in the CF34-3 engine fuel pump functions to:",
+						"Options":[
+							"provide high pressure fuel flow to the fuel control at low power settings",
+							"provide high pressure fuel flow to the fuel control at all power settings",
+							"provide motive flow back to aircraft tanks to run ejector boost pumps",
+							"increase pump inlet pressure, so fuel can be routed externally to the heat exchanger and fuel filter, then back to the pump"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;c.  provide motive flow back to aircraft tanks to run ejector boost pumps&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. holds the fan rotor and the forward end of the fan shaft.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_6":{
+						"qusType":"MCSS",
+						"question":"The fuel pump provides the",
+						"Options":[
+							"N2 input signal to the main fuel control.",
+							"N1 input signal to the main fuel control.",
+							"T2 input signal to the main fuel control.",
+							"T2c input signal to the main fuel control."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;N2 input signal to the main fuel control.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. B-sump",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_7":{
+						"qusType":"MCSS",
+						"question":"The fuel filter is mounted at",
+						"Options":[
+							"approx 11 o’clock position on the compressor casing, just aft of the lubricating oil tank.",
+							"approx 1 o’clock position on the compressor casing, just aft of the lubricating oil tank.",
+							"approx 5 o’clock position on the compressor casing, just forward of the lubricating oil tank.",
+							"approx 7 o’clock position on the compressor casing, just forward of the lubricating oil tank."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;approx 11 o’clock position on the compressor casing, just aft of the lubricating oil tank.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. C",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_8":{
+						"qusType":"MCSS",
+						"question":"The fuel filter assembly provides the",
+						"Options":[
+							"fuel volume indication to the flight deck.",
+							"fuel pressure indication to the flight deck.",
+							"fuel temperature indication to the flight deck.",
+							"fuel quantity indication to the flight deck"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;fuel temperature indication to the flight deck.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. There is no indication of actual bypass",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_9":{
+						"qusType":"MCSS",
+						"question":"When the red-colored fuel bypass warning button on the fuel filter pops up, this indicates:",
+						"Options":[
+							"An impending bypass is about to occur",
+							"Fuel icing",
+							"A filter bypass has occured",
+							"Normal operation"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;c.  A filter bypass has occured&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. top forward side of the AGB.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_10":{
+						"qusType":"MCSS",
+						"question":"Which of the following is true for the fuel filters supplied by Grimes Aerospace and Pall Aerospace?",
+						"Options":[
+							"The fuel bowl manufactured by one vendor will not assemble with the filter housing manufactured by the other vendor.",
+							"The fuel bowl manufactured by one vendor will assemble with the filter housing manufactured by the other vendor.",
+							"The fuel bowl manufactured by Grimes Aerospace will not assemble with the filter housing manufactured by Pall Aerospace.",
+							"The fuel bowl manufactured by Pall Aerospace will not assemble with the filter housing manufactured by Grimes Aerospace."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The fuel bowl manufactured by one vendor will not assemble with the filter housing manufactured by the other vendor.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Hand tightening",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_11":{
+						"qusType":"MCSS",
+						"question":"The main fuel control is installed aft of the",
+						"Options":[
+							"fuel pump.",
+							"fuel manifolds.",
+							"fuel/oil heat exchanger.",
+							"ITT indicating system."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;fuel pump.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. lube and scavenge pump and sends filtered oil to the fuel/oil heat exchanger.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_12":{
+						"qusType":"MCSS",
+						"question":"The main fuel control supplies metered fuel to the",
+						"Options":[
+							"fuel pump.",
+							"fuel manifold.",
+							"fuel/oil heat exchanger.",
+							"servo fuel heater."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;fuel manifold.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. oil filter module.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_13":{
+						"qusType":"MCSS",
+						"question":"The fuel manifold consists of two separate, semi circular halves of tubing that are attached together",
+						"Options":[
+							"with C-nuts at 7 o’clock and 5 o’clock positions to form one continuous ring.",
+							"with B-nuts at 7 o’clock and 6 o’clock positions to form one continuous ring.",
+							"with A-nuts at 12 o’clock and 5 o’clock positions to form one continuous ring.",
+							"with B-nuts at 12 o’clock and 6 o’clock positions to form one continuous ring."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;with B-nuts at 12 o’clock and 6 o’clock positions to form one continuous ring.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Vents the air overboard through a vent tube located on the alternator stator housing.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_14":{
+						"qusType":"MCSS",
+						"question":"How many fuel injectors are on each engine?",
+						"Options":[
+							"18",
+							"16",
+							"14",
+							"20"
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;18&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. on the top of the AGB oil reservoir.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_15":{
+						"qusType":"MCSS",
+						"question":"Which fuel injector located near the MFC at approx 8 o’clock position on the engine, has a horizontal orientation?",
+						"Options":[
+							"No. 1 fuel injector",
+							"No. 13 fuel injector",
+							"No. 12 fuel injector",
+							"No. 10 fuel injector"
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;No. 13 fuel injector&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. The oil pressure from the pump and the B sump pressure",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_16":{
+						"qusType":"MCSS",
+						"question":"When the fuel differential pressure between the manifold and combustion chamber:",
+						"Options":[
+							"reduces below approx 50 psid, the primary check valve closes and prevents the fuel from dripping into the combustion liner.",
+							"reduces below approx 18 psid, the primary check valve opens.",
+							"reduces below approx 20 psid, the primary check valve closes and prevents the fuel from dripping into the combustion liner.",
+							"reduces below approx 10 psid, the primary check valve opens."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;reduces below approx 20 psid, the primary check valve closes and prevents the fuel from dripping into the combustion liner.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. 5 psi pressure in the reservoir.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					}
+				}
+			},
+			"Lesson_8":{
+				"questionsData":{
+					"questions_1":{
+						"qusType":"MCSS",
+						"question":"Which of the following is NOT a component of the oil system?",
+						"Options":[
+							"Oil storage",
+							"Oil replenishment system",
+							"Oil distribution system",
+							"Fuel Filter"
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Fuel Filter&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. ",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_2":{
+						"qusType":"MCSS",
+						"question":"What is the capacity of the oil tank?",
+						"Options":[
+							"6.8 quarts",
+							"8.8 quarts",
+							"10.8 quarts",
+							"12.8 quarts"
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;6.8 quarts&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_3":{
+						"qusType":"MCSS",
+						"question":"The oil replenishment tank and oil level control panel are components of what system?",
+						"Options":[
+							"IDG oil system",
+							"Carbon seal lubrication",
+							"Engine oil replenishment",
+							"Fan blade lubrication"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Engine oil replenishment&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_4":{
+						"qusType":"MCSS",
+						"question":"The remote oil replenishment system:",
+						"Options":[
+							"Is mounted and operated from a location in the aft equipment bay of the aircraft.",
+							"Is a stand alone cart system brought to the aircraft",
+							"Is a hand pump connected to the oil tank",
+							"Only required at out-stations"
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Is mounted and operated from a location in the aft equipment bay of the aircraft.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_5":{
+						"qusType":"MCSS",
+						"question":"Which of the following is FALSE for the Oil Pressure sub-system?",
+						"Options":[
+							"The pressure sub-system distributes the oil, under pressure to the required engine components.",
+							"The oil is first drawn from the oil tank by a signal pressure element in the lube and scavenge pump and internally ported to the oil filter which is threaded into the pump housing.",
+							"In the event of a clogged filter, resulting in high delta pressure across the filter, a bypass valve will open allowing the oil around the filter permitting unfiltered oil into the system.",
+							"The high pressure circuit supplies oil to the A sump and the low pressure circuit supplies oil to B and C sump."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The high pressure circuit supplies oil to the A sump and the low pressure circuit supplies oil to B and C sump.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_6":{
+						"qusType":"MCSS",
+						"question":"In the Oil Scavenge sub-system, the majority of scavenge oil from the A sump is returned to the pump:",
+						"Options":[
+							"Directly from all scavenge lines",
+							"Seperate forward and aft scavenge oil flow lines to the pump",
+							"Gravity drains around the radial drive shaft into the AGB",
+							"Not returned, A sump is a wet sump system"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Gravity drains around the radial drive shaft into the AGB&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_7":{
+						"qusType":"MCSS",
+						"question":"The engine oil tank is",
+						"Options":[
+							"at the 10 o'clock position on the upper left side of the engine.",
+							"at the 12 o'clock position on the upper right side of the engine.",
+							"at the 9 o'clock position on the lower left side of the engine.",
+							"at the 2 o'clock position on the lower right side of the engine."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;at the 10 o'clock position on the upper left side of the engine.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_8":{
+						"qusType":"MCSS",
+						"question":"The electrical chip detector monitors the scavenge oil entering the oil tank for",
+						"Options":[
+							"sulphur content.",
+							"metallic particles.",
+							"dust particles.",
+							"leaking oil."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;metallic particles.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_9":{
+						"qusType":"MCSS",
+						"question":"When magnetic particles collect across the master chip detector magnet (which may be an early warning of impending part failure), the gap between chip detector electrodes is bridged and:",
+						"Options":[
+							"a red warning message appears on the cockpit EICAS display",
+							"the engine goes to idle to protect against part failure",
+							"a yellow caution message appears on the cockpit EICAS display",
+							"an indication is tripped in the aft equipment bay"
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;d. an indication is tripped in the aft equipment bay&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_10":{
+						"qusType":"MCSS",
+						"question":"The main lube and scavenge pump is located",
+						"Options":[
+							"on the aft face of the accessory gearbox at the 7 o'clock position.",
+							"on the aft face of the accessory gearbox at the 1 o'clock position.",
+							"on the forward face of the accessory gearbox at the 7 o'clock position.",
+							"on the forward face of the accessory gearbox at the 1 o'clock position."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;on the aft face of the accessory gearbox at the 7 o'clock position.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_11":{
+						"qusType":"MCSS",
+						"question":"The main lube and scavenge pump has",
+						"Options":[
+							"2 positive displacement gerotor elements",
+							"10 positive displacement gerotor elements",
+							"7 positive displacement gerotor elements",
+							"15 positive displacement gerotor elements"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;7 positive displacement gerotor elements&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_12":{
+						"qusType":"MCSS",
+						"question":"Which of the following is FALSE for the Main Lube and Scavange Pump?",
+						"Options":[
+							"Continued contamination will open the bypass around the filter and no indication is given.",
+							"The pump draws oil from the supply tank through the one supply element and internally flows across the oil filter internally.",
+							"If the delta pressure becomes high enough, due to contamination, the impending bypass switch will close and give an indication to the ground crew.",
+							"The pump is geared to the MCD."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The pump is geared to the MCD.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_13":{
+						"qusType":"MCSS",
+						"question":"The fuel/oil heat exchanger is mounted on brackets outboard of the combustion chamber frame at the",
+						"Options":[
+							"7 o'clock position.",
+							"2 o'clock position.",
+							"10 o'clock position.",
+							"12 o'clock position."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;7 o'clock position.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_14":{
+						"qusType":"MCSS",
+						"question":"The fuel/oil heat exchanger is mounted on brackets outboard of the combustion chamber frame at the",
+						"Options":[
+							"decreases engine oil temperature and increases engine fuel temperature.",
+							"increases engine oil temperature and decreases engine fuel temperature.",
+							"decreases engine oil and fuel temperature with fan bypass air.",
+							"increases engine oil and fuel temperature with compressor bleed air."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;decreases engine oil temperature and increases engine fuel temperature.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_15":{
+						"qusType":"MCSS",
+						"question":"The oil pressure switch senses the differential pressure between the oil filter downstream pressure and the",
+						"Options":[
+							"fuel/oil heat exchanger inlet pressure.",
+							"A-sump aft scavenge pressure.",
+							"B-sump aft scavenge pressure.",
+							"fuel/oil heat exchanger outlet pressure."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;B-sump aft scavenge pressure.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_16":{
+						"qusType":"MCSS",
+						"question":"The oil tank pressurization valve is",
+						"Options":[
+							"at the bottom of the oil tank.",
+							"at the top of the oil tank.",
+							"at the left of the oil tank.",
+							"at the right of the oil tank."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;at the top of the oil tank.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_17":{
+						"qusType":"MCSS",
+						"question":"The oil filter impending bypass sensor",
+						"Options":[
+							"senses the differential pressure across the filter element.",
+							"senses the differential pressure across the heat exchanger.",
+							"senses the presence of metallic particles in the oil tank.",
+							"senses the presence of dust particles in the oil tank."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;senses the differential pressure across the filter element.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_18":{
+						"qusType":"MCSS",
+						"question":"The oil filter",
+						"Options":[
+							"removes contaminants from the oil.",
+							"removes the oxidants from the oil.",
+							"detects the metal particles in the oil.",
+							"detects the oil pressure of the oil."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;removes contaminants from the oil.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_19":{
+						"qusType":"MCSS",
+						"question":"To eliminate erroneous oil filter impending bypass indications caused by cold oil temperatures:",
+						"Options":[
+							"all oil will bypass the filter impending bypass sensor during a start condition",
+							"a thermal lockout feature is built into the filter impending bypass sensor",
+							"the impending bypass indicator trips but resets itself when engine power level exceeds ground idle",
+							"the impending bypass indicator trips but resets itself when oil temperature reaches 130°F"
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;a thermal lockout feature is built into the filter impending bypass sensor&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					}
+				}
+			},
+			"Lesson_9":{
+				"questionsData":{
+					"questions_1":{
+						"qusType":"MCSS",
+						"question":"Which of the following statements is TRUE?",
+						"Options":[
+							"Engine faults that are included in the MEL, require immediate attention before a flight",
+							"Engine faults that are included in the MEL, do not require immediate attention before a flight",
+							"Engine faults that are NOT included in the MEL, do not require immediate attention before a flight",
+							"The MEL is not relevant to determining timing of correction of faults."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Engine faults that are included in the MEL, do not require immediate attention before a flight&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Nose Inlet Cowl",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_2":{
+						"qusType":"MCSS",
+						"question":"Which of the following statements is TRUE for the Main Line Carbon Seal?",
+						"Options":[
+							"There is one carbon seal located at the ends of each of A-sump, B-sump and C-sump.",
+							"There is one carbon seal located at the ends of each of D-sump, E-sump and F-sump.",
+							"The carbon seals are pressurized from the main airflow.",
+							"Leakage from these seals will present themselves at different locations either from the engine drain system or as an overboard leak on the engine."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Leakage from these seals will present themselves at different locations either from the engine drain system or as an overboard leak on the engine.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. The FADEC simulates an N2 overspeed event",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_3":{
+						"qusType":"MCSS",
+						"question":"Leakage from the #1 carbon seal will present itself in different areas. Externally it would indicate as:",
+						"Options":[
+							"Oil dripping from the compressor variable vane spindle ends on the outside of the casing near 6 o’clock",
+							"Oil dripping from the compressor case forward flange at 6 o’clock",
+							"Oil dripping from the fan static seal 6 o’clock weep hole",
+							"Oil smell in the cabin"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Oil dripping from the fan static seal 6 o’clock weep hole&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. FADEC does a safe engine shutdown",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_4":{
+						"qusType":"MCSS",
+						"question":"Leakage from the #1 carbon seal will present itself internally as:",
+						"Options":[
+							"Heavy wetting on the #1 bearing support plate.",
+							"Oil wetting of the forward stages of the HPC. Primarily on stage 1.",
+							"Glare from the compressor blades indicating wetting",
+							"Dark colored wet spots on the compressor spool coating and on casing coating above blade tips"
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Heavy wetting on the #1 bearing support plate.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Transmits fault data through the ARINC bus to the MDC",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_5":{
+						"qusType":"MCSS",
+						"question":"Leakage from the #3 carbon seal will present itself in different areas. Externally, indications would show as:",
+						"Options":[
+							"Oil dripping from the fan static seal 6 o’clock weep hole",
+							"Oil puddling in the static seal at 6 o’clock",
+							"Oil dripping from the compressor variable vane spindle ends on the outside of the casing near 6 o’clock",
+							"Heavy oil wetting at the inner ends of the exit guide vanes"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Oil dripping from the compressor variable vane spindle ends on the outside of the casing near 6 o’clock&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. The PMAT 2000",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_6":{
+						"qusType":"MCSS",
+						"question":"Leakage from #4 or #5 carbon seals will be evident",
+						"Options":[
+							"at the C-sump drain.",
+							"from the combustor drain.",
+							"by wetness on the outside of the exhaust centerbody around the vent opening.",
+							"by oil dripping from the fan static seal 6 o’clock weep hole."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;from the combustor drain.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. At every engine start",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_7":{
+						"qusType":"MCSS",
+						"question":"Leakage from #6 carbon seals will be evident",
+						"Options":[
+							"from the combustor drain.",
+							"at the C-sump drain.",
+							"by wetness on the outside of the exhaust centerbody around the vent opening.",
+							"by oil dripping from the fan static seal 6 o’clock weep hole."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;at the C-sump drain.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Continuously",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_8":{
+						"qusType":"MCSS",
+						"question":"Leakage from #7 carbon seals will be evident",
+						"Options":[
+							"from the combustor drain.",
+							"at the C-sump drain.",
+							"by wetness on the outside of the exhaust centerbody around the vent opening.",
+							"by oil dripping from the fan static seal 6 o’clock weep hole."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;by wetness on the outside of the exhaust centerbody around the vent opening.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. No Dispatch (ND) time limited dispatch",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_9":{
+						"qusType":"MCSS",
+						"question":"AGB Carbon seal leakage is evident",
+						"Options":[
+							"at the 6 o'clock gang drain tube",
+							"Oil dripping from the fan static seal 6 o’clock weep hole",
+							"Oil puddling in the static seal at 6 o’clock",
+							"Heavy oil wetting at the inner ends of the exit guide vanes"
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;at the 6 o'clock gang drain tube&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Lets the engine continue to operate when there are detected faults.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_10":{
+						"qusType":"MCSS",
+						"question":"The signal vibration accelerometer is located",
+						"Options":[
+							"on the AGB at the 2 o'clock position.",
+							"on the AGB at the 7 o'clock position.",
+							"on the front frame/compressor forward flange at the 2 o'clock position.",
+							"on the front frame/compressor forward flange at the 7 o'clock position."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;on the front frame/compressor forward flange at the 2 o'clock position.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Centre pedastal",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_11":{
+						"qusType":"MCSS",
+						"question":"Most fan vibration events are caused by",
+						"Options":[
+							"Indication system problems, which would include the accelerometer and harness.",
+							"Icing conditions which will cause ice to buildup on the blades.",
+							"Out-of-balance rotor.",
+							"A of loss of lubrication over time on the blade attach points and mating surfaces."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;A of loss of lubrication over time on the blade attach points and mating surfaces.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. The STAT button",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					}
+				}
+			}
+		}
+	]
+}

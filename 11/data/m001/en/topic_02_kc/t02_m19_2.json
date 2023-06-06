@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCSS",
+            "pageNo": "41",
+            "question": "The gang drain",
+            "Options": [
+              "Terminates to the atmosphere at the drain mast through the lower door of the core cowl",
+              "Terminates to the atmosphere through an opening in the exhaust nozzle fairing",
+              "Terminates to the atmosphere at the drain mast through the drain fittings",
+              "Terminates to the atmosphere through an opening in the drain nozzles"
+            ],
+            "correctAnswer": "1",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Terminates to the atmosphere at the drain mast through the lower door of the core cowl&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;Terminates to the atmosphere at the drain mast through the lower door of the core cowl&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

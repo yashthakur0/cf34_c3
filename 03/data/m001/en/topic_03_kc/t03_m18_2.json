@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCSS",
+            "pageNo": "43",
+            "question": "Which of these is not correct with respect to the N1 control system?",
+            "Options": [
+              "The power for the N1 amplifier is supplied from the engine driven alternator mounted on the AGB.",
+              "The N1 sensor inputs the actual N1.",
+              "The rate signal from the MFC is used to ensure the engine will overshoot on acceleration.",
+              "The reference curves that are factory installed, are dependent on the inputs of PLA from the MFC and T2 from the fan inlet."
+            ],
+            "correctAnswer": "3",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The rate signal from the MFC is used to ensure the engine will overshoot on acceleration.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;The rate signal from the MFC is used to ensure the engine will overshoot on acceleration.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCMS",
+            "pageNo": "13",
+            "question": "Which of the following are principal sections of the fan cowling?",
+            "Options": [
+              "Nose inlet cowl",
+              "Translating cowl assembly",
+              "Thrust reverser cowl",
+              "Splitter nose cowl"
+            ],
+            "correctAnswer": "1,2",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Nose inlet cowl, Translating cowl assembly&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;Nose inlet cowl, Translating cowl assembly&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

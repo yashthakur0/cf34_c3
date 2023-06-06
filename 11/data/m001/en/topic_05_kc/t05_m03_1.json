@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCMS",
+            "pageNo": "05",
+            "question": "Which of the following is correct about the speed cutout switch?",
+            "Options": [
+              "Installed in the aft equipment bay in the aircraft.",
+              "Attached to the mounting bracket of the N1 control amplifier",
+              "Detached from the mounting bracket of the N1 control amplifier",
+              "Controls the buildup of air pressure within the air starter valve"
+            ],
+            "correctAnswer": "1,2",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Installed in the aft equipment bay in the aircraft, Attached to the mounting bracket of the N1 control amplifier&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;Installed in the aft equipment bay in the aircraft, Attached to the mounting bracket of the N1 control amplifier&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

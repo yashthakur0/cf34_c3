@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCMS",
+            "pageNo": "19",
+            "question": "What are the functions of the upper and lower access cowls?",
+            "Options": [
+              "Provide a smooth surface for aerodynamic airflow over the fan section",
+              "Provide space for installation of the thrust reverser actuators",
+              "Protect the engine from lightning strikes",
+              "Contain the installation brackets for the thrust reverser actuators"
+            ],
+            "correctAnswer": "1,3",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Provide a smooth surface for aerodynamic airflow over the fan section, Protect the engine from lightning strikes&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Provide a smooth surface for aerodynamic airflow over the fan section, Protect the engine from lightning strikes&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

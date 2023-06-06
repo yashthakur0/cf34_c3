@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCSS",
+            "pageNo": "02",
+            "question": "Identify the incorrect statement about Fault Detection Strategy?",
+            "Options": [
+              "There are two types of engine faults.",
+              "Faults included in the MEL do not require immediate attention before a flight, and the aircraft can be allowed to take off.",
+              "Faults NOT included in the MEL require immediate attention.",
+              "Engine should be shutdown and maintenance performed immediately to correct the faults included in MEL."
+            ],
+            "correctAnswer": "4",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Engine should be shutdown and maintenance performed immediately to correct the faults included in MEL.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;Engine should be shutdown and maintenance performed immediately to correct the faults included in MEL.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCSS",
+            "pageNo": "09",
+            "question": "Identify the incorrect statement.",
+            "Options": [
+              "The igniter leads extend from the ignition exciters and connect to the igniters at the combustion chamber frame.",
+              "The ignition lead for the igniter plug on the left (ten o’clock position) is gray.",
+              "The ignition lead for the igniter plug on the right (two o’clock position) is blue.",
+              "The ignition lead for the igniter plug on the right (two o’clock position) is black."
+            ],
+            "correctAnswer": "3",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The ignition lead for the igniter plug on the right (two o’clock position) is blue.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;The ignition lead for the igniter plug on the right (two o’clock position) is blue.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

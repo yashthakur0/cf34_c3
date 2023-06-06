@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCSS",
+            "pageNo": "21",
+            "question": "What is/are the purpose(s) of the torque box?",
+            "Options": [
+              "It provides structural support to various thrust reverser components",
+              "The backward movement of the torque box provides space for the blocked airflow to escape",
+              "When the thrust reverser is deployed, the torque box moves rearward, thus transmitting the motion of the blocker doors to the pylon tracks",
+              "All of the above"
+            ],
+            "correctAnswer": "4",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;All of the above&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;All of the above&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

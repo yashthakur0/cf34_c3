@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCMS",
+            "pageNo": "21",
+            "question": "Identify the correct pairs with respect to dwell bands on the indexing plate.",
+            "Options": [
+              "Fuel shutoff - 0-3 degrees",
+              "Idle - 15-18 degrees",
+              "Idle - 25-35 degrees",
+              "Maximum - 97-100 degrees."
+            ],
+            "correctAnswer": "1,2,4",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Fuel shutoff - 0-3 degrees, Idle - 15-18 degrees, Maximum - 97-100 degrees.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;Fuel shutoff - 0-3 degrees, Idle - 15-18 degrees, Maximum - 97-100 degrees.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

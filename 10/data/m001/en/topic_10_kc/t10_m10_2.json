@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCMS",
+            "pageNo": "17",
+            "question": "The C-sump drain will drain leakage from which of the following?",
+            "Options": [
+              "Forward scavenge tube 0-ring",
+              "Aft scavenge tube 0-ring.",
+              "C-sump cover 0-ring.",
+              "#3 carbon seal"
+            ],
+            "correctAnswer": "1,2,3",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Forward scavenge tube 0-ring, Aft scavenge tube 0-ring, C-sump cover 0-ring.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;Forward scavenge tube 0-ring, Aft scavenge tube 0-ring, C-sump cover 0-ring.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

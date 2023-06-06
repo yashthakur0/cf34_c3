@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCMS",
+            "pageNo": "14",
+            "question": "Which of the following are the purposes of Indicating Sybsystem?",
+            "Options": [
+              "Provide an indication about which engine is going through the start cycle.",
+              "Provide visual indication of the position of the air starter valve.",
+              "Provide an indication about the status of the ignition system.",
+              "Turn off the indication messages after the completion of the start cycle."
+            ],
+            "correctAnswer": "1,2,3,4",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Provide an indication about which engine is going through the start cycle, Provide visual indication of the position of the air starter valve, Provide an indication about the status of the ignition system, Turn off the indication messages after the completion of the start cycle.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;Provide an indication about which engine is going through the start cycle, Provide visual indication of the position of the air starter valve, Provide an indication about the status of the ignition system, Turn off the indication messages after the completion of the start cycle.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

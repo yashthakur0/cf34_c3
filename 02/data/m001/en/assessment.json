@@ -1,0 +1,347 @@
+{
+	"ExternalData":[
+		{
+			"Lesson_0":{
+				"questionsData":{
+					"questions_1":{
+						"qusType":"MCSS",
+						"question":"The CF34-3A1/-3B/-3B1 engine is available for",
+						"Options":[
+							"Boeing 737NG",
+							"Bombardier Regional Jet and Challenger 601, 604 and 605 applications.",
+							"Boeing 737",
+							"Airbus A320"
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Bombardier Regional Jet and Challenger 601, 604 and 605 applications.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. ",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_2":{
+						"qusType":"MCSS",
+						"question":"The engine identification data plate is a metal plate that is riveted to the compressor front frame yoke",
+						"Options":[
+							"at 3 o’clock position.",
+							"at 6 o’clock position.",
+							"at 9 o’clock position.",
+							"at 12 o’clock position."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",						
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;at 12 o’clock position.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_3":{
+						"qusType":"MCSS",
+						"question":"Which of the following is recorded on the engine identification data plate?",
+						"Options":[
+							"Type certification number",
+							"Production certification number",
+							"Thrust ratings (Max. Takeoff, Normal Takeoff, Max. Continuous)",
+							"All of the above"
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"Shuffle": "false",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;All of the above&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_4":{
+						"qusType":"MCSS",
+						"question":"The dry weight of the CF34-3A1 engine is:",
+						"Options":[
+							"640 lb (343 kg).",
+							"1,640 lb (743 kg).",
+							"2,640 lb (1,043 kg).",
+							"3,640 lb (1,543 kg)."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;1,640 lb (743 kg).&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_5":{
+						"qusType":"MCSS",
+						"question":"Operating at maximum thrust, the engine exhaust area extends rearwards from the exhaust nozzle up to",
+						"Options":[
+							"A distance of approx 70 ft and a maximum width of approx 8 ft.",
+							"A distance of approx 170 ft and a maximum width of approx 18 ft.",
+							"A distance of approx 270 ft and a maximum width of approx 38 ft.",
+							"A distance of approx 370 ft and a maximum width of approx 48 ft."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;A distance of approx 170 ft and a maximum width of approx 18 ft.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_6":{
+						"qusType":"MCSS",
+						"question":"Operating at idle thrust, the engine exhaust area extends rearwards from the exhaust nozzle up to",
+						"Options":[
+							"A distance of approx 100 ft and a maximum width of approx 18 ft.",
+							"A distance of approx 20 ft and a maximum width of approx 8 ft.",
+							"A distance of approx 270 ft and a maximum width of approx 38 ft.",
+							"A distance of approx 370 ft and a maximum width of approx 48 ft."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;A distance of approx 100 ft and a maximum width of approx 18 ft.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_7":{
+						"qusType":"MCSS",
+						"question":"The nose inlet cowl",
+						"Options":[
+							"contain lever assemblies to operate the thrust reverser.",
+							"provides tracks for axial movement of the thrust reverser.",
+							"contains the anti-ice assembly which prevents ice formation around the leading edge.",
+							"provides access to the components of the thrust reverser."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;contains the anti-ice assembly which prevents ice formation around the leading edge.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_8":{
+						"qusType":"MCSS",
+						"question":"The nose inlet cowl",
+						"Options":[
+							"provides the engine fan with an unrestricted and smooth airflow.",
+							"provides the smooth passage for the flow of exhaust air.",
+							"provides tracks for axial movement of the thrust reverser.",
+							"provides access to the components of the thrust reverser."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides the engine fan with an unrestricted and smooth airflow.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_9":{
+						"qusType":"MCSS",
+						"question":"The nose inlet cowl is",
+						"Options":[
+							"aft of the core cowl.",
+							"aft of the translating cowl.",
+							"at the front of the fan cowl.",
+							"aft of the forward core cowl."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;at the front of the fan cowl.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_10":{
+						"qusType":"MCSS",
+						"question":"The upper and lower access cowls are aft of the",
+						"Options":[
+							"Torque box",
+							"Exhaust nozzle",
+							"Translating cowl",
+							"Nose inlet cowl"
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Nose inlet cowl&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_11":{
+						"qusType":"MCSS",
+						"question":"The upper and lower access cowls",
+						"Options":[
+							"protect the engine against lightning strikes.",
+							"provide openings for the engine drains.",
+							"contain lever assemblies to operate the thrust reverser.",
+							"allow the gang drain mast to exit to the atmosphere."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;protect the engine against lightning strikes.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_12":{
+						"qusType":"MCSS",
+						"question":"The torque box provides structural support to the",
+						"Options":[
+							"exhaust nozzle components.",
+							"thrust reverser components.",
+							"core cowl components.",
+							"fan cowl components."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;thrust reverser components.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_13":{
+						"qusType":"MCSS",
+						"question":"The Torque box",
+						"Options":[
+							"provide openings for the engine drains.",
+							"contain lever assemblies to operate the thrust reverser.",
+							"allow the gang drain mast to exit to the atmosphere",
+							"helps to dampen the noise of the airflow when the thrust reverser is deployed"
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;helps to dampen the noise of the airflow when the thrust reverser is deployed&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_14":{
+						"qusType":"MCSS",
+						"question":"The torque box is aft of the",
+						"Options":[
+							"upper and lower access cowls",
+							"forward core cowl assembly.",
+							"core cowl assembly.",
+							"exhaust nozzle."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;upper and lower access cowls&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_15":{
+						"qusType":"MCSS",
+						"question":"The translating cowl",
+						"Options":[
+							"provides hinges for the upper and lower core cowl assembly doors.",
+							"provides access to the components of the thrust reverser system.",
+							"provides access to the anti-ice duct, and electrical harnesses.",
+							"provides hinges for the exhaust nozzle assembly."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides access to the components of the thrust reverser system.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_16":{
+						"qusType":"MCSS",
+						"question":"The fixed nose cowl",
+						"Options":[
+							"protect the engine against lightning strikes.",
+							"provides access to the anti-ice duct, electrical harnesses and the forward engine mount",
+							"contain lever assemblies to operate the thrust reverser.",
+							"allow the gang drain mast to exit to the atmosphere."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides access to the anti-ice duct, electrical harnesses and the forward engine mount&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_17":{
+						"qusType":"MCSS",
+						"question":"The forward core cowl assembly forms",
+						"Options":[
+							"the front section of the core cowl..",
+							"the front portion of the nose inlet cowl.",
+							"the front, outermost portion of the nacelle..",
+							"the inside of the upper and lower access cowls."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;the front section of the core cowl..&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_18":{
+						"qusType":"MCSS",
+						"question":"The core cowl assembly",
+						"Options":[
+							"allows the gang drain mast to exit into the exhaust nozzle.",
+							"provides structural support to the accessory gearbox.",
+							"provides structural support to the components of the thrust reverser.",
+							"allows the gang drain mast to exit into the atmosphere."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;allows the gang drain mast to exit into the atmosphere.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_19":{
+						"qusType":"MCSS",
+						"question":"he exhaust nozzle fairing provides",
+						"Options":[
+							"an aerodynamic surface for internal airflow.",
+							"an aerodynamic surface for external airflow.",
+							"an aerodynamic surface for parasitic airflow.",
+							"an aerodynamic surface for bypass airflow"
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;an aerodynamic surface for external airflow.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_20":{
+						"qusType":"MCSS",
+						"question":"The drain system collects leaking or overflowing oil and fuel from the various modules of the engine and releases them",
+						"Options":[
+							"overboard through openings in the AGB.",
+							"overboard through openings in the B-sump.",
+							"overboard through openings in the engine cowling.",
+							"overboard through openings in the PTO assembly."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;overboard through openings in the engine cowling.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_21":{
+						"qusType":"MCSS",
+						"question":"The gang drain is",
+						"Options":[
+							"at the 4 o'clock position on the aft face of the engine AGB.",
+							"at the 6 o'clock position on the engine, aft of the fan module.",
+							"at the 9 o'clock position, aft of the forward core cowl assembly.",
+							"at the 7 o'clock position, aft of the translating cowl assembly."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;at the 6 o'clock position on the engine, aft of the fan module.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					}
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCMS",
+            "pageNo": "02",
+            "question": "The sources of mechanical power obtained by driving the ATS with high pressure air is from which of the following?",
+            "Options": [
+              "APU",
+              "External ground source",
+              "Cross feed from an operating engine",
+              "Temperature sensor subsystem"
+            ],
+            "correctAnswer": "1,2,3",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;APU, External ground source, Cross feed from an operating engine&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;APU, External ground source, Cross feed from an operating engine&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

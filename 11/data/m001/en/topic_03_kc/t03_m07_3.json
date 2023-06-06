@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCMS",
+            "pageNo": "20",
+            "question": "Identify the incorrect statements with reference to the Altitude Idle Reset system.",
+            "Options": [
+              "Below 4600 feet the idle is controlled through the idle adjustment screw and the T2C sensor.",
+              "As altitude increases above 4600, P0 and temperature decrease, and the air is less dense and if the system were to remain on T2C control, it would drive the idle to a low speed, reducing bleed and acceleration capabilities.",
+              "Above 4600 feet the idle is controlled through the idle adjustment screw and the T2C sensor.",
+              "As altitude reduces below 4600, P0 and temperature decrease, and the air is less dense and if the system were to remain on T2C control, it would drive the idle to a low speed, reducing bleed and acceleration capabilities."
+            ],
+            "correctAnswer": "3,4",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Above 4600 feet the idle is controlled through the idle adjustment screw and the T2C sensor, As altitude reduces below 4600, P0 and temperature decrease, and the air is less dense and if the system were to remain on T2C control, it would drive the idle to a low speed, reducing bleed and acceleration capabilities.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;Above 4600 feet the idle is controlled through the idle adjustment screw and the T2C sensor, As altitude reduces below 4600, P0 and temperature decrease, and the air is less dense and if the system were to remain on T2C control, it would drive the idle to a low speed, reducing bleed and acceleration capabilities.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

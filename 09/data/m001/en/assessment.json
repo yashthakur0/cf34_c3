@@ -1,0 +1,314 @@
+{
+	"ExternalData": [
+		{
+			"Lesson_0": {
+				"questionsData": {
+					"questions_1": {
+						"qusType": "MCSS",
+						"question": "Which of the following is NOT a component of the oil system?",
+						"Options": [
+							"Oil storage",
+							"Oil replenishment system",
+							"Oil distribution system",
+							"Fuel Filter"
+						],
+						"correctAnswer": "4",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Fuel Filter &quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. ",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_2": {
+						"qusType": "MCSS",
+						"question": "What is the capacity of the oil tank?",
+						"Options": [
+							"6.8 quarts",
+							"8.8 quarts",
+							"10.8 quarts",
+							"12.8 quarts"
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;6.8 quarts&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_3": {
+						"qusType": "MCSS",
+						"question": "The oil replenishment tank and oil level control panel are components of what system?",
+						"Options": [
+							"IDG oil system",
+							"Carbon seal lubrication",
+							"Engine oil replenishment",
+							"Fan blade lubrication"
+						],
+						"correctAnswer": "3",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Engine oil replenishment&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_4": {
+						"qusType": "MCSS",
+						"question": "The remote oil replenishment system:",
+						"Options": [
+							"Is mounted and operated from a location in the aft equipment bay of the aircraft.",
+							"Is a stand alone cart system brought to the aircraft",
+							"Is a hand pump connected to the oil tank",
+							"Only required at out-stations"
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Is mounted and operated from a location in the aft equipment bay of the aircraft.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_5": {
+						"qusType": "MCSS",
+						"question": "Which of the following is FALSE for the Oil Pressure sub-system?",
+						"Options": [
+							"The pressure sub-system distributes the oil, under pressure to the required engine components.",
+							"The oil is first drawn from the oil tank by a signal pressure element in the lube and scavenge pump and internally ported to the oil filter which is threaded into the pump housing.",
+							"In the event of a clogged filter, resulting in high delta pressure across the filter, a bypass valve will open allowing the oil around the filter permitting unfiltered oil into the system.",
+							"The high pressure circuit supplies oil to the A sump and the low pressure circuit supplies oil to B and C sump."
+						],
+						"correctAnswer": "4",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The high pressure circuit supplies oil to the A sump and the low pressure circuit supplies oil to B and C sump.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_6": {
+						"qusType": "MCSS",
+						"question": "In the Oil Scavenge sub-system, the majority of scavenge oil from the A sump is returned to the pump:",
+						"Options": [
+							"Directly from all scavenge lines",
+							"Seperate forward and aft scavenge oil flow lines to the pump",
+							"Gravity drains around the radial drive shaft into the AGB",
+							"Not returned, A sump is a wet sump system"
+						],
+						"correctAnswer": "3",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Gravity drains around the radial drive shaft into the AGB&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_7": {
+						"qusType": "MCSS",
+						"question": "The engine oil tank is",
+						"Options": [
+							"at the 10 o'clock position on the upper left side of the engine.",
+							"at the 12 o'clock position on the upper right side of the engine.",
+							"at the 9 o'clock position on the lower left side of the engine.",
+							"at the 2 o'clock position on the lower right side of the engine."
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;at the 10 o'clock position on the upper left side of the engine.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_8": {
+						"qusType": "MCSS",
+						"question": "The electrical chip detector monitors the scavenge oil entering the oil tank for",
+						"Options": [
+							"sulphur content.",
+							"metallic particles.",
+							"dust particles.",
+							"leaking oil."
+						],
+						"correctAnswer": "2",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;metallic particles.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_9": {
+						"qusType": "MCSS",
+						"question": "When magnetic particles collect across the master chip detector magnet (which may be an early warning of impending part failure), the gap between chip detector electrodes is bridged and:",
+						"Options": [
+							"a red warning message appears on the cockpit EICAS display",
+							"the engine goes to idle to protect against part failure",
+							"a yellow caution message appears on the cockpit EICAS display",
+							"an indication is tripped in the aft equipment bay"
+						],
+						"correctAnswer": "4",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;d. an indication is tripped in the aft equipment bay&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_10": {
+						"qusType": "MCSS",
+						"question": "The main lube and scavenge pump is located",
+						"Options": [
+							"on the aft face of the accessory gearbox at the 7 o'clock position.",
+							"on the aft face of the accessory gearbox at the 1 o'clock position.",
+							"on the forward face of the accessory gearbox at the 7 o'clock position.",
+							"on the forward face of the accessory gearbox at the 1 o'clock position."
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;on the aft face of the accessory gearbox at the 7 o'clock position.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_11": {
+						"qusType": "MCSS",
+						"question": "The main lube and scavenge pump has",
+						"Options": [
+							"2 positive displacement gerotor elements",
+							"10 positive displacement gerotor elements",
+							"7 positive displacement gerotor elements",
+							"15 positive displacement gerotor elements"
+						],
+						"correctAnswer": "3",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;7 positive displacement gerotor elements&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_12": {
+						"qusType": "MCSS",
+						"question": "Which of the following is FALSE for the Main Lube and Scavange Pump?",
+						"Options": [
+							"Continued contamination will open the bypass around the filter and no indication is given.",
+							"The pump draws oil from the supply tank through the one supply element and internally flows across the oil filter internally.",
+							"If the delta pressure becomes high enough, due to contamination, the impending bypass switch will close and give an indication to the ground crew.",
+							"The pump is geared to the MCD."
+						],
+						"correctAnswer": "4",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The pump is geared to the MCD.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_13": {
+						"qusType": "MCSS",
+						"question": "The fuel/oil heat exchanger is mounted on brackets outboard of the combustion chamber frame at the",
+						"Options": [
+							"7 o'clock position.",
+							"2 o'clock position.",
+							"10 o'clock position.",
+							"12 o'clock position."
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;7 o'clock position.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_14": {
+						"qusType": "MCSS",
+						"question": "The fuel/oil heat exchanger is mounted on brackets outboard of the combustion chamber frame at the",
+						"Options": [
+							"decreases engine oil temperature and increases engine fuel temperature.",
+							"increases engine oil temperature and decreases engine fuel temperature.",
+							"decreases engine oil and fuel temperature with fan bypass air.",
+							"increases engine oil and fuel temperature with compressor bleed air."
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;decreases engine oil temperature and increases engine fuel temperature.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_15": {
+						"qusType": "MCSS",
+						"question": "The oil pressure switch senses the differential pressure between the oil filter downstream pressure and the",
+						"Options": [
+							"fuel/oil heat exchanger inlet pressure.",
+							"A-sump aft scavenge pressure.",
+							"B-sump aft scavenge pressure.",
+							"fuel/oil heat exchanger outlet pressure."
+						],
+						"correctAnswer": "3",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;B-sump aft scavenge pressure.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_16": {
+						"qusType": "MCSS",
+						"question": "The oil tank pressurization valve is",
+						"Options": [
+							"at the bottom of the oil tank.",
+							"at the top of the oil tank.",
+							"at the left of the oil tank.",
+							"at the right of the oil tank."
+						],
+						"correctAnswer": "2",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;at the top of the oil tank.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_17": {
+						"qusType": "MCSS",
+						"question": "The oil filter impending bypass sensor",
+						"Options": [
+							"senses the differential pressure across the filter element.",
+							"senses the differential pressure across the heat exchanger.",
+							"senses the presence of metallic particles in the oil tank.",
+							"senses the presence of dust particles in the oil tank."
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;senses the differential pressure across the filter element.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_18": {
+						"qusType": "MCSS",
+						"question": "The oil filter",
+						"Options": [
+							"removes contaminants from the oil.",
+							"removes the oxidants from the oil.",
+							"detects the metal particles in the oil.",
+							"detects the oil pressure of the oil."
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;removes contaminants from the oil.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_19": {
+						"qusType": "MCSS",
+						"question": "To eliminate erroneous oil filter impending bypass indications caused by cold oil temperatures:",
+						"Options": [
+							"all oil will bypass the filter impending bypass sensor during a start condition",
+							"a thermal lockout feature is built into the filter impending bypass sensor",
+							"the impending bypass indicator trips but resets itself when engine power level exceeds ground idle",
+							"the impending bypass indicator trips but resets itself when oil temperature reaches 130°F"
+						],
+						"correctAnswer": "2",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;a thermal lockout feature is built into the filter impending bypass sensor&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					}
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCMS",
+            "pageNo": "01",
+            "question": "The engine Airflow Systems consists of which of the following?",
+            "Options": [
+              "A and C-sump carbon seal pressurization system.",
+              "B-sump carbon seal pressurization system.",
+              "Internal engine cooling system flows.",
+              "Pressure sensors"
+            ],
+            "correctAnswer": "1,2,3",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;A and C-sump carbon seal pressurization system, B-sump carbon seal pressurization system, Internal engine cooling system flows.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;A and C-sump carbon seal pressurization system, B-sump carbon seal pressurization system, Internal engine cooling system flows.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

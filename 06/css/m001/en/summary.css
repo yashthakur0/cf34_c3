@@ -1,0 +1,147 @@
+.pageWrapper:before {
+	background: none;
+}
+
+.fedd-box {
+	position: relative;
+	padding-bottom: 100px;
+}
+
+.subbtn_n_feed {
+	position: relative;
+}
+
+.feedclear {
+	clear: both;
+	height: 1px;
+}
+
+.KC_innerPadding {
+	padding: 15px 0 0 0;
+}
+
+.assessmentBox {
+	display: table;
+	width: 100%;
+	position: relative;
+	left: 60px;
+	top: 40px;
+}
+
+.fb_button_wrapper p {
+}
+
+.userScore {
+	font-weight: bold;
+}
+
+.tableRow {
+	display: table-row;
+}
+/* .diagram_cont1 {
+        padding-top: 20px;
+    } */
+.pageWrapper {
+	height: 100%;
+	background: url(../../../assets/image/common/m001_assessment.png) no-repeat;
+	background-position: right bottom;
+	width: 100%;
+}
+
+.btm_box1 {
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	width: 900px;
+	padding: 36px 35px 50px 72px;
+}
+
+.btm_box1_score {
+	width: 650px;
+}
+
+.btm_box1 .heading-video-Page-title {
+	padding: 0px 0px 25px 0px;
+	margin: 0px;
+	color: #1d5379;
+	position: relative;
+	border: none;
+}
+
+.btm_box1 .heading-video-Page-title::before {
+	background-color: #1d5379;
+	top: -10px;
+	left: 0;
+}
+
+.ptSummary {
+	margin-top: 25px;
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.ptSummary td {
+	border-bottom: 2px solid #bbb;
+	padding: 5px 12px;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.ptSummary tr.heading td {
+	background: #eff2f5;
+	border-bottom-color: #225179;
+	font-family: 'GEInspiraSans-Bold';
+	color: #225179;
+}
+
+.InitButton {
+	font-family: 'GEInspiraSans-Regular';
+	width: 152px;
+	height: 30px;
+	line-height: 30px;
+}
+
+.passlabel {
+	width: 50px;
+	background: #5d8b27;
+	color: #FFF;
+	text-align: center;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	border-radius: 50px;
+}
+
+.faillabel {
+	width: 50px;
+	background: #d24848;
+	color: #FFF;
+	text-align: center;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	border-radius: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

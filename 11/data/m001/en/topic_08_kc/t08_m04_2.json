@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCSS",
+            "pageNo": "08",
+            "question": "Which of the following is not the purpose of the fuel filter assembly?",
+            "Options": [
+              "It filters out impurities present in the fuel that is ported from the aircraft fuel tank.",
+              "It provides warning indication to the cockpit before the fuel filter is clogged.",
+              "It provides audio indication before the fuel filter has become clogged.",
+              "It provides fuel temperature indication to the cockpit."
+            ],
+            "correctAnswer": "3",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;It provides audio indication before the fuel filter has become clogged.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;It provides audio indication before the fuel filter has become clogged.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

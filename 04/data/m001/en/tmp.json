@@ -1,0 +1,21 @@
+{
+    "ExternalData": [{
+        "txtVar_1": {
+            "text": "Select <span class='ins_play'></span> to begin watching the video.",
+            "description": ""
+        },
+        "txtVar_2": {
+            "text": "Video placeholder",
+            "description": ""
+        },
+        "txtVar_3": {
+            "text": "Your browser does not support the video tag.",
+            "description": ""
+        },
+
+        "transcript": {
+            "text": ["<p></p>"],
+            "description": ""
+        }
+    }]
+}

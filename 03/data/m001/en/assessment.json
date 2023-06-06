@@ -1,0 +1,378 @@
+{
+	"ExternalData":[
+		{
+			"Lesson_0":{
+				"questionsData":{
+					"questions_1":{
+						"qusType":"MCSS",
+						"question":"Which of the following is a component of the Control system?",
+						"Options":[
+							"T2 Sensor",
+							"Igniter",
+							"Oil tank",
+							"Fan Blade"
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;T2 Sensor&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_2":{
+						"qusType":"MCSS",
+						"question":"The primary component that controls N2 within the N2 control system is",
+						"Options":[
+							"Fuel metering system",
+							"Main fuel control governing system",
+							"Acceleration and Deceleration computer system",
+							"Idle speed system"
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Main fuel control governing system&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_3":{
+						"qusType":"MCSS",
+						"question":"Which of the following is NOT used in the N2 control system?",
+						"Options":[
+							"T2C Sensor",
+							"N2 Sensor",
+							"Oil Level/Temperature Sensor",
+							"P0 Sensor"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Oil Level/Temperature Sensor&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_4":{
+						"qusType":"MCSS",
+						"question":"The Differnetial Pressure Piston is a component of which of:",
+						"Options":[
+							"Idle Speed System",
+							"Altitude Idle Reset System",
+							"Fuel Metering System",
+							"Main Fuel Control Governing System"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Fuel Metering System&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_5":{
+						"qusType":"MCSS",
+						"question":"Which if the following is FALSE?",
+						"Options":[
+							"The fuel metering system increases and decreases fuel flow to the engine.",
+							"The fuel metering system maintains a constant differential pressure across the metering valve for stable operation.",
+							"The fuel metering system prevents compressor rotor overspeed from exceeding limits.",
+							"The fuel metering system is designed to schedule speed at idle in order to hold a constant thrust level regardless of outside air temperature."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The fuel metering system is designed to schedule speed at idle in order to hold a constant thrust level regardless of outside air temperature.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_6":{
+						"qusType":"MCSS",
+						"question":"The overspeed protection for N2 is part of the:",
+						"Options":[
+							"Fuel Metering System",
+							"Main Fuel Control Governing System",
+							"Idle Speed System",
+							"Altitude Idle Reset System"
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Fuel Metering System&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_7":{
+						"qusType":"MCSS",
+						"question":"The N2 governor is",
+						"Options":[
+							"a helium filled finger type probe installed on the aft outer portion of the splitter nose at the 7:30 position.",
+							"used to port the pressure input from the compressor casing to the P3.0 sensor in the MFC.",
+							"mounted in the aft equipment bay of the aircraft.",
+							"a hydromechanical speed governing device which controls N2 as a function of PLA input."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;a hydromechanical speed governing device which controls N2 as a function of PLA input.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_8":{
+						"qusType":"MCSS",
+						"question":"When there is an increase in PLA, or throttle advance, the N2 throttle cam will",
+						"Options":[
+							"decompress the speeder spring and place an increased force on top of the flyweights.",
+							"decompress the speeder spring and place an decreased force on top of the flyweights.",
+							"compress the speeder spring and place an increased force on top of the flyweights.",
+							"compress the speeder spring and place an decreased force on top of the flyweights."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;compress the speeder spring and place an increased force on top of the flyweights.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_9":{
+						"qusType":"MCSS",
+						"question":"Which of the following is FALSE?",
+						"Options":[
+							"The N2 governing system functions during low power conditions.",
+							"For any given PLA, there is a corresponding N2 speed irregardless of all external factors.",
+							"The N2 governing system can function through all power settings up to 100% N2 when the N1 control system is enabled.",
+							"All functions of N2 governing and overspeed protection are maintained throughout the full range of power in N2 control."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The N2 governing system can function through all power settings up to 100% N2 when the N1 control system is enabled.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_10":{
+						"qusType":"MCSS",
+						"question":"Which of the following is NOT a primary component of the Idle Speed system?",
+						"Options":[
+							"T2C sensor",
+							"Idle speed lever",
+							"N2 Governor",
+							"Idle floor stop"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;N2 Governor&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_11":{
+						"qusType":"MCSS",
+						"question":"The idle speed system",
+						"Options":[
+							"will function  during a rapid acceleration or a rapid deceleration.",
+							"is designed to schedule speed at idle in order to hold a constant thrust level regardless of outside air temperature.",
+							"maintains a constant differential pressure across the metering valve for stable operation.",
+							"prevents compressor rotor overspeed from exceeding limits."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;is designed to schedule speed at idle in order to hold a constant thrust level regardless of outside air temperature.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_12":{
+						"qusType":"MCSS",
+						"question":"The altitude idle reset system:",
+						"Options":[
+							"prevents compressor rotor overspeed from exceeding limits.",
+							"is housed in the MFC and functions in combination with the idle speed system.",
+							"is designed to schedule speed at idle in order to hold a constant thrust level regardless of outside air temperature.",
+							"maintains a constant differential pressure across the metering valve for stable operation."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;is housed in the MFC and functions in combination with the idle speed system.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_13":{
+						"qusType":"MCSS",
+						"question":"At what altitude will the altitude idle reset system function?",
+						"Options":[
+							"Above 3000 feet",
+							"Above 3600 feet",
+							"Above 4000 feet",
+							"Above 4600 feet"
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Above 4600 feet&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_14":{
+						"qusType":"MCSS",
+						"question":"The T2c sensor is mounted on the aft, outer part of the splitter nose at the",
+						"Options":[
+							"2:30 position.",
+							"7:30 position.",
+							"9:30 position.",
+							"10:30 position."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;7:30 position.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_15":{
+						"qusType":"MCSS",
+						"question":"Which of the following statements is FALSE?",
+						"Options":[
+							"The N2 input transmittes rotational movement to the flyweights in the MFC governing system.",
+							"The N2 input provides the N2 signal to the N2 servo governer.",
+							"The N2 input determines the position of the throttle cam in the MFC and effects the MFC governing system.",
+							"The N2 input provides N2 to the maximum corrected speed limiting system."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The N2 input determines the position of the throttle cam in the MFC and effects the MFC governing system.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_16":{
+						"qusType":"MCSS",
+						"question":"The purpose of the P3.0 input is:",
+						"Options":[
+							"to provide the ambient pressure to the altitude idle reset system within the MFC.",
+							"to supply the compressor discharge pressure to the MFC for use in the accel/decel computer system within the MFC.",
+							"to provide the means to bring the variable geometry system into a stable or null condition.",
+							"to control the fuel flow to the engine at higher power conditions above 79.1% N2."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;to supply the compressor discharge pressure to the MFC for use in the accel/decel computer system within the MFC.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_17":{
+						"qusType":"MCSS",
+						"question":"The purpose of the P0 input is:",
+						"Options":[
+							"to provide the ambient pressure to the altitude idle reset system within the MFC.",
+							"to supply the compressor discharge pressure to the MFC for use in the accel/decel computer system within the MFC.",
+							"to provide the means to bring the variable geometry system into a stable or null condition.",
+							"10:30 position."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;>to supply the compressor discharge pressure to the MFC for use in the accel/decel computer system within the MFC.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_18":{
+						"qusType":"MCSS",
+						"question":"The purpose of the Variable Geometry feedback is:",
+						"Options":[
+							"to provide the ambient pressure to the altitude idle reset system within the MFC.",
+							"to supply the compressor discharge pressure to the MFC for use in the accel/decel computer system within the MFC.",
+							"to provide the means to bring the variable geometry system into a stable or null condition.",
+							"to control the fuel flow to the engine at higher power conditions above 79.1% N2."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;to provide the means to bring the variable geometry system into a stable or null condition.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_19":{
+						"qusType":"MCSS",
+						"question":"The purpose of the N1 Control System is:",
+						"Options":[
+							"to provide the ambient pressure to the altitude idle reset system within the MFC.",
+							"to supply the compressor discharge pressure to the MFC for use in the accel/decel computer system within the MFC.",
+							"to provide the means to bring the variable geometry system into a stable or null condition.",
+							"to control the fuel flow to the engine at higher power conditions above 79.1% N2."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;to control the fuel flow to the engine at higher power conditions above 79.1% N2.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_20":{
+						"qusType":"MCSS",
+						"question":"The N1 control amplifier is mounted in the",
+						"Options":[
+							"forward avionics bay in the aircraft.",
+							"nose inlet cowl at the 2 o'clock position.",
+							"aft equipment bay in the aircraft.",
+							"core inlet cowl at the 9 o'clock position."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;aft equipment bay in the aircraft.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_21":{
+						"qusType":"MCSS",
+						"question":"The N1 control amplifier controls fan speed as a function of PLA and T2, when N2 is above:",
+						"Options":[
+							"78.5%",
+							"79.1%",
+							"81.5%",
+							"83.4%"
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;79.1%&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_22":{
+						"qusType":"MCSS",
+						"question":"Which of the following is NOT an engine input for the N1 control amplifier?",
+						"Options":[
+							"P0 signal",
+							"N1 signal",
+							"PLA from the MFC",
+							"Fuel metering valve rate signal from the MFC"
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;P0 signal&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_23":{
+						"qusType":"MCSS",
+						"question":"The fuel metering valve rate feedback is an indication of:",
+						"Options":[
+							"the fuel metering valve as it moves up and down in the metering valve orifice.",
+							"the amount of fuel available to the engine.",
+							"the actual value of PLA, or power setting.",
+							"the compressor rotor speed (N2)."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;the fuel metering valve as it moves up and down in the metering valve orifice.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					}
+				}
+			}
+		}
+	]
+}

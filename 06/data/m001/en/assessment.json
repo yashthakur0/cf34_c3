@@ -1,0 +1,234 @@
+{
+	"ExternalData": [
+		{
+			"Lesson_0": {
+				"questionsData": {
+					"questions_1": {
+						"qusType": "MCSS",
+						"question": "Which of the following is NOT a component of the dual ignition system installed on each engine?",
+						"Options": [
+							"Two ignition exciters",
+							"Two ignition leads",
+							"Two igniters",
+							"Two fuel nozzles"
+						],
+						"correctAnswer": "4",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Two fuel nozzles&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. Compressor variable geometry actuators and Operability bleed valve (OBV).",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_2": {
+						"qusType": "MCSS",
+						"question": "The engine ignition system",
+						"Options": [
+							"provides the necessary electrical power to start the combustion.",
+							"provides charge air for combustion in the combustion chamber.",
+							"provides the differential pressure across the heat exchanger.",
+							"provides unregulated air for carbon seal pressurization in the B-sump."
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides the necessary electrical power to start the combustion.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. compressor.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_3": {
+						"qusType": "MCSS",
+						"question": "Which of the following standard ignition condition would be used during icing conditions?",
+						"Options": [
+							"Not required",
+							"Continuous Ignition",
+							"Auto-Ignition",
+							"Alternating Ignition"
+						],
+						"correctAnswer": "2",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Continuous Ignition&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. Prevents compressor surges and stalls",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_4": {
+						"qusType": "MCSS",
+						"question": "What condition would activate auto-ignition, energizing both A and B circuits?",
+						"Options": [
+							"Normal start, air temperature below -20 deg C.",
+							"High aircraft angle of attack, disrupting airflow to engine intakes",
+							"Normal start, above 8,000 ft elevation.",
+							"Icing conditions"
+						],
+						"correctAnswer": "2",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;High aircraft angle of attack, disrupting airflow to engine intakes&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. 11 o'clock position, and a slave actuator is at the 5 o'clock position.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_5": {
+						"qusType": "MCSS",
+						"question": "The W2 (blue) harness transmits the torque motor signal from the N1 control amplifier to the",
+						"Options": [
+							"main fuel control.",
+							"ignition exciter.",
+							"lube and scavenge pump.",
+							"fuel/oil heat exchanger."
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;main fuel control.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. the head side of the VG actuator opens the vanes (high power).",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_6": {
+						"qusType": "MCSS",
+						"question": "The W3 (white) harness carries inter-turbine",
+						"Options": [
+							"temperature indication to the flight deck.",
+							"pressure indication to the flight deck.",
+							"differential pressure indication to the flight deck.",
+							"differential temperature indication to the flight deck."
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;temperature indication to the flight deck.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. VGS actuators.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_7": {
+						"qusType": "MCSS",
+						"question": "The ignition exciters are mounted on support beams at the front end of the compressor casing",
+						"Options": [
+							"at 12:00 o’clock and 2:00 o’clock positions respectively.",
+							"at 11:00 o’clock and 6:00 o’clock positions respectively.",
+							"at 10:00 o’clock and 8:00 o’clock positions respectively.",
+							"at 9:00 o’clock and 5:00 o’clock positions respectively."
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;at 12:00 o’clock and 2:00 o’clock positions respectively.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. to the forward flange of the compressor case at the 5 o'clock position.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_8": {
+						"qusType": "MCSS",
+						"question": "The igniters provide the spark to ignite the fuel that is injected into the",
+						"Options": [
+							"LPT rotor",
+							"compressor",
+							"combustion chamber",
+							"Fuel pump"
+						],
+						"correctAnswer": "3",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;combustion chamber&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. Linear Variable Differential Transducer (LVDT)",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_9": {
+						"qusType": "MCSS",
+						"question": "The ignition exciters are",
+						"Options": [
+							"capacitor discharge, high-tension type exciters which require a 115 V, 400 Hz electrical power input from the aircraft electrical system.",
+							"capacitor discharge, high-tension type exciters which require a 28 V, 60 Hz electrical power input from the aircraft electrical system.",
+							"capacitor discharge, high-tension type exciters which require a 220 V, 400 Hz electrical power input from the aircraft electrical system.",
+							"capacitor discharge, high-tension type exciters which require a 220 V, 50 Hz electrical power input from the aircraft electrical system."
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;capacitor discharge, high-tension type exciters which require a 115 V, 400 Hz electrical power input from the aircraft electrical system.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. the stage 10 customer bleed duct at the 10 o'clock position of the combustion case assembly.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_10": {
+						"qusType": "MCSS",
+						"question": "If a spark occurs while removing the ignition lead, which component would you replace?",
+						"Options": [
+							"Ignitor",
+							"Ignition lead",
+							"Ignition exciter",
+							"Ignition switch"
+						],
+						"correctAnswer": "3",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Ignition exciter&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. compressor during the engine start phase.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_11": {
+						"qusType": "MCSS",
+						"question": "The purpose of the ignition leads are to:",
+						"Options": [
+							"Provide support for W3 harness",
+							"Transmit high voltage, low-energy electrical pulses from the ignition exciters to the high voltage igniters.",
+							"Tie together both Ignition A and B systems.",
+							"Provide an eletrical ignition indication to EICAS"
+						],
+						"correctAnswer": "2",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Transmit high voltage, low-energy electrical pulses from the ignition exciters to the high voltage igniters.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. compressor during the engine start phase.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_12": {
+						"qusType": "MCSS",
+						"question": "The ignition lead for the igniter plug on the left (ten o’clock position) is",
+						"Options": [
+							"Gray.",
+							"Blue",
+							"Black",
+							"Red"
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Gray.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. compressor during the engine start phase.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_13": {
+						"qusType": "MCSS",
+						"question": "The ignition lead for the igniter plug on the right (two o’clock position) is",
+						"Options": [
+							"Gray.",
+							"Blue",
+							"Black",
+							"Red"
+						],
+						"correctAnswer": "3",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Black&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. compressor during the engine start phase.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_14": {
+						"qusType": "MCSS",
+						"question": "The two surface gap type igniter plugs are located in bosses in the combustion chamber frame",
+						"Options": [
+							"at the 2 o’clock and 10 o’clock positions.",
+							"at the 3 o’clock and 11 o’clock positions.",
+							"at the 5 o’clock and 12 o’clock positions.",
+							"at the 7 o’clock and 1 o’clock positions."
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;at the 2 o’clock and 10 o’clock positions.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. compressor during the engine start phase.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					}
+				}
+			}
+		}
+	]
+}

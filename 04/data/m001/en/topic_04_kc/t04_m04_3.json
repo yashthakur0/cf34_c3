@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCMS",
+            "pageNo": "10",
+            "question": "Identify the correct statements with reference to the ITT Indication system.",
+            "Options": [
+              "The system consists of two semi-rigid thermocouple assemblies totaling ten probes with alternating immersions.",
+              "The system consists of two semi-rigid thermocouple assemblies totaling five probes with continuous immersions.",
+              "The system consists of two semi-rigid thermocouple assemblies averaged through a junction box at the 6 o'clock position on the turbine case.",
+              "The signal is never sent to the aircraft for display on EICAS."
+            ],
+            "correctAnswer": "1,3",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The system consists of two semi-rigid thermocouple assemblies totaling ten probes with alternating immersions, The system consists of two semi-rigid thermocouple assemblies averaged through a junction box at the 6 o'clock position on the turbine case.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The system consists of two semi-rigid thermocouple assemblies totaling ten probes with alternating immersions, The system consists of two semi-rigid thermocouple assemblies averaged through a junction box at the 6 o'clock position on the turbine case.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

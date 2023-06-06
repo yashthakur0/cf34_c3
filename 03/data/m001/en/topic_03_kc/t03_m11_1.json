@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCSS",
+            "pageNo": "28",
+            "question": "What is the compressor discharge pressure?",
+            "Options": [
+              "Pressure of the gas as it exits stage 14 of the compressor.",
+              "Pressure of the gas as it enters stage 14 of the compressor.",
+              "Pressure of the gas as it enters stage 10 of the compressor.",
+              "Pressure of the gas as it exits stage 1 of the compressor."
+            ],
+            "correctAnswer": "1",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Pressure of the gas as it exits stage 14 of the compressor.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;Pressure of the gas as it exits stage 14 of the compressor.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

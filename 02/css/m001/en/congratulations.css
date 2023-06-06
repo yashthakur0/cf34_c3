@@ -1,0 +1,87 @@
+.moduleTitle.module_title {
+	display: none;
+}
+
+.pageWrapper:before {
+	background: none;
+}
+
+.fedd-box {
+	position: relative;
+	padding-bottom: 100px;
+}
+
+.subbtn_n_feed {
+	position: relative;
+}
+
+.feedclear {
+	clear: both;
+	height: 1px;
+}
+
+/* .diagram_cont1 {
+        padding-top: 20px;
+    } */
+.pageWrapper {
+	height: 100%;
+	width: 100%;
+}
+
+.shell_pageHolder {
+	bottom: 80px;
+}
+
+.congratulations {
+	padding: 30px 10px 20px;
+	background: #f3f4f5;
+	border: 1px solid #dde2e7;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	display: block;
+	margin: 0 auto;
+	width: 750px;
+	text-align: center;
+}
+
+.congratulations p {
+	font-size: 20px;
+}
+
+h3.congrats {
+	font-size: 30px;
+	padding: 10px 0;
+}
+
+.exitbox {
+	width: 730px;
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 0px;
+}
+
+.exit-power_btn {
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	border-radius: 100px;
+	width: 77px;
+	height: 77px;
+	background: #a7b8c8;
+	margin: 20px auto 10px;
+	font-size: 42px;
+	color: #fff;
+	line-height: 72px;
+	cursor: pointer;
+	-webkit-transition: all .25s ease;
+	-moz-transition: all .25s ease;
+	-o-transition: all .25s ease;
+	transition: all .25s ease;
+}
+
+.exit-power_btn:hover {
+	background: #0064bc;
+}
+
+

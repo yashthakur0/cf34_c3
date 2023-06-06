@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCMS",
+            "pageNo": "22",
+            "question": "The cause of high fan vibration can result from which of the following?",
+            "Options": [
+              "Indication system problems.",
+              "Icing conditions.",
+              "Damaged fan blades.",
+              "Fan blades that are not free to move at the retaining pin attach point."
+            ],
+            "correctAnswer": "1,2,3,4",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Indication system problems, Icing conditions, Damaged fan blades, Fan blades that are not free to move at the retaining pin attach point.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;Indication system problems, Icing conditions, Damaged fan blades, Fan blades that are not free to move at the retaining pin attach point.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

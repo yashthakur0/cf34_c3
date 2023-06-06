@@ -1,0 +1,30 @@
+<config>
+	<moduleDeploy val="m001/" />
+	<langDeploy val="en/" />
+	<isDeploy val="true" />
+	<!-- Edit only this -->
+	<module val="m002/" />
+	<lang val="en/" />
+</config>
+
+<!-- Course folder numbers
+	Prototype			: 000
+	
+	CF34-3 			: 001
+	GEnx-1B Line M...   : 002
+	GE90-115B       	: 003
+	GEnx-2B             : 004
+	CF34-3B         	: 005
+-->
+	
+	
+	
+	<!-- Lang Codes: val to be entered as "en/"
+	English (US)		: en
+	French				: fr
+	Spanish				: es
+	German				: de			
+	Italian				: it
+	Japanese			: jp
+	Korean				: ko
+	Simplified Chinese	: cn-->

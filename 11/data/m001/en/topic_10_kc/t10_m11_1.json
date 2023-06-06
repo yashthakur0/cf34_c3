@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCMS",
+            "pageNo": "18",
+            "question": "Identify the evidences of leakage from the #7 carbon seal.",
+            "Options": [
+              "Increased oil consumption.",
+              "Significant oil puddling inside the C-sump cover vent tube aft of the carbon seal.",
+              "Wetness on the outside of the exhaust centerbody around the vent opening.",
+              "Decreased oil consumption"
+            ],
+            "correctAnswer": "1,2,3",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Increased oil consumption, Significant oil puddling inside the C-sump cover vent tube aft of the carbon seal, Wetness on the outside of the exhaust centerbody around the vent opening.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;Increased oil consumption, Significant oil puddling inside the C-sump cover vent tube aft of the carbon seal, Wetness on the outside of the exhaust centerbody around the vent opening.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

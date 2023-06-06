@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCSS",
+            "pageNo": "16",
+            "question": "The fan rotor assembly supplies 85% of the total thrust of the engine as a result of",
+            "Options": [
+              "Deceleration of bypass air through the fan hub frame",
+              "Burning of bypass air through the fan rotor blades",
+              "Acceleration of bypass air through the fan exhaust nozzle",
+              "Acceleration of bypass air through the fan inlet cowl"
+            ],
+            "correctAnswer": "3",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Acceleration of bypass air through the fan exhaust nozzle&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;Acceleration of bypass air through the fan exhaust nozzle&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

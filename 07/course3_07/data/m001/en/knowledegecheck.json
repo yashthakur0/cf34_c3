@@ -1,0 +1,20 @@
+{
+    "ExternalData": [{
+		"KC_0":{
+        "questionsData": {
+				"questions_1": {
+					"qusType": "MCSS",
+					"pageNo" : "01/01",
+					"question": "An uncommanded and uncontrollable power excursion in which the throttle command is ineffective is defined as a:",
+					"Options": ["Thrust Control Malfunction","Engine Overspeed","Bump Rating","EEC Primary Mode"],
+					"correctAnswer": "1", 
+					"imagePath":"",
+					"Shuffle": "false",
+					"correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+					"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Thrust Control Malfunction&quot;</p>",
+					"partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;Thrust Control Malfunction&quot;</p>"
+				}
+			}
+		}
+    }]
+}

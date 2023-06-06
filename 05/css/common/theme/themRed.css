@@ -1,0 +1,335 @@
+header {
+    border-color: #d14334 transparent #b4a8a5 transparent;
+    border-width: 3px 0 1px 0;
+    border-style: solid;
+	background: #fff;
+    height: 78px;
+}
+
+.lines-button {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+.lines-button.minus span:before {
+    background: none repeat scroll 0 0 #d14334;
+}
+
+.lines-button.minus span:after {
+    background: none repeat scroll 0 0 #d14334;
+}
+
+.lines-button.minus span {
+    background: none repeat scroll 0 0 #d14334;
+}
+
+.headerLeft .Papa_indicator {
+    color: #d14334;
+}
+
+.CourseTitle-TT:before,
+.PageTitle-TT:before {
+    border-color: transparent transparent #d14334 transparent;
+    ;
+}
+
+
+/*======================================*/
+
+.SH.minus:before {
+    background: none repeat scroll 0 0 #d14334;
+}
+
+.SH.minus:after {
+    background: none repeat scroll 0 0 #d14334;
+}
+
+.SH.minus {
+    background: none repeat scroll 0 0 #d14334;
+}
+
+
+/*======================================*/
+
+.progress {
+    background-color: #afc71b;
+}
+
+.playButton:hover,
+.audioButton:hover {
+    color: #fff;
+    background: #d14334;
+    border: 1px solid #d14334;
+}
+
+
+/*======================================*/
+
+.exit li {
+    background: #d14334;
+    border-bottom: 2px solid #feb507;
+}
+
+
+/*======================================*/
+
+.popWraper {
+    border-top: 3px solid #d14334;
+}
+
+.popWraper .popHeader {
+    color: #d14334;
+}
+
+
+/*======================================*/
+
+.back.icon-back:hover:before {
+    color: #d14334;
+}
+
+.next.icon-next:hover:before {
+    color: #d14334;
+}
+
+
+/*======================================*/
+
+.SH.icon-papabadg {
+    color: #d14334;
+}
+
+.SH.PRogress:after {
+    background: #d14334;
+}
+
+
+/*======================================*/
+
+.glossList ul li h3 {
+    color: #d14334;
+}
+
+.Glossary .alphbet_wraper li.active {
+    background: #d14334;
+}
+
+.ShellResourseWrapper ul li:hover:before {
+    color: #d14334;
+}
+
+.ShellResourseWrapper ul li a:hover {
+    color: #d14334;
+}
+
+.Papa_indicator.icon-papabadg:before {
+    color: #d14334;
+}
+
+
+/*================
+Border, Text,  and Background
+==================================*/
+
+.Color-Chnge {
+    color: #b9141a;
+}
+
+.Solid-BG,
+.current,
+.current polygon,
+circle,
+.dotNav a.active {
+    background: #b9141a;
+    fill: #b9141a;
+    stroke: #b9141a;
+}
+
+.papaSVG text,
+.papaSVG text tspan {
+    fill: #b9141a;
+}
+
+.Bordr-Color,
+.sequencList li.ui-draggable-dragging p,
+.sequencList li.ui-draggable-dragging {
+    border-color: #b9141a;
+}
+
+.selected {
+    background: #362f2d;
+}
+
+.drdn_border {
+    border-color: #cc2339;
+}
+
+
+/* .dflt_brdr_color:hover,
+.MCQRadio,
+.MCQRadioSelect,
+.MCQCheck,
+.MCQCheckSelect,
+.dflt_brdr_color.active:after,
+.InnerGlobalPopup:after,
+.active_btn,
+.active_btn:after {
+    border-color: #b9141a;
+}
+
+.Bordr-Color:after {
+    border-color: #b9141a;
+}
+
+.dflt_brdr_color:hover .dflt_bg_color {
+    background: #b9141a;
+    color: #fff;
+}
+
+.MCQRadioSelect:after,
+.MCQCheckSelect:after {
+    background: #b9141a;
+} */
+
+.Transparant-Bg {
+    background: rgba(186, 19, 26, .45)
+}
+
+.InitButton:hover {
+    background: #d14334;
+}
+
+.icon-fullyCompleted.HActive:before,
+.icon-partialcompleted.HActive:before,
+.active_btn,
+.Clicked:before {
+    color: #b9141a;
+}
+
+
+/*================
+intro page style
+==================================*/
+
+.Top-Left:before {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 19px 19px 0 0;
+    border-color: #b9141a transparent transparent transparent;
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: block;
+}
+
+.Top-Right:before {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 19px 19px 0;
+    border-color: transparent #b9141a transparent transparent;
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: block;
+}
+
+.Bottom-Left:before {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 19px 0 0 19px;
+    border-color: transparent transparent transparent #b9141a;
+    display: block;
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+.Bottom-Right:before {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 0 19px 19px;
+    border-color: transparent transparent #b9141a transparent;
+    display: block;
+    content: "";
+    position: absolute;
+    right: 0;
+    bttom: 0;
+}
+
+
+/** ============== **/
+
+.dialogue-box:before {
+    border-color: transparent transparent #b9141a transparent;
+}
+
+
+/** ============== **/
+
+
+/** ======chatbox arrow======== **/
+
+.chat_wrap .chat_box .content_chat:after {
+    border-color: transparent #b9141a;
+}
+
+.chat_wrap .chat_box .content_chat1:after {
+    border-color: transparent #b9141a;
+}
+
+.chat_wrap .chat_box .content_chat2:after {
+    border-color: transparent #b9141a;
+}
+
+.chat_wrap .chat_box .content_chat3:after {
+    border-color: transparent #b9141a;
+}
+
+
+/** ======chatbox arrow======== **/
+
+
+/** ======Conclusion======== **/
+
+.conclusion1 {
+    background: url(../../../assets/image/common/conclusion2.png);
+    background-position: 0 center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+.conclusion2 {
+    background: url(../../../assets/image/common/conclusion1.png);
+    background-position: 0 center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+
+/** ======Conclusion======== **/
+
+
+/*from shell*/
+
+
+/* .ShellMenuWrapper ol li.Active:hover:before,
+.ShellMenuWrapper ol li.Active:hover a {
+    color: #d14334;
+} */
+
+
+/*from shell*/
+
+@media (min-width: 320px) and (max-width: 1024px) {
+    /* .ShellMenuWrapper ol li:hover:before,
+    .ShellMenuWrapper ol li a:hover,
+    .ShellMenuWrapper ol li:hover a {
+        color: #6b514b;
+    } */
+}

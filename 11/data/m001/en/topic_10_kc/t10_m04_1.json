@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCMS",
+            "pageNo": "05",
+            "question": "Which of the following are the troubleshooting resources provided by GE Aviation?",
+            "Options": [
+              "Fault Isolation section in the Engine Manual.",
+              "Field Service Engineer (FSE).",
+              "Customer Support Center.",
+              "Customer Web Center."
+            ],
+            "correctAnswer": "1,2,3,4",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Fault Isolation section in the Engine Manual, Field Service Engineer (FSE), Customer Support Center (CSC), Customer Web Center (CWC).&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;Fault Isolation section in the Engine Manual, Field Service Engineer (FSE), Customer Support Center (CSC), Customer Web Center (CWC).&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCSS",
+            "pageNo": "10",
+            "question": "Identify the incorrect statement about Main Fuel Control.",
+            "Options": [
+              "It is clamped to the aft flange of the fuel pump with a V-band clamp.",
+              "Internally consists of a number of rotating and stationary components.",
+              "A coupling shaft physically connects the MFC to the fuel pump.",
+              "Has a total of seventeen ports for fuel distribution"
+            ],
+            "correctAnswer": "4",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Has a total of seventeen ports for fuel distribution&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;Has a total of seventeen ports for fuel distribution&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

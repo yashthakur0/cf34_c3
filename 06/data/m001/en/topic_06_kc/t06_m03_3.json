@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCSS",
+            "pageNo": "08",
+            "question": "Identify the incorrect statement.",
+            "Options": [
+              "The electrical power is transmitted from the exciters through the two ignition leads to the igniter plugs.",
+              "The exciters contain EMI (electromagnetic interference) filters and dual ignition circuitry essential for the conversion of the required airframe-supplied input power into high energy sparks at the two ignitors.",
+              "Each ignition exciter has an internal bleed-down circuit that allows stored energy to pass to ground when the system is running.",
+              "If a spark occurs while removing the ignition lead, the cause could be the failure of the internal bleed-down circuit."
+            ],
+            "correctAnswer": "3",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Each ignition exciter has an internal bleed-down circuit that allows stored energy to pass to ground when the system is running.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;Each ignition exciter has an internal bleed-down circuit that allows stored energy to pass to ground when the system is running.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

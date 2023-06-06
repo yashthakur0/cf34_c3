@@ -1,0 +1,362 @@
+{
+	"ExternalData":[
+		{
+			"Lesson_0":{
+				"questionsData":{
+					"questions_1":{
+						"qusType":"MCSS",
+						"question":"Which of the following statements is true?",
+						"Options":[
+							"2 major structural frames support the engine main line bearings in B and C-sumps.",
+							"1 major structural frame supports the engine main line bearings in A-sump.",
+							"3 major structural frames support the engine main line bearings in A, B and C-sumps.",
+							"3 major structural frames support the engine main line bearings in D, E and F-sumps."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;3 major structural frames support the engine main line bearings in A, B and C-sumps.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_2":{
+						"qusType":"MCSS",
+						"question":"Which of the following statements is true for the Compressor Front Frame?",
+						"Options":[
+							"At the 3 o'clock strut, seventh stage air pressure from the seal pressure regulating valve is passed through to pressurize carbon seals No. 1 and 3.",
+							"The 3 o'clock strut allows for A-sump oil supply, a seal drain to the drain mast, and passage of the radial drive shaft.",
+							"At the 3 o'clock strut, the air vented from the oil tank and air vented from the B-sump are sent through the strut into A-sump.",
+							"The 3 o'clock strut allows the N1 speed sensor access to the rotors."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;At the 3 o'clock strut, seventh stage air pressure from the seal pressure regulating valve is passed through to pressurize carbon seals No. 1 and 3.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_3":{
+						"qusType":"MCSS",
+						"question":"The exhaust frame assembly is",
+						"Options":[
+							"in front of the HPT module.",
+							"aft of the LPT module.",
+							"immediately aft of the PTO assembly.",
+							"at the front of the compressor module."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;aft of the LPT module.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_4":{
+						"qusType":"MCSS",
+						"question":"The exhaust frame assembly",
+						"Options":[
+							"provides the structural support to the A-sump",
+							"is part of the Combustion Module",
+							"contains the No 1, 2, and 3 bearings.",
+							"provides the structural support to the C-sump."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides the structural support to the C-sump.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_5":{
+						"qusType":"MCSS",
+						"question":"Which of the following statements is FALSE?",
+						"Options":[
+							"Bearings No.1 and 3 are ball bearings which absorb both axial and radial loads, and are the thrust bearings for the N1 and N2 rotor.",
+							"In B-sump both bearings, No. 4 and 5 are roller type and support the high pressure turbine and high pressure compressor rotor.",
+							"Bearings 1, 2 and 3 are located in C-sump.",
+							"C-sump bearings No. 6 and 7 also are both roller type and support the low pressure turne rotor."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Bearings 1, 2 and 3 are located in C-sump.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_6":{
+						"qusType":"MCSS",
+						"question":"The fan module",
+						"Options":[
+							"provides approximately 15 percent of the total engine thrust.",
+							"provides approximately 85 percent of the total engine thrust.",
+							"provides the space for mixing of fuel with air.",
+							"provides the rotational force to the fan rotor."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides approximately 85 percent of the total engine thrust.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_7":{
+						"qusType":"MCSS",
+						"question":"The fan rotor assembly",
+						"Options":[
+							"supplies air for the main thrust of the engine.",
+							"supplies the rotational force to rotate the fan rotor.",
+							"provides drive to various engine accessories.",
+							"provides space for mixing of atomized fuel with air."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;supplies air for the main thrust of the engine.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_8":{
+						"qusType":"MCSS",
+						"question":"The LPT rotor",
+						"Options":[
+							"directs and accelerates air to the HPT rotor.",
+							"is used to compress the air coming in, prior to entering the combustor.",
+							"provides the space for the proper mixing of the atomized fuel with air.",
+							"provides a rotational force to the fan rotor."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides a rotational force to the fan rotor.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_9":{
+						"qusType":"MCSS",
+						"question":"The fan disk",
+						"Options":[
+							"directs and accelerates air to the HPT rotor.",
+							"is connected to the  forward face of the  forward shaft",
+							"is used to compress the air coming in, prior to entering the combustor.",
+							"provides the space for the proper mixing of the atomized fuel with air."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;is connected to the  forward face of the  forward shaft&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_10":{
+						"qusType":"MCSS",
+						"question":"The PTO assembly, driven by the compressor forward shaft, provides rotational force to drive the accessories mounted on the",
+						"Options":[
+							"turbine transition assembly.",
+							"fan rotor assembly.",
+							"accessory gearbox (AGB).",
+							"LPT rotor assembly."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;accessory gearbox (AGB).&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_11":{
+						"qusType":"MCSS",
+						"question":"The PTO assembly is",
+						"Options":[
+							"splined to the compressor forward shaft in A-sump",
+							"at the forward side of the fan rotor assembly.",
+							"aft of the compressor rotor assembly.",
+							"aft of the turbine transition assembly."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;splined to the compressor forward shaft in A-sump&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_12":{
+						"qusType":"MCSS",
+						"question":"The compressor module",
+						"Options":[
+							"provides approximately 85 percent of the total engine thrust.",
+							"consists of the Compressor front frame, Compressor rotor assembly, Compressor stator assembly and the Power takeoff assembly.",
+							"provides the space for mixing of fuel with air.",
+							"provides the rotational force to the fan rotor."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;consists of the Compressor front frame, Compressor rotor assembly, Compressor stator assembly and the Power takeoff assembly.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_13":{
+						"qusType":"MCSS",
+						"question":"The compressor front frame",
+						"Options":[
+							"28 titanium alloy fan blades attached to the fan rotor disk.",
+							"provides a casing for the compressor rotor.",
+							"provides the rotational force to the fan rotor.",
+							"provides structural support to the three bearings located within the A-sump."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides structural support to the three bearings located within the A-sump.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_14":{
+						"qusType":"MCSS",
+						"question":"The compressor rotor assembly is used to",
+						"Options":[
+							"compress the air that comes in before it enters the fan rotor.",
+							"provide the rotational force to the fan rotor.",
+							"compress the air that comes in before it enters the combustor.",
+							"provide a casing to the HPT rotor assembly."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;compress the air that comes in before it enters the combustor.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_15":{
+						"qusType":"MCSS",
+						"question":"The HPT rotor assembly drives the",
+						"Options":[
+							"compressor rotor assembly.",
+							"fan rotor assembly.",
+							"power takeoff assembly.",
+							"accessory gearbox assembly."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;compressor rotor assembly.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_16":{
+						"qusType":"MCSS",
+						"question":"The compressor rotor",
+						"Options":[
+							"provides rotational force to the fan rotor.",
+							"provides rotational force to the LPT rotor.",
+							"compresses the air and sends the compressed air to the combustion chamber",
+							"compresses the air and sends the compressed air to the fan rotor."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;compresses the air and sends the compressed air to the combustion chamber&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_17":{
+						"qusType":"MCSS",
+						"question":"The compressor stator assembly surrounds the",
+						"Options":[
+							"compressor casing assembly.",
+							"compressor rotor assembly.",
+							"compressor frame assembly.",
+							"compressor vane assembly."
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;compressor rotor assembly.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_18":{
+						"qusType":"MCSS",
+						"question":"The combustion module is",
+						"Options":[
+							"outside the combustion chamber frame.",
+							"aft of the combustion chamber frame.",
+							"in front of the combustion chamber frame.",
+							"installed between the rear compressor case flange and the transition assembly."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;installed between the rear compressor case flange and the transition assembly.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_19":{
+						"qusType":"MCSS",
+						"question":"The combustion liner",
+						"Options":[
+							"provides space for the proper mixing of atomized fuel with air.",
+							"provides space for the proper mixing of the atomized oil with air.",
+							"provides a casing for the compressor rotor.",
+							"provides the rotational force to the fan rotor."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides space for the proper mixing of atomized fuel with air.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_20":{
+						"qusType":"MCSS",
+						"question":"The stage one nozzle directs and accelerates the hot gasses from the combustion chamber to the",
+						"Options":[
+							"LPT rotor blades.",
+							"fan rotor blades.",
+							"HPT rotor blades.",
+							"compressor rotor blades"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;HPT rotor blades.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_21":{
+						"qusType":"MCSS",
+						"question":"The turbine transition assembly",
+						"Options":[
+							"provides a flowpath for exhaust gases that flow from the HPT module to the LPT module.",
+							"supports the C-sump and also serves as the main structural support for the LPT module.",
+							"accelerates the air to the HPT rotor blades.",
+							"provides bleed air for internal aircraft use."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides a flowpath for exhaust gases that flow from the HPT module to the LPT module.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_22":{
+						"qusType":"MCSS",
+						"question":"The low pressure turbine (LPT) module",
+						"Options":[
+							"provides the flowpath for exhaust gases from the HPT module to the exhaust nozzle.",
+							"provides the torque for accessories mounted on the accessory gearbox (AGB).",
+							"directs and accelerates the air to the HPT rotor blades.",
+							"directs and accelerates the air to the compressor rotor blades."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides the flowpath for exhaust gases from the HPT module to the exhaust nozzle.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					}
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<course>
+   <config>
+      <pagePath data="html/" data-en="" />
+      <mobilePrefix data="mob_" data-en="" />
+      <coureTitle data="CF34-3 General Familiarization Course" data-en="" />
+      <audioPath data="assets/audio/" data-en="" />
+      <commonaudioPath data="assets/audio/common/" data-en="" />
+      <imagePath data="assets/image/" data-en="" />
+      <videoPath data="assets/video/" data-en="" />
+      <dataPath data="data/" data-en="" />
+      <commonDataPath data="data/common/" data-en="" />
+      <scriptPath data="js/" data-en="" />
+      <cssPath data="css/" data-en="" />
+      <maindata data="main.json" data-en="" />
+      <resourcesEnable data="true" data-en="" />
+      <transcriptEnable data="true" data-en="" />
+      <learningType data="non-linear" data-en="" />
+      <commonJsPath data="js/common/templates/" data-en="" />
+   </config>
+   <structure>
+      <topic title="Troubleshooting Strategy">
+         <module title="Fault Detection Strategy">
+            <page path="t10_m01_p00.html" audio="t10_m01_p00.mp3" data="tmp.json" styles="t10_m01_p00.css" scripts="multiGIF.js" data-en="" title="Identification" />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m01_1.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 01" />
+
+         </module>
+         <module title="Types Of Faults">
+            <page path="t10_m02_p00.html" audio="t10_m02_p00.mp3" data="tmp.json" styles="t10_m02_p00.css" scripts="multiGIF.js" data-en="" title="Identification" />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m02_1.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 02" />
+         </module>
+         <module title="Observations">
+            <page path="t10_m03_p00.html" audio="t10_m03_p00.mp3" data="tmp.json" styles="t10_m03_p00.css" scripts="carousel_page.js" data-en="" title="Identification" />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m03_1.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 03" />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m03_2.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 04" />
+
+         </module>
+         <module title="Troubleshooting Resources">
+            <page path="t10_m04_p00.html" audio="t10_m04_p00.mp3" data="tmp.json" styles="t10_m04_p00.css" scripts="staticpage.js" data-en="" title="Identification" />
+            <page path="t10_m04_p01.html" audio="t10_m04_p01.mp3" data="tmp.json" styles="t10_m04_p01.css" scripts="staticpage.js" data-en="" title="Purpose" />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m04_1.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 05" />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m04_2.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 06" />
+
+         </module>
+         <module title="Troubleshooting Procedures">
+            <page path="t10_m05_p00.html" audio="t10_m05_p00.mp3" data="tmp.json" styles="t10_m05_p00.css" scripts="staticpage.js" data-en="" title="Identification" />
+            <page path="t10_m05_p01.html" audio="t10_m05_p01.mp3" data="tmp.json" styles="t10_m05_p01.css" scripts="staticpage.js" data-en="" title="Purpose" />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m05_1.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 07" />
+         </module>
+         <module title="Main Line Carbon Seal Leakage">
+            <page path="t10_m06_p00.html" audio="t10_m06_p00.mp3" data="tmp.json" styles="t10_m06_p00.css" scripts="staticpage.js" data-en="" title="Identification" />
+            <page path="t10_m06_p01.html" audio="t10_m06_p01.mp3" data="tmp.json" styles="t10_m06_p01.css" scripts="staticpage.js" data-en="" title="Purpose" />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m06_1.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 08" />
+         </module>
+         <module title="Number One Carbon Seal">
+            <page path="t10_m07_p00.html" audio="t10_m07_p00.mp3" data="tmp.json" styles="t10_m07_p00.css" scripts="nested_pop_page.js" data-en="" title="Identification" />
+            <page path="t10_m07_p01.html" audio="t10_m07_p01.mp3" data="tmp.json" styles="t10_m07_p01.css" scripts="carousel_page.js" data-en="" title="Functional Description " />
+            <page path="t10_m07_p02.html" audio="t10_m07_p02.mp3" data="tmp.json" styles="t10_m07_p02.css" scripts="staticpage.js" data-en="" title="Maintenance Practices" />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m07_1.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 09" />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m07_2.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 10" />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m07_3.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 11" />
+
+         </module>
+         <module title="Number Three Carbon Seal">
+            <page path="t10_m08_p00.html" audio="t10_m08_p00.mp3" data="tmp.json" styles="t10_m08_p00.css" scripts="nested_pop_page.js" data-en="" title="Identification" />
+            <page path="t10_m08_p01.html" audio="t10_m08_p01.mp3" data="tmp.json" styles="t10_m08_p01.css" scripts="carousel_page.js" data-en="" title="Functional Description " />
+            <page path="t10_m08_p02.html" audio="t10_m08_p02.mp3" data="tmp.json" styles="t10_m08_p02.css" scripts="staticpage.js" data-en="" title="Maintenance Practices" />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m08_1.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 12" />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m08_2.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 13" />
+
+         </module>
+         <module title="Number Four And Five Carbon Seals">
+            <page path="t10_m09_p00.html" audio="t10_m09_p00.mp3" data="tmp.json" styles="t10_m09_p00.css" scripts="nested_pop_page.js" data-en="" title="Identification" />
+            <page path="t10_m09_p01.html" audio="t10_m09_p01.mp3" data="tmp.json" styles="t10_m09_p01.css" scripts="nested_pop_page.js" data-en="" title="Functional Description " />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m09_1.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 14" />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m09_2.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 15" />
+         </module>
+         <module title="Number Six Carbon Seal">
+            <page path="t10_m10_p00.html" audio="t10_m10_p00.mp3" data="tmp.json" styles="t10_m10_p00.css" scripts="nested_pop_page.js" data-en="" title="Identification" />
+            <page path="t10_m10_p01.html" audio="t10_m10_p01.mp3" data="tmp.json" styles="t10_m10_p01.css" scripts="nested_pop_page.js" data-en="" title="Functional Description " />
+            <page path="t10_m10_p02.html" audio="t10_m10_p02.mp3" data="tmp.json" styles="t10_m10_p02.css" scripts="staticpage.js" data-en="" title="Maintenance Practices" />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m10_1.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 16" />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m10_2.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 17" />
+         </module>
+         <module title="Number Seven Carbon Seal">
+            <page path="t10_m11_p00.html" audio="t10_m11_p00.mp3" data="tmp.json" styles="t10_m11_p00.css" scripts="nested_pop_page.js" data-en="" title="Identification" />
+            <page path="t10_m11_p01.html" audio="t10_m11_p01.mp3" data="tmp.json" styles="t10_m11_p01.css" scripts="staticpage.js" data-en="" title="Functional Description " />
+            <page path="t10_m11_p02.html" audio="t10_m11_p02.mp3" data="tmp.json" styles="t10_m11_p02.css" scripts="staticpage.js" data-en="" title="Maintenance Practices" />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m11_1.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 18" />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m11_2.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 19" />
+         </module>
+         <module title="Accessary Gearbox Carbon Seal Leakage">
+            <page path="t10_m12_p00.html" audio="t10_m12_p00.mp3" data="tmp.json" styles="t10_m12_p00.css" scripts="multiGIF.js" data-en="" title="Identification" />
+            <page path="t10_m12_p01.html" audio="t10_m12_p01.mp3" data="tmp.json" styles="t10_m12_p01.css" scripts="multiGIF.js" data-en="" title="Operation" />
+            <page path="t10_m12_p02.html" audio="t10_m12_p02.mp3" data="tmp.json" styles="t10_m12_p02.css" scripts="multiGIF.js" data-en="" title="Functional Description " />
+            <page path="t10_m12_p03.html" audio="t10_m12_p03.mp3" data="tmp.json" styles="t10_m12_p03.css" scripts="multiGIF.js" data-en="" title="Maintenance Practices" />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m12_1.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 20" />
+         </module>
+         <module title="Engine Vibration">
+            <page path="t10_m13_p00.html" audio="" data="tmp.json" styles="t10_m13_p00.css" scripts="videopage.js" data-en="" title="Identification" />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m13_1.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 21" />
+         </module>
+         <module title="High Vibration Caused By The Fan (N1)">
+            <page path="t10_m14_p00.html" audio="t10_m14_p00.mp3" data="tmp.json" styles="t10_m14_p00.css" scripts="staticpage.js" data-en="" title="Identification" />
+            <page path="t10_m14_p01.html" audio="t10_m14_p01.mp3" data="tmp.json" styles="t10_m14_p01.css" scripts="staticpage.js" data-en="" title="Functional Description " />
+            <page path="t10_m14_p02.html" audio="t10_m14_p02.mp3" data="tmp.json" styles="t10_m14_p02.css" scripts="staticpage.js" data-en="" title="Maintenance Practices" />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m14_1.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 22" />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m14_2.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 23" />
+         </module>
+         <module title="High Vibration Caused By The Core (N2)">
+            <page path="t10_m15_p00.html" audio="" data="tmp.json" styles="t10_m15_p00.css" scripts="videopage.js" data-en="" title="Identification" />
+            <page path="t10_m15_p01.html" audio="t10_m15_p01.mp3" data="tmp.json" styles="t10_m15_p01.css" scripts="nested_pop_page.js" data-en="" title="Functional Description " />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m15_1.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 24" />
+         </module>
+         <module title="Control System Troubleshooting">
+            <page path="t10_m16_p00.html" audio="t10_m16_p00.mp3" data="tmp.json" styles="t10_m16_p00.css" scripts="nested_pop_page.js" data-en="" title="Identification" />
+            <page path="t10_m16_p01.html" audio="t10_m16_p01.mp3" data="tmp.json" styles="t10_m16_p01.css" scripts="multiGIF.js" data-en="" title="Functional Description " />
+            <page path="knowledegecheck.html" audio="" data="topic_10_kc/t10_m16_1.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 25" />
+         </module>
+
+         <module title="Posttest">
+            <page title="Posttest" path="posttest.html" audio="" data="assessment.json" styles="prepost.css" scripts="prepost.js" data-en="" totalQuestToLoad="10" randomize="false" displayAllQuestions="false" />
+            <page path="summary.html" audio="" data="tmp.json" styles="summary.css" scripts="summary.js" data-en="" title="Posttest Summary" />
+            <page path="congratulations.html" audio="" data="tmp.json" styles="congratulations.css" scripts="staticpage.js" data-en="" title="Congratulation" />
+         </module>
+
+      </topic>
+
+   </structure>
+</course>

@@ -1,0 +1,87 @@
+<!-- <!DOCTYPE html> -->
+<html>
+
+<head>
+    
+</head> 
+
+<body>
+    <div class="pageWrapper" id="recap">
+        <!-- Text and Image -->
+        
+         <div id="txt_open_close" class="txt_close txt_open"></div>
+        
+		 <div class="video_right_txt"> 
+		    <div class="content_scrol_box">
+                <div class="heading-video-Page-title">Operation</div>
+                <div class="video-rt-text-scroll">
+                    <p class="para-p">
+                        <ul class="list_style no-bottom-padding">
+                            <li>When the START switch is pressed and held for two seconds, the contacts in the switch close and the electric current flows from the battery to the start relay through the speed cutout switch.</li>
+                         <ul class="dashed no-bottom-padding">
+                             <li> The start relay is energized and energizes the solenoid valve assembly in the air starter valve.</li>
+                             <li> This action closes the contacts in the position indicating switch assembly in the air starter valve and sends a signal to the <span class="tooltip-pin EICAS">EICAS</span> system.</li>
+                             <li>The white-colored ENGINE START message for the relevant engine is now displayed on the <span class="tooltip-pin EICAS">EICAS</span> Secondary page.</li>
+                         </ul>
+                        </ul>
+                        <ul class="list_style no-bottom-padding">
+                            <li>The start relay also energizes the "A" or "B" ignition relay.</li>
+                            <ul class="dashed no-bottom-padding">
+                                <li>This action displays the amber-colored IGNITION message on the <span class="tooltip-pin EICAS">EICAS</span> Secondary page.</li>
+                            </ul>
+                        </ul>
+                        <ul class="list_style no-bottom-padding">
+                            <li>During and after the start cycle, the <span class="tooltip-pin EICAS">EICAS</span> Primary page displays the actual <span class="tooltip-pin N2">N2</span> and <span class="tooltip-pin ITT">ITT</span> for each of the engines.</li>
+                            <li> When the engine <span class="tooltip-pin N2">N2</span> reaches approximately 55%, the power to the start relay is removed.</li>
+                            <ul class="dashed no-bottom-padding">
+                                <li>This deenergizes the solenoid valve assembly in the air starter valve. </li>
+                                <li>This action turns off the white-colored ENGINE START message on the <span class="tooltip-pin EICAS">EICAS</span> Secondary page.</li>
+                            </ul>
+
+                        </ul>
+                       </p>
+                   
+                </div>
+			</div>
+        </div>
+		
+        				<div class="player_box_pin  bg-white">
+							<div class="common_table">
+                            	<div class="common_table_Cell" id="">
+                                	<div id="cbtCia" class="hotspot_box">                      
+                                        <img src="assets/image/m001/t05_m08_p02.png">
+                                        <div class="button button_box1" id="clickTab_1"></div>  
+                                    </div>             
+                                </div>
+                            </div>
+                            
+                         <!-- mainPopUp -->   
+                         	<div class="popup_overlay click-buttons_popups" id="clickPop_1" style="display:none">
+								<div class="close-click-popup icon-ge-close center close-pop"></div>
+								<div class="speccial-pin-relative">
+							
+									<div class="popup-section clickPop1">
+										<div class="common_table">
+											<div class="common_table_Cell">
+												<img src="assets/image/m001/t05_m08_p02_1.gif">
+											</div>
+										</div>
+									</div>
+								</div>
+                            </div>
+				
+						
+                        </div>
+						
+    </div>
+    
+    
+    
+    
+    
+    <script>
+        controller.loadAssests();
+    </script>
+</body>
+
+</html>

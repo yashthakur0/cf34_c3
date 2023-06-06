@@ -1,0 +1,330 @@
+{
+	"ExternalData": [
+		{
+			"Lesson_0": {
+				"questionsData": {
+					"questions_1": {
+						"qusType": "MCSS",
+						"question": "Which of the following is NOT a component of the Airflow System?",
+						"Options": [
+							"Variable Geometry System",
+							"A and C-sump carbon seal pressurization system",
+							"B-sump carbon seal pressurization system",
+							"N1 Sensor"
+						],
+						"correctAnswer": "4",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;N1 Sensor&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. divides into two flows.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_2": {
+						"qusType": "MCSS",
+						"question": "Total engine airflow at 100% power is",
+						"Options": [
+							"334 Pounds Per Second (PPS)",
+							"234 Pounds Per Second (PPS)",
+							"534 Pounds Per Second (PPS)",
+							"434 Pounds Per Second (PPS)"
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;334 Pounds Per Second (PPS)&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. left of the aft face of the accessory gearbox (AGB).",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_3": {
+						"qusType": "MCSS",
+						"question": "Which of the following statements is FALSE?",
+						"Options": [
+							"The primary air is used for Combustion air,",
+							"The primary air provides approximately 80% of engine thrust",
+							"The primary air is used for Aircraft Environmental Control System source",
+							"The primary air is used for Sump Sealing air source"
+						],
+						"correctAnswer": "2",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The primary air provides approximately 80% of engine thrust&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. ejector boost pump operation.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_4": {
+						"qusType": "MCSS",
+						"question": "The primary airflow",
+						"Options": [
+							"provides charge air for combustion in the combustion chamber.",
+							"provides the air for ignition cooling.",
+							"provides air that flows through the fan duct and out of the fan exhaust nozzle",
+							"provides unregulated air for accessary gearbox carbon seal pressurization."
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides charge air for combustion in the combustion chamber.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. Cools the oil and heats the fuel",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_5": {
+						"qusType": "MCSS",
+						"question": "Which of the following statements is FALSE?",
+						"Options": [
+							"Air enters the core engine and passes through the 20 stage LPC",
+							"Air enters the combustion chamber through Dome swirlers, where it is mixed with the fuel",
+							"High velocity air exits from the combustion chamber and passes through the stage one and stage two HPT",
+							"Engine exhausts contribute approx 20% of the total engine thrust"
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Air enters the core engine and passes through the 20 stage LPC&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. heats the engine fuel to prevent freezing.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_6": {
+						"qusType": "MCSS",
+						"question": "The secondary airflow",
+						"Options": [
+							"provides charge air for combustion in the combustion chamber.",
+							"provides the air for pressurizing the balance piston chamber.",
+							"provides air that flows through the fan duct and out of the fan exhaust nozzle",
+							"provides unregulated air for carbon seal pressurization in the B-sump."
+						],
+						"correctAnswer": "3",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides air that flows through the fan duct and out of the fan exhaust nozzle&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. 1 o'clock position on the compressor.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_7": {
+						"qusType": "MCSS",
+						"question": "As the secondary airflow flows through the fan nozzle, it accelerates, thus providing approximately",
+						"Options": [
+							"80 percent of the engine thrust.",
+							"25 percent of the engine thrust.",
+							"15 percent of the engine thrust.",
+							"75 percent of the engine thrust."
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;80 percent of the engine thrust.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. combustion under all operating conditions.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_8": {
+						"qusType": "MCSS",
+						"question": "Airflow through the secondary at 100% is",
+						"Options": [
+							"288 PPS.",
+							"488 PPS.",
+							"688 PPS.",
+							"888 PPS."
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;288 PPS.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. combustion chamber frame, just aft of the forward flange.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_9": {
+						"qusType": "MCSS",
+						"question": "The parasitic air system that draws air from the 10th stage is",
+						"Options": [
+							"Used to provide regulated air pressure to No. 1 and No. 3 carbon seals in the A-sump",
+							"Used to supply air and pressure to the cabin, through the Environmental Control System.",
+							"Used as a pressure source for engine nacelle anti-ice.",
+							"Used as a pressure source for operation of the thrust reverser system"
+						],
+						"correctAnswer": "2",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Used to supply air and pressure to the cabin, through the Environmental Control System.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. FMU to the fuel injectors.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_10": {
+						"qusType": "MCSS",
+						"question": "The fuel injectors atomize the metered fuel from the",
+						"Options": [
+							"FMU and direct it into the combustor.",
+							"Provides engine bleed air pressure for cabin pressurization",
+							"Supplies operating air pressure for the Thrust Reverser.",
+							"Supplies 85% of engine thrust"
+						],
+						"correctAnswer": "4",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Supplies 85% of engine thrust&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. FMU and direct it into the  combustor.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_11": {
+						"qusType": "MCSS",
+						"question": "The parasitic air system that draws air from the 14th stage is",
+						"Options": [
+							"Used to provide regulated air pressure to No. 1 and No. 3 carbon seals in the A-sump",
+							"Used to supply air and pressure to the cabin, through the Environmental Control System.",
+							"Used as a cross start source of air pressure for the opposite engine.",
+							"Used as a pressure source for operation of the thrust reverser system"
+						],
+						"correctAnswer": "4",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Used as a pressure source for operation of the thrust reverser system&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. 18",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_12": {
+						"qusType": "MCSS",
+						"question": "The parasitic air system that draws air from the 7th stage is",
+						"Options": [
+							"Used to provide regulated air pressure to No. 1 and No. 3 carbon seals in the A-sump",
+							"Used to supply air and pressure to the cabin, through the Environmental Control System.",
+							"Used as a cross start source of air pressure for the opposite engine.",
+							"Used as a pressure source for operation of the thrust reverser system"
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Used to provide regulated air pressure to No. 1 and No. 3 carbon seals in the A-sump&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. Three bolts",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_13": {
+						"qusType": "MCSS",
+						"question": "Compressor discharge air is",
+						"Options": [
+							"Used for cooling and pressurization of various internal components of the engine.",
+							"Used to provide regulated air pressure to No. 1 and No. 3 carbon seals in the A-sump",
+							"Used to supply air and pressure to the cabin, through the Environmental Control System.",
+							"Used as a cross start source of air pressure for the opposite engine."
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Used for cooling and pressurization of various internal components of the engine.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. 50 percent and higher, the PMA supplies power to the FADEC.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_14": {
+						"qusType": "MCSS",
+						"question": "One primary function of the compressor discharge air (P3.0) is to:",
+						"Options": [
+							"Provide regulated air pressure to No. 1 and No. 3 carbon seals in the A-sump",
+							"Provide cooling for the fan disk",
+							"Provides pressurized air to the combustion chamber to be mixed with fuel",
+							"Pressurize B-sump"
+						],
+						"correctAnswer": "3",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Provides pressurized air to the combustion chamber to be mixed with fuel&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. fuel flow, the OBV, the VG actuators, the engine starting, and the ignition.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_15": {
+						"qusType": "MCSS",
+						"question": "The VG actuator system controls the amount of airflow through the",
+						"Options": [
+							"low pressure compressor (LPC).",
+							"high pressure compressor (HPC).",
+							"high pressure turbine (HPT).",
+							"low pressure turbine (LPT)."
+						],
+						"correctAnswer": "2",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;high pressure compressor (HPC).&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. FADEC at N2 speeds above 50 percent during normal engine operation.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_16": {
+						"qusType": "MCSS",
+						"question": "Which of the following statements is FALSE?",
+						"Options": [
+							"Based on speed and temperature inputs a fuel pressure is applied to both VG actuators simultaneously",
+							"Pressure from the fuel control moves the actuator shafts and attached actuator rings.",
+							"The vanes are in a open position during start and low power, and rotate to a closed position, as power is increased.",
+							"The actuating rings are attached to each variable vane arm on the IGV and stages 1-5. The rings rotate, moving all vanes in each stage simultaneously."
+						],
+						"correctAnswer": "3",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The vanes are in a open position during start and low power, and rotate to a closed position, as power is increased.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. FADEC.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_17": {
+						"qusType": "MCSS",
+						"question": "The carbon seal pressure regulating valve is mounted horizontally at the",
+						"Options": [
+							"2 o'clock position on the compressor case.",
+							"9 o'clock position on the compressor case.",
+							"4 o'clock position on the compressor case.",
+							"6 o'clock position on the compressor case."
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;2 o'clock position on the compressor case.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. Temperature, Airspeed, Altitude",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_18": {
+						"qusType": "MCSS",
+						"question": "What is the function of the carbon seal pressure regulating valve?",
+						"Options": [
+							"It prevents oil leakage from the seals in B-sump by supplying high pressure air to the outer surface of the seals.",
+							"Vents B-sump to centervent.",
+							"It prevents oil leakage from the seals in A-sump and C-sump by supplying high pressure air to the outer surface of the seals.",
+							"It maintains an internal pressure in the B-sump housing."
+						],
+						"correctAnswer": "3",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;It prevents oil leakage from the seals in A-sump and C-sump by supplying high pressure air to the outer surface of the seals.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. left of the inlet cowl.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_19": {
+						"qusType": "MCSS",
+						"question": "The B-sump vent regulator valve is mounted vertically at the",
+						"Options": [
+							"3 o'clock position on the compressor case.",
+							"9 o'clock position on the compressor case.",
+							"4 o'clock position on the compressor case.",
+							"6 o'clock position on the compressor case."
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;3 o'clock position on the compressor case.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. Linear Variable Differential Transducer (LVDT)",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_20": {
+						"qusType": "MCSS",
+						"question": "The B-sump vent regulator valve",
+						"Options": [
+							"Prevents oil leakage from the seals in A-sump and C-sump by supplying high pressure air to the outer surface of the seals.",
+							"Has one air input from the seventh stage of compression and two outputs going to the A-sump and C-sump.",
+							"Maintains a designed supply pressure to the seals by the use of a piston, spring and variable orifice.",
+							"Ensures a differential pressure of approximately 30 psia is maintained across carbon seals No. 4 and No. 5"
+						],
+						"correctAnswer": "4",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Ensures a differential pressure of approximately 30 psia is maintained across carbon seals No. 4 and No. 5&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. A red button on the filter housing extends",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					}
+				}
+			}
+		}
+	]
+}

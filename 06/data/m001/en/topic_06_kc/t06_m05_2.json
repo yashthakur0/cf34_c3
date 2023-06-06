@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCMS",
+            "pageNo": "13",
+            "question": "Identify the incorrect statements with reference to Igniters.",
+            "Options": [
+              "The 10 o’clock igniter plug represents the \"A\" ignition circuit as labeled in the cockpit.",
+              "The 2 o’clock plug represents the \"B\" ignition circuit.",
+              "The 12 o’clock igniter plug represents the \"B\" ignition circuit as labeled in the cockpit.",
+              "The 2 o’clock plug represents the \"A\" ignition circuit."
+            ],
+            "correctAnswer": "1,2",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The 10 o’clock igniter plug represents the \"A\" ignition circuit as labeled in the cockpit, The 2 o’clock plug represents the \"B\" ignition circuit.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;The 10 o’clock igniter plug represents the \"A\" ignition circuit as labeled in the cockpit.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

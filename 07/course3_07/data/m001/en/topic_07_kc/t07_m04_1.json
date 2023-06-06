@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCSS",
+            "pageNo": "08",
+            "question": "Identify the correct statement with respect to Engine Air System-Parasitic Airflow.",
+            "Options": [
+              "Source from the high pressure compressor stage 7, stage 10 and stage 14 engine bleeds.",
+              "Source from the high pressure compressor stage 3, stage 9 and stage 11 engine bleeds.",
+              "Source only from the high pressure compressor at stage 9.",
+              "Source only from the high pressure compressor at stage 7"
+            ],
+            "correctAnswer": "1",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Source from the high pressure compressor stage 7, stage 10 and stage 14 engine bleeds.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;Source from the high pressure compressor stage 7, stage 10 and stage 14 engine bleeds.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

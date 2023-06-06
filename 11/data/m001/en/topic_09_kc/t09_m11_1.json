@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCMS",
+            "pageNo": "23",
+            "question": "The oil quantity sub-system consists of which of the following?",
+            "Options": [
+              "Low level sensor installed in the oil tank.",
+              "Signal conditioner in aircraft aft equipment bay.",
+              "Indication panel in flight deck.",
+              "High level sensor installed outside the oil tank."
+            ],
+            "correctAnswer": "1,2,3",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Low level sensor installed in the oil tank, Signal conditioner in aircraft aft equipment bay, Indication panel in flight deck.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;Low level sensor installed in the oil tank, Signal conditioner in aircraft aft equipment bay, Indication panel in flight deck.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

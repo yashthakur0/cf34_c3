@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<course>
+   <config>
+      <pagePath data="html/" data-en="" />
+      <mobilePrefix data="mob_" data-en="" />
+      <coureTitle data="CF34-3 General Familiarization Course" data-en="" />
+      <audioPath data="assets/audio/" data-en="" />
+      <commonaudioPath data="assets/audio/common/" data-en="" />
+      <imagePath data="assets/image/" data-en="" />
+      <videoPath data="assets/video/" data-en="" />
+      <dataPath data="data/" data-en="" />
+      <commonDataPath data="data/common/" data-en="" />
+      <scriptPath data="js/" data-en="" />
+      <cssPath data="css/" data-en="" />
+      <maindata data="main.json" data-en="" />
+      <resourcesEnable data="true" data-en="" />
+      <transcriptEnable data="true" data-en="" />
+      <learningType data="non-linear" data-en="" />
+      <commonJsPath data="js/common/templates/" data-en="" />
+   </config>
+   <structure>
+
+      <topic title="Component Identification">
+         <module title="Course">
+            <page path="t12_m01_p00.html" audio="" data="tmp.json" styles="t12_m01_p00.css" scripts="clickablepage.js" data-en="" title="Component Identification" />
+         </module>         
+      </topic>
+   </structure>
+</course>

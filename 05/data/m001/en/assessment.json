@@ -1,0 +1,186 @@
+{
+	"ExternalData":[
+		{
+			"Lesson_0":{
+				"questionsData":{
+					"questions_1":{
+						"qusType":"MCSS",
+						"question":"During engine start which of the following is a source for mechanical power?",
+						"Options":[
+							"Hydraulic Pump",
+							"Fuel Pump",
+							"Air Turbine Starter",
+							"Transfer Gearbox"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Air Turbine Starter&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Two ignition exciters",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_2":{
+						"qusType":"MCSS",
+						"question":"Which of the following is a primary component of the distribution and control subsystems?",
+						"Options":[
+							"N1 Speed Sensor",
+							"Start/ignition control panel",
+							"Accessary Gear Box (AGB)",
+							"Inlet Gearbox"
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Start/ignition control panel&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Two igniters",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_3":{
+						"qusType":"MCSS",
+						"question":"Which of the following is NOT a purpose of the distribution and control subsystems?",
+						"Options":[
+							"Initiate the starting process from the cockpit.",
+							"Supply air to the ATS at a pressure that is sufficient to turn it.",
+							"Transmit rotary motion of the ATS to the AGB.",
+							"Ensure automatic starter cutout if oil pressure does not reach min pressure before 55%."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Ensure automatic starter cutout if oil pressure does not reach min pressure before 55%.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Change the voltage to DC and send high energy impulses through the ignition leads to the igniters.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_4":{
+						"qusType":"MCSS",
+						"question":"The speed cutout switch",
+						"Options":[
+							"provides a path for the flow of 28 volt DC current from the battery to the air starter valve through the start relay",
+							"automatically terminates the flow of current to the starter valve when the engine N2 reaches a value of approximately 25%",
+							"supplies air at the required and constant pressure to the ATS.",
+							"supplies an output signal to the DCUs for the EICAS display."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provides a path for the flow of 28 volt DC current from the battery to the air starter valve through the start relay&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Two boxes on the upper left-hand side of the high pressure compressor case at the 11:00 o'clock position.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_5":{
+						"qusType":"MCSS",
+						"question":"When the START switch is pressed and held for two seconds",
+						"Options":[
+							"An AC current of 220 volts flows from the battery to the speed cutout switch and then to the start relay.",
+							"A DC current of 12 volts flows from the battery to the speed cutout switch and then to the start relay.",
+							"An AC current of 110 volts flows from the battery to the speed cutout switch and then to the start relay.",
+							"A DC current of 28 volts flows from the battery to the speed cutout switch and then to the start relay."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;A DC current of 28 volts flows from the battery to the speed cutout switch and then to the start relay.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. supply output power to the igniters.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_6":{
+						"qusType":"MCSS",
+						"question":"The air starter valve",
+						"Options":[
+							"supplies air at the required and constant pressure to the ATS.",
+							"supplies an output signal to the DCUs for the EICAS display.",
+							"provides a path for the flow of current from the battery.",
+							"provides drive to the AGB during the starting process."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;supplies air at the required and constant pressure to the ATS.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. at the 11:00 o'clock position.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_7":{
+						"qusType":"MCSS",
+						"question":"The air starter valve is",
+						"Options":[
+							"Installed on the engine between the pneumatic ducts and the AGB at 6 o’clock position.",
+							"Installed on the engine between the pneumatic ducts and the ATS at 8 o’clock position.",
+							"Installed on the engine between the pneumatic ducts and the ATS at 4 o’clock position.",
+							"Installed on the engine between the AGB and the ATS at 6 o’clock position."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Installed on the engine between the pneumatic ducts and the ATS at 4 o’clock position.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. 1 pulse per second.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_8":{
+						"qusType":"MCSS",
+						"question":"The air turbine starter sends a speed signal to the speed cutoff switch to",
+						"Options":[
+							"allow the air turbine starter to de-energize the air starter valve when N2 reaches approximately 55 percent.",
+							"allow the air turbine starter to energize the air starter valve when N2 reaches approximately 60 percent.",
+							"allow the air turbine starter to de-energize the air starter valve when N2 reaches approximately 45 percent.",
+							"allow the air turbine starter to de-energize the air starter valve when N2 reaches approximately 50 percent."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;allow the air turbine starter to de-energize the air starter valve when N2 reaches approximately 55 percent.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. at the 4:00 o'clock and 8:00 o'clock positions.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_9":{
+						"qusType":"MCSS",
+						"question":"Which of the following is the purpose of the ATS?",
+						"Options":[
+							"Prevents a speed signal being sent to the speed cutoff switch.",
+							"Provides drive to the AGB so that the rotary motion of the AGB is transferred as turning torque to the compressor forward shaft.",
+							"It sends a DC current of 28 volts from the battery to the speed cutout switch.",
+							"It indicates which ignition system is armed"
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Provides drive to the AGB so that the rotary motion of the AGB is transferred as turning torque to the compressor forward shaft.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. from the ignition exciters and down the sides of the engine to connect to the igniters at the combustion chamber frame.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_10":{
+						"qusType":"MCSS",
+						"question":"The rotating sprag clutch",
+						"Options":[
+							"Drives the clutch shaft, which rotates the starter oil pump and the output shaft assembly.",
+							"Drives the ATS through the rotating splined output shaft.",
+							"Drives the clutch shaft, which rotates the fuel filter and the output shaft assembly.",
+							"Drives the ATS through the rotating splined output valve."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Drives the clutch shaft, which rotates the starter oil pump and the output shaft assembly.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. from the ignition exciters and down the sides of the engine to connect to the igniters at the combustion chamber frame.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_11":{
+						"qusType":"MCSS",
+						"question":"At what N2 % will the start valve close and ignition will be deactivated?",
+						"Options":[
+							"25%",
+							"55%",
+							"25%, air restart only",
+							"75%"
+						],
+						"correctAnswer":"2",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;55%&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. The GO push-button switch",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					}
+				}
+			}
+		}
+	]
+}

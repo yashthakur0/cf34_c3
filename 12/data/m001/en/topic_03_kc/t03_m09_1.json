@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCMS",
+            "pageNo": "23",
+            "question": "Identify the correct statements with respect to T2C Sensor.",
+            "Options": [
+              "The T2C sensor is a helium filled finger type probe installed on the aft outer portion of the splitter nose at the 7:30 position.",
+              "The sensor sends the input of T2C to the MFC through a system of tubing.",
+              "In the MFC, the T2C servo contains a fixed area orifice and an integrated piston which interprets the input of T2C",
+              "In the MFC, the T2C servo contains a variable area orifice and a differential piston which interprets the input of T2C."
+            ],
+            "correctAnswer": "1,2,4",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The T2C sensor is a helium filled finger type probe installed on the aft outer portion of the splitter nose at the 7:30 position, The sensor sends the input of T2C to the MFC through a system of tubing, In the MFC, the T2C servo contains a variable area orifice and a differential piston which interprets the input of T2C.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;The T2C sensor is a helium filled finger type probe installed on the aft outer portion of the splitter nose at the 7:30 position, The sensor sends the input of T2C to the MFC through a system of tubing, In the MFC, the T2C servo contains a variable area orifice and a differential piston which interprets the input of T2C.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

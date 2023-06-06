@@ -1,0 +1,266 @@
+{
+	"ExternalData": [
+		{
+			"Lesson_0": {
+				"questionsData": {
+					"questions_1": {
+						"qusType": "MCSS",
+						"question": "Identify the components of the fuel distribution system?",
+						"Options": [
+							"The heat exchanger, N1 Sensor, Fuel Pump, MFC",
+							"The fuel filter, MFC, Fuel Injectors, Heat Exchanger",
+							"The fuel manifold, MFC, P3 sensor, Fuel Pump",
+							"The air injectors, Fuel manifold, Fuel flow meter, MFC"
+						],
+						"correctAnswer": "2",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The fuel filter, MFC, Fuel Injectors, Heat Exchanger&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. The accessory gearbox",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_2": {
+						"qusType": "MCSS",
+						"question": "Which of the following is NOT a function of pressurized fuel?",
+						"Options": [
+							"Increasing parassitic airflow pressure",
+							"Actuation of the VG system",
+							"Cooling of the engine oil",
+							"Motive flow for the aircraft’s fuel boost ejector pumps"
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Increasing parassitic airflow pressure&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. lube and scavenge pump.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_3": {
+						"qusType": "MCSS",
+						"question": "How many pump stages are in the fuel pump?",
+						"Options": [
+							"7",
+							"1",
+							"3",
+							"2"
+						],
+						"correctAnswer": "3",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;3&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. forward right side of the AGB.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_4": {
+						"qusType": "MCSS",
+						"question": "The fuel pump is mounted on the aft side of the",
+						"Options": [
+							"accessory gearbox (AGB).",
+							"lube and scavenge pump.",
+							"fuel/oil heat exchanger.",
+							"A-sump scavenge pump."
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;accessory gearbox (AGB).&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. A, B and C",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_5": {
+						"qusType": "MCSS",
+						"question": "The secondary main pump element in the CF34-3 engine fuel pump functions to:",
+						"Options": [
+							"provide high pressure fuel flow to the fuel control at low power settings",
+							"provide high pressure fuel flow to the fuel control at all power settings",
+							"provide motive flow back to aircraft tanks to run ejector boost pumps",
+							"increase pump inlet pressure, so fuel can be routed externally to the heat exchanger and fuel filter, then back to the pump"
+						],
+						"correctAnswer": "3",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;provide motive flow back to aircraft tanks to run ejector boost pumps&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. holds the fan rotor and the forward end of the fan shaft.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_6": {
+						"qusType": "MCSS",
+						"question": "The fuel pump provides the",
+						"Options": [
+							"N2 input signal to the main fuel control.",
+							"N1 input signal to the main fuel control.",
+							"T2 input signal to the main fuel control.",
+							"T2c input signal to the main fuel control."
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;N2 input signal to the main fuel control.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. B-sump",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_7": {
+						"qusType": "MCSS",
+						"question": "The fuel filter is mounted at",
+						"Options": [
+							"approx 11 o’clock position on the compressor casing, just aft of the lubricating oil tank.",
+							"approx 1 o’clock position on the compressor casing, just aft of the lubricating oil tank.",
+							"approx 5 o’clock position on the compressor casing, just forward of the lubricating oil tank.",
+							"approx 7 o’clock position on the compressor casing, just forward of the lubricating oil tank."
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;approx 11 o’clock position on the compressor casing, just aft of the lubricating oil tank.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. C",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_8": {
+						"qusType": "MCSS",
+						"question": "The fuel filter assembly provides the",
+						"Options": [
+							"fuel volume indication to the flight deck.",
+							"fuel pressure indication to the flight deck.",
+							"fuel temperature indication to the flight deck.",
+							"fuel quantity indication to the flight deck"
+						],
+						"correctAnswer": "3",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;fuel temperature indication to the flight deck.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. There is no indication of actual bypass",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_9": {
+						"qusType": "MCSS",
+						"question": "When the red-colored fuel bypass warning button on the fuel filter pops up, this indicates:",
+						"Options": [
+							"An impending bypass is about to occur",
+							"Fuel icing",
+							"A filter bypass has occured",
+							"Normal operation"
+						],
+						"correctAnswer": "3",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;A filter bypass has occured&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. top forward side of the AGB.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_10": {
+						"qusType": "MCSS",
+						"question": "Which of the following is true for the fuel filters supplied by Grimes Aerospace and Pall Aerospace?",
+						"Options": [
+							"The fuel bowl manufactured by one vendor will not assemble with the filter housing manufactured by the other vendor.",
+							"The fuel bowl manufactured by one vendor will assemble with the filter housing manufactured by the other vendor.",
+							"The fuel bowl manufactured by Grimes Aerospace will not assemble with the filter housing manufactured by Pall Aerospace.",
+							"The fuel bowl manufactured by Pall Aerospace will not assemble with the filter housing manufactured by Grimes Aerospace."
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The fuel bowl manufactured by one vendor will not assemble with the filter housing manufactured by the other vendor.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. Hand tightening",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_11": {
+						"qusType": "MCSS",
+						"question": "The main fuel control is installed aft of the",
+						"Options": [
+							"fuel pump.",
+							"fuel manifolds.",
+							"fuel/oil heat exchanger.",
+							"ITT indicating system."
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;fuel pump.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. lube and scavenge pump and sends filtered oil to the fuel/oil heat exchanger.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_12": {
+						"qusType": "MCSS",
+						"question": "The main fuel control supplies metered fuel to the",
+						"Options": [
+							"fuel pump.",
+							"fuel manifold.",
+							"fuel/oil heat exchanger.",
+							"servo fuel heater."
+						],
+						"correctAnswer": "2",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;fuel manifold.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. oil filter module.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_13": {
+						"qusType": "MCSS",
+						"question": "The fuel manifold consists of two separate, semi circular halves of tubing that are attached together",
+						"Options": [
+							"with C-nuts at 7 o’clock and 5 o’clock positions to form one continuous ring.",
+							"with B-nuts at 7 o’clock and 6 o’clock positions to form one continuous ring.",
+							"with A-nuts at 12 o’clock and 5 o’clock positions to form one continuous ring.",
+							"with B-nuts at 12 o’clock and 6 o’clock positions to form one continuous ring."
+						],
+						"correctAnswer": "4",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;with B-nuts at 12 o’clock and 6 o’clock positions to form one continuous ring.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. Vents the air overboard through a vent tube located on the alternator stator housing.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_14": {
+						"qusType": "MCSS",
+						"question": "How many fuel injectors are on each engine?",
+						"Options": [
+							"18",
+							"16",
+							"14",
+							"20"
+						],
+						"correctAnswer": "1",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;18&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. on the top of the AGB oil reservoir.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_15": {
+						"qusType": "MCSS",
+						"question": "Which fuel injector located near the MFC at approx 8 o’clock position on the engine, has a horizontal orientation?",
+						"Options": [
+							"No. 1 fuel injector",
+							"No. 13 fuel injector",
+							"No. 12 fuel injector",
+							"No. 10 fuel injector"
+						],
+						"correctAnswer": "2",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;No. 13 fuel injector&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. The oil pressure from the pump and the B sump pressure",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					},
+					"questions_16": {
+						"qusType": "MCSS",
+						"question": "When the fuel differential pressure between the manifold and combustion chamber:",
+						"Options": [
+							"reduces below approx 50 psid, the primary check valve closes and prevents the fuel from dripping into the combustion liner.",
+							"reduces below approx 18 psid, the primary check valve opens.",
+							"reduces below approx 20 psid, the primary check valve closes and prevents the fuel from dripping into the combustion liner.",
+							"reduces below approx 10 psid, the primary check valve opens."
+						],
+						"correctAnswer": "3",
+						"imagePath": "",
+						"correctFeedback": "<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;reduces below approx 20 psid, the primary check valve closes and prevents the fuel from dripping into the combustion liner.&quot;</p>",
+						"FirstInCorrectFeedback": "Incorrect! Try again. 5 psi pressure in the reservoir.",
+						"LastInCorrectFeedback": "Incorrect! Click Solution button."
+					}
+				}
+			}
+		}
+	]
+}

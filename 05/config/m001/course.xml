@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<course>
+   <config>
+      <pagePath data="html/" data-en="" />
+      <mobilePrefix data="mob_" data-en="" />
+      <coureTitle data="CF34-3 General Familiarization Course" data-en="" />
+      <audioPath data="assets/audio/" data-en="" />
+      <commonaudioPath data="assets/audio/common/" data-en="" />
+      <imagePath data="assets/image/" data-en="" />
+      <videoPath data="assets/video/" data-en="" />
+      <dataPath data="data/" data-en="" />
+      <commonDataPath data="data/common/" data-en="" />
+      <scriptPath data="js/" data-en="" />
+      <cssPath data="css/" data-en="" />
+      <maindata data="main.json" data-en="" />
+      <resourcesEnable data="true" data-en="" />
+      <transcriptEnable data="true" data-en="" />
+      <learningType data="non-linear" data-en="" />
+      <commonJsPath data="js/common/templates/" data-en="" />
+   </config>
+   <structure>
+
+      <topic title="Starting">
+
+         <module title="Starting System">
+            <page path="t05_m01_p00.html" audio="t05_m01_p00.mp3" data="tmp.json" styles="t05_m01_p00.css" scripts="multiGIF_nested_pop_page.js" data-en="" title="Identification" />
+            <page path="t05_m01_p01.html" audio="t05_m01_p01.mp3" data="tmp.json" styles="t05_m01_p01.css" scripts="multiGIF.js" data-en="" title="Purpose" />
+            <page path="knowledegecheck.html" audio="" data="topic_05_kc/t05_m01_1.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 01" />
+            <page path="knowledegecheck.html" audio="" data="topic_05_kc/t05_m01_2.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 02" />
+         </module>
+
+         <module title="Distribution And Control Subsystems ">
+            <page path="t05_m02_p00.html" audio="t05_m02_p00.mp3" data="tmp.json" styles="t05_m02_p00.css" scripts="multiGIF_nested_pop_page.js" data-en="" title="Identification" />
+            <page path="t05_m02_p01.html" audio="t05_m02_p01.mp3" data="tmp.json" styles="t05_m02_p01.css" scripts="multiGIF.js" data-en="" title="Purpose" />
+            <page path="knowledegecheck.html" audio="" data="topic_05_kc/t05_m02_1.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 03" />
+            <page path="knowledegecheck.html" audio="" data="topic_05_kc/t05_m02_2.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 04" />
+         </module>
+
+         <module title="Speed Cutout Switch">
+            <page path="t05_m03_p00.html" audio="t05_m03_p00.mp3" data="tmp.json" styles="t05_m03_p00.css" scripts="nested_pop_page.js" data-en="" title="Identification" />
+            <page path="t05_m03_p01.html" audio="t05_m03_p01.mp3" data="tmp.json" styles="t05_m03_p01.css" scripts="multiGIF.js" data-en="" title="Purpose" />
+            <page path="t05_m03_p02.html" audio="t05_m03_p02.mp3" data="tmp.json" styles="t05_m03_p02.css" scripts="multiGIF.js" data-en="" title="Operation" />
+            <page path="knowledegecheck.html" audio="" data="topic_05_kc/t05_m03_1.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 05" />
+            <page path="knowledegecheck.html" audio="" data="topic_05_kc/t05_m03_2.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 06" />
+         </module>
+         <module title="Air Starter Valve">
+            <page path="t05_m04_p00.html" audio="t05_m04_p00.mp3" data="tmp.json" styles="t05_m04_p00.css" scripts="nested_pop_page.js" data-en="" title="Identification" />
+            <page path="t05_m04_p01.html" audio="t05_m04_p01.mp3" data="tmp.json" styles="t05_m04_p01.css" scripts="staticpage.js" data-en="" title="Purpose" />
+            <page path="t05_m04_p02.html" audio="t05_m04_p02.mp3" data="tmp.json" styles="t05_m04_p02.css" scripts="nested_pop_page.js" data-en="" title="Operation" />
+            <page path="knowledegecheck.html" audio="" data="topic_05_kc/t05_m04_1.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 07" />
+            <page path="knowledegecheck.html" audio="" data="topic_05_kc/t05_m04_2.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 08" />
+            <page path="knowledegecheck.html" audio="" data="topic_05_kc/t05_m04_3.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 09" />
+         </module>
+
+         <module title="Air Turbine Starter (Ats)">
+            <page path="t05_m05_p00.html" audio="t05_m05_p00.mp3" data="tmp.json" styles="t05_m05_p00.css" scripts="nested_pop_page.js" data-en="" title="Identification" />
+            <page path="t05_m05_p01.html" audio="t05_m05_p01.mp3" data="tmp.json" styles="t05_m05_p01.css" scripts="multiGIF.js" data-en="" title="Purpose" />
+            <page path="t05_m05_p02.html" audio="t05_m05_p02.mp3" data="tmp.json" styles="t05_m05_p02.css" scripts="multiGIF.js" data-en="" title="Operation" />
+            <page path="knowledegecheck.html" audio="" data="topic_05_kc/t05_m05_1.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 10" />
+            <page path="knowledegecheck.html" audio="" data="topic_05_kc/t05_m05_2.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 11" />
+            <page path="knowledegecheck.html" audio="" data="topic_05_kc/t05_m05_3.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 12" />
+
+         </module>
+
+         <module title="Indicating Subsystem">
+            <page path="t05_m06_p00.html" audio="t05_m06_p00.mp3" data="tmp.json" styles="t05_m06_p00.css" scripts="nested_pop_page.js" data-en="" title="Identification" />
+            <page path="t05_m06_p01.html" audio="t05_m06_p01.mp3" data="tmp.json" styles="t05_m06_p01.css" scripts="nested_pop_page.js" data-en="" title="Purpose" />
+            <page path="knowledegecheck.html" audio="" data="topic_05_kc/t05_m06_1.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 13" />
+            <page path="knowledegecheck.html" audio="" data="topic_05_kc/t05_m06_2.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 14" />
+         </module>
+
+         <module title="Start/Ignition Control Panel">
+            <page path="t05_m07_p00.html" audio="t05_m07_p00.mp3" data="tmp.json" styles="t05_m07_p00.css" scripts="nested_pop_page.js" data-en="" title="Identification" />
+            <page path="t05_m07_p01.html" audio="t05_m07_p01.mp3" data="tmp.json" styles="t05_m07_p01.css" scripts="multiGIF.js" data-en="" title="Purpose" />
+            <page path="t05_m07_p02.html" audio="t05_m07_p02.mp3" data="tmp.json" styles="t05_m07_p02.css" scripts="nested_pop_page.js" data-en="" title="Operation" />
+            <page path="knowledegecheck.html" audio="" data="topic_05_kc/t05_m07_1.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 15" />
+            <page path="knowledegecheck.html" audio="" data="topic_05_kc/t05_m07_2.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 16" />
+            <page path="knowledegecheck.html" audio="" data="topic_05_kc/t05_m07_3.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 17" />
+         </module>
+
+
+         <module title="Eicas Primary And Secondary Pages">
+            <page path="t05_m08_p00.html" audio="t05_m08_p00.mp3" data="tmp.json" styles="t05_m08_p00.css" scripts="staticpage.js" data-en="" title="Identification" />
+            <page path="t05_m08_p01.html" audio="t05_m08_p01.mp3" data="tmp.json" styles="t05_m08_p01.css" scripts="nested_pop_page.js" data-en="" title="Purpose" />
+            <page path="t05_m08_p02.html" audio="t05_m08_p02.mp3" data="tmp.json" styles="t05_m08_p02.css" scripts="nested_pop_page.js" data-en="" title="Operation" />
+            <page path="knowledegecheck.html" audio="" data="topic_05_kc/t05_m08_1.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 18" />
+            <page path="knowledegecheck.html" audio="" data="topic_05_kc/t05_m08_2.json" styles="knowledegecheck.css" scripts="knowledegecheck.js" data-en="" title="Knowledge Check 19" />
+         </module>
+
+
+         <module title="Posttest">
+            <page title="Posttest" path="posttest.html" audio="" data="assessment.json" styles="prepost.css" scripts="prepost.js" data-en="" totalQuestToLoad="10" randomize="false" displayAllQuestions="false" />
+            <page path="summary.html" audio="" data="tmp.json" styles="summary.css" scripts="summary.js" data-en="" title="Posttest Summary" />
+            <page path="congratulations.html" audio="" data="tmp.json" styles="congratulations.css" scripts="staticpage.js" data-en="" title="Congratulation" />
+         </module>
+
+      </topic>
+
+   </structure>
+</course>

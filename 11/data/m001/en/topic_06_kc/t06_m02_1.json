@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCMS",
+            "pageNo": "04",
+            "question": "Which of the following statements are correct about W2 cable?",
+            "Options": [
+              "Power supply and N2 signal from the alternator to the N1 control amplifier.",
+              "N1 signal from the fan speed sensor to the N1 control amplifier.",
+              "Torque motor signal from the N1 control amplifier to the main fuel control.",
+              "Metering valve rate feedback signal from the MFC to the N2 control amplifier."
+            ],
+            "correctAnswer": "1,2,3",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Power supply and N2 signal from the alternator to the N1 control amplifier, N1 signal from the fan speed sensor to the N1 control amplifier, Torque motor signal from the N1 control amplifier to the main fuel control.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;Power supply and N2 signal from the alternator to the N1 control amplifier, N1 signal from the fan speed sensor to the N1 control amplifier, Torque motor signal from the N1 control amplifier to the main fuel control.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}

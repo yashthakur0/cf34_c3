@@ -1,0 +1,188 @@
+{
+	"ExternalData":[
+		{
+			"Lesson_0":{
+				"questionsData":{
+					"questions_1":{
+						"qusType":"MCSS",
+						"question":"Which of the following is NOT displayed on EICAS?",
+						"Options":[
+							"Inter turbine temperature - ITT",
+							"N2 - Compressor rotor speed",
+							"Fuel flow",
+							"Thrust Reverser Position"
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Thrust Reverser Position&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Two ignition exciters",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_2":{
+						"qusType":"MCSS",
+						"question":"What is the purpose of the engine indicating system?",
+						"Options":[
+							"Indicates engine system parameters to facilitate servicing",
+							"Automaticaly shuts down engine on an exceedance.",
+							"Provides engine system parameter feedback to flight crew and alerts any system malfunctions",
+							"Provides an air temperature to EICAS"
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Provides engine system parameter feedback to flight crew and alerts any system malfunctions&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Two igniters",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_3":{
+						"qusType":"MCSS",
+						"question":"Which of the following statements is FALSE?",
+						"Options":[
+							"The fan speed pickup sensor is also known as the N1 sensor",
+							"The N1 sensor is located at the 9 o'clock position",
+							"The N1 sensor extend through the front frame 3 o'clock strut.",
+							"The N1 sensor measures the speed of the fan rotor assembly."
+
+						
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The N1 sensor extend through the front frame 3 o'clock strut.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Change the voltage to DC and send high energy impulses through the ignition leads to the igniters.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_4":{
+						"qusType":"MCSS",
+						"question":"The fan speed pickup",
+						"Options":[
+							"Measures the speed of the fan rotor assembly",
+							"Measures the speed of the secondary airflow",
+							"Measures the speed fuel pump",
+							"Measures the speed HPC"
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Measures the speed of the fan rotor assembly&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. Two boxes on the upper left-hand side of the high pressure compressor case at the 11:00 o'clock position.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_5":{
+						"qusType":"MCSS",
+						"question":"The N1 Sensor functions by:",
+						"Options":[
+							"Rotation of N1 through gearbox rotation.",
+							"Reading the core engine speed and reducing readout for N1 on a sliding scale.",
+							"A light speed pickup.",
+							"An electromagnetic device consisting of a coil wound permanent magnet reading the rotation of the No. 2 bearing locknut."
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;An electromagnetic device consisting of a coil wound permanent magnet reading the rotation of the No. 2 bearing locknut.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. supply output power to the igniters.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_6":{
+						"qusType":"MCSS",
+						"question":"The Alternator provides:",
+						"Options":[
+							"N1 and N2 signals to the EICAS",
+							"Power to the N1 Amplifier and N1 to EICAS.",
+							"Power to the N1 Amplifier and N2 to EICAS.",
+							"Power to the N1 Amplifier only, above 50% N2."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Power to the N1 Amplifier and N2 to EICAS.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. at the 11:00 o'clock position.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_7":{
+						"qusType":"MCSS",
+						"question":"The ITT indicating system consists of",
+						"Options":[
+							"two rigid thermocouple harnesses of five probes each, with alternating immersions.",
+							"three rigid thermocouple harnesses of eight probes each, with alternating immersions.",
+							"four rigid thermocouple harnesses of five probes each, with alternating immersions.",
+							"two rigid thermocouple harnesses of eight probes each, with alternating immersions."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;two rigid thermocouple harnesses of five probes each, with alternating immersions.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again. 1 pulse per second.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_8":{
+						"qusType":"MCSS",
+						"question":"Which of the following is FALSE for ITT Indication?",
+						"Options":[
+							"It provides the flight crew with an average temperature indication of the engine's hot gas path at the inlet of the LPT.",
+							"It consists of two semi-rigid thermocouple assemblies",
+							"It has a total of twelve probes with alternating immersions averaged through a junction box at the 12 o'clock position on the turbine case.",
+							"The signal is sent to the aircraft for display on EICAS."
+						],
+						"correctAnswer":"3",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;It has a total of twelve probes with alternating immersions averaged through a junction box at the 12 o'clock position on the turbine case.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_9":{
+						"qusType":"MCSS",
+						"question":"The ITT display is on the EICAS:",
+						"Options":[
+							"primary panel in the flight deck.",
+							"secondary panel in the flight deck.",
+							"primary panel in the avionics deck.",
+							"secondary panel in the avionics deck."
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;primary panel in the flight deck.&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_10":{
+						"qusType":"MCSS",
+						"question":"How many vibration pickups are on the CF34?",
+						"Options":[
+							"1- senses both LP rotor and HP rotor vibration",
+							"2- 1 pickup each for LP rotor and HP rotor",
+							"3- 1 pickup for LP rotor and 2 pickups for HP rotor as it is more critical",
+							"4- 2 pickups for each rotor"
+						],
+						"correctAnswer":"1",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;1- senses both LP rotor and HP rotor vibration&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					},
+					"questions_11":{
+						"qusType":"MCSS",
+						"question":"N2 vibration is displayed:",
+						"Options":[
+							"On a continues sweep dial.",
+							"Anytime the engine is operating",
+							"Within the N1 dial as a digital readout",
+							"Within the N2 dial and only when there is an N2 vibration exceedance"
+						],
+						"correctAnswer":"4",
+						"imagePath":"",
+						"correctFeedback":"<p><strong>That's Correct!</strong></p><p>You have chosen the correct option.</p>",
+						"InCorrectFeedback":"<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;Within the N2 dial and only when there is an N2 vibration exceedance&quot;</p>",
+						"FirstInCorrectFeedback":"Incorrect! Try again.",
+						"LastInCorrectFeedback":"Incorrect! Click Solution button."
+					}
+				}
+			}
+		}
+	]
+}

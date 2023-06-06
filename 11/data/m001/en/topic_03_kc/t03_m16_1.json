@@ -1,0 +1,28 @@
+{
+  "ExternalData": [
+    {
+      "KC_0": {
+        "questionsData": {
+          "questions_1": {
+            "qusType": "MCSS",
+            "pageNo": "38",
+            "question": "Which of the following is incorrect with respect to Aircraft Inputs?",
+            "Options": [
+              "The purpose of the engine speed switch is to provide a means to enable or disable the N1 control system for a given engine.",
+              "The engine speed switch is an ON-OFF eletrical switch located in the cockpit engine control panel.",
+              "When the switch is OFF, the output from the N1 amplifier is interrupted.",
+              "The N1 control system establishes indirect control over N1 and cannot make sure at high power settings, N1 is varied as a function of PLA and T2."
+            ],
+            "correctAnswer": "4",
+            "imagePath": "",
+            "Shuffle": "false",
+            "correctFeedback": "<p><strong>That's Correct!</strong></p><p> You have chosen the correct option.</p>",
+            "InCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. The valid answer is &quot;The N1 control system establishes indirect control over N1 and cannot make sure at high power settings, N1 is varied as a function of PLA and T2.&quot;</p>",
+            "partialFeedback": "<p><strong>That's Incorrect!</strong></p><p>The valid answer is &quot;The N1 control system establishes indirect control over N1 and cannot make sure at high power settings, N1 is varied as a function of PLA and T2.&quot;</p>",
+            "FirstInCorrectFeedback": "<p><strong>That's Incorrect!</strong></p><p>You have chosen the wrong option. Please try again.</p>"
+          }
+        }
+      }
+    }
+  ]
+}
